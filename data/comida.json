@@ -1,0 +1,77 @@
+[
+  {
+    "question": "La comida más popular en México es...?",
+    "answers": [
+      { "text": "tacos", "points": 1000 },
+      { "text": "quesadillas", "points": 900 },
+      { "text": "enchiladas", "points": 800 },
+      { "text": "tamales", "points": 700 },
+      { "text": "pozole", "points": 600 },
+      { "text": "chiles rellenos", "points": 500 },
+      { "text": "mole", "points": 400 },
+      { "text": "guacamole", "points": 300 },
+      { "text": "tostadas", "points": 200 },
+      { "text": "burritos", "points": 100 }
+    ]
+  },
+  {
+    "question": "En el desayuno siempre como...?",
+    "answers": [
+      { "text": "huevos", "points": 1000 },
+      { "text": "pan", "points": 900 },
+      { "text": "cereal", "points": 800 },
+      { "text": "café", "points": 700 },
+      { "text": "fruta", "points": 600 },
+      { "text": "yogurt", "points": 500 },
+      { "text": "leche", "points": 400 },
+      { "text": "jugo", "points": 300 },
+      { "text": "avena", "points": 200 },
+      { "text": "tostadas", "points": 100 }
+    ]
+  },
+  {
+    "question": "La comida italiana más famosa es...?",
+    "answers": [
+      { "text": "pizza", "points": 1000 },
+      { "text": "pasta", "points": 900 },
+      { "text": "lasaña", "points": 800 },
+      { "text": "espagueti", "points": 700 },
+      { "text": "ravioli", "points": 600 },
+      { "text": "risotto", "points": 500 },
+      { "text": "gnocchi", "points": 400 },
+      { "text": "tiramisu", "points": 300 },
+      { "text": "gelato", "points": 200 },
+      { "text": "minestrone", "points": 100 }
+    ]
+  },
+  {
+    "question": "Los postres más ricos son...?",
+    "answers": [
+      { "text": "chocolate", "points": 1000 },
+      { "text": "helado", "points": 900 },
+      { "text": "pastel", "points": 800 },
+      { "text": "flan", "points": 700 },
+      { "text": "galletas", "points": 600 },
+      { "text": "cheesecake", "points": 500 },
+      { "text": "brownies", "points": 400 },
+      { "text": "tiramisu", "points": 300 },
+      { "text": "dulce de leche", "points": 200 },
+      { "text": "tres leches", "points": 100 }
+    ]
+  },
+  {
+    "question": "En una dieta no puedes comer...?",
+    "answers": [
+      { "text": "azúcar", "points": 1000 },
+      { "text": "grasa", "points": 900 },
+      { "text": "carbohidratos", "points": 800 },
+      { "text": "dulces", "points": 700 },
+      { "text": "pan", "points": 600 },
+      { "text": "pizza", "points": 500 },
+      { "text": "hamburguesas", "points": 400 },
+      { "text": "papas fritas", "points": 300 },
+      { "text": "refrescos", "points": 200 },
+      { "text": "alcohol", "points": 100 }
+    ]
+  }
+]

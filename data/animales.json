@@ -1,0 +1,77 @@
+[
+  {
+    "question": "¿Por qué los gatos...?",
+    "answers": [
+      { "text": "duermen tanto", "points": 1000 },
+      { "text": "ronronean", "points": 900 },
+      { "text": "caen siempre de pie", "points": 800 },
+      { "text": "tienen 7 vidas", "points": 700 },
+      { "text": "araña", "points": 600 },
+      { "text": "odian el agua", "points": 500 },
+      { "text": "maúllan", "points": 400 },
+      { "text": "ven en la oscuridad", "points": 300 },
+      { "text": "son independientes", "points": 200 },
+      { "text": "juegan con ratones", "points": 100 }
+    ]
+  },
+  {
+    "question": "¿Por qué los perros...?",
+    "answers": [
+      { "text": "ladran", "points": 1000 },
+      { "text": "son fieles", "points": 900 },
+      { "text": "mueven la cola", "points": 800 },
+      { "text": "olfatean todo", "points": 700 },
+      { "text": "persiguen la cola", "points": 600 },
+      { "text": "cavan hoyos", "points": 500 },
+      { "text": "lamen la cara", "points": 400 },
+      { "text": "duermen en el suelo", "points": 300 },
+      { "text": "comen tan rápido", "points": 200 },
+      { "text": "jadean", "points": 100 }
+    ]
+  },
+  {
+    "question": "Los animales más peligrosos son...?",
+    "answers": [
+      { "text": "tiburones", "points": 1000 },
+      { "text": "leones", "points": 900 },
+      { "text": "serpientes", "points": 800 },
+      { "text": "cocodrilos", "points": 700 },
+      { "text": "osos", "points": 600 },
+      { "text": "lobos", "points": 500 },
+      { "text": "arañas", "points": 400 },
+      { "text": "escorpiones", "points": 300 },
+      { "text": "hipopótamos", "points": 200 },
+      { "text": "mosquitos", "points": 100 }
+    ]
+  },
+  {
+    "question": "En el zoológico se puede ver...?",
+    "answers": [
+      { "text": "elefantes", "points": 1000 },
+      { "text": "monos", "points": 900 },
+      { "text": "jirafas", "points": 800 },
+      { "text": "tigres", "points": 700 },
+      { "text": "pandas", "points": 600 },
+      { "text": "pingüinos", "points": 500 },
+      { "text": "cebras", "points": 400 },
+      { "text": "osos", "points": 300 },
+      { "text": "leones marinos", "points": 200 },
+      { "text": "flamencos", "points": 100 }
+    ]
+  },
+  {
+    "question": "Los animales de la granja son...?",
+    "answers": [
+      { "text": "vacas", "points": 1000 },
+      { "text": "cerdos", "points": 900 },
+      { "text": "gallinas", "points": 800 },
+      { "text": "caballos", "points": 700 },
+      { "text": "ovejas", "points": 600 },
+      { "text": "cabras", "points": 500 },
+      { "text": "patos", "points": 400 },
+      { "text": "gallos", "points": 300 },
+      { "text": "burros", "points": 200 },
+      { "text": "conejos", "points": 100 }
+    ]
+  }
+]

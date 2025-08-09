@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Feud Español</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Google Feud Español</h1>
+            <div class="game-info">
+                <div class="score">Puntuación: <span id="score">0</span></div>
+                <div class="round">Ronda: <span id="round">1</span>/10</div>
+                <div class="guesses">Intentos: <span id="guesses">4</span></div>
+            </div>
+        </header>
+
+        <div class="game-screen" id="gameScreen">
+            <div class="category-selection" id="categorySelection">
+                <h2>Selecciona una categoría</h2>
+                <div class="categories">
+                    <button class="category-btn" data-category="cultura">Cultura</button>
+                    <button class="category-btn" data-category="personas">Personas</button>
+                    <button class="category-btn" data-category="nombres">Nombres</button>
+                    <button class="category-btn" data-category="preguntas">Preguntas</button>
+                    <button class="category-btn" data-category="animales">Animales</button>
+                    <button class="category-btn" data-category="entretenimiento">Entretenimiento</button>
+                    <button class="category-btn" data-category="comida">Comida</button>
+                </div>
+            </div>
+
+            <div class="game-play" id="gamePlay" style="display: none;">
+                <div class="question-container">
+                    <h2 class="question" id="question">¿Cómo se dice...?</h2>
+                </div>
+
+                <div class="input-container">
+                    <input type="text" id="guessInput" placeholder="Escribe tu respuesta aquí..." autocomplete="off">
+                    <button id="submitGuess">Enviar</button>
+                </div>
+
+                <div class="answers-container">
+                    <div class="answers-grid" id="answersGrid">
+                        <!-- Las respuestas se generarán dinámicamente -->
+                    </div>
+                </div>
+
+                <div class="game-controls">
+                    <button id="nextRound" style="display: none;">Siguiente Ronda</button>
+                    <button id="newGame" style="display: none;">Nuevo Juego</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="game-over" id="gameOver" style="display: none;">
+            <h2>¡Juego Terminado!</h2>
+            <div class="final-score">Puntuación Final: <span id="finalScore">0</span></div>
+            <button id="playAgain">Jugar de Nuevo</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

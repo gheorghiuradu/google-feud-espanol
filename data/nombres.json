@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Nombres más populares para niños...?",
+    "answers": [
+      { "text": "santiago", "points": 1000 },
+      { "text": "mateo", "points": 900 },
+      { "text": "diego", "points": 800 },
+      { "text": "alejandro", "points": 700 },
+      { "text": "daniel", "points": 600 },
+      { "text": "sebastián", "points": 500 },
+      { "text": "andrés", "points": 400 },
+      { "text": "carlos", "points": 300 },
+      { "text": "david", "points": 200 },
+      { "text": "miguel", "points": 100 }
+    ]
+  },
+  {
+    "question": "Nombres más populares para niñas...?",
+    "answers": [
+      { "text": "sofía", "points": 1000 },
+      { "text": "maría", "points": 900 },
+      { "text": "valentina", "points": 800 },
+      { "text": "isabella", "points": 700 },
+      { "text": "camila", "points": 600 },
+      { "text": "valeria", "points": 500 },
+      { "text": "regina", "points": 400 },
+      { "text": "daniela", "points": 300 },
+      { "text": "martina", "points": 200 },
+      { "text": "paula", "points": 100 }
+    ]
+  },
+  {
+    "question": "Apellidos más comunes en España...?",
+    "answers": [
+      { "text": "garcía", "points": 1000 },
+      { "text": "rodríguez", "points": 900 },
+      { "text": "gonzález", "points": 800 },
+      { "text": "fernández", "points": 700 },
+      { "text": "lópez", "points": 600 },
+      { "text": "martínez", "points": 500 },
+      { "text": "sánchez", "points": 400 },
+      { "text": "pérez", "points": 300 },
+      { "text": "gómez", "points": 200 },
+      { "text": "martín", "points": 100 }
+    ]
+  },
+  {
+    "question": "Nombres de santos populares...?",
+    "answers": [
+      { "text": "josé", "points": 1000 },
+      { "text": "juan", "points": 900 },
+      { "text": "antonio", "points": 800 },
+      { "text": "francisco", "points": 700 },
+      { "text": "pedro", "points": 600 },
+      { "text": "manuel", "points": 500 },
+      { "text": "pablo", "points": 400 },
+      { "text": "luis", "points": 300 },
+      { "text": "rafael", "points": 200 },
+      { "text": "fernando", "points": 100 }
+    ]
+  },
+  {
+    "question": "Nombres que terminan en 'a'...?",
+    "answers": [
+      { "text": "ana", "points": 1000 },
+      { "text": "elena", "points": 900 },
+      { "text": "laura", "points": 800 },
+      { "text": "cristina", "points": 700 },
+      { "text": "patricia", "points": 600 },
+      { "text": "andrea", "points": 500 },
+      { "text": "carolina", "points": 400 },
+      { "text": "claudia", "points": 300 },
+      { "text": "gloria", "points": 200 },
+      { "text": "teresa", "points": 100 }
+    ]
+  }
+]
