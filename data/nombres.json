@@ -2,76 +2,76 @@
   {
     "question": "Nombres más populares para niños...?",
     "answers": [
-      { "text": "santiago", "points": 1000 },
-      { "text": "mateo", "points": 900 },
-      { "text": "diego", "points": 800 },
-      { "text": "alejandro", "points": 700 },
-      { "text": "daniel", "points": 600 },
-      { "text": "sebastián", "points": 500 },
-      { "text": "andrés", "points": 400 },
-      { "text": "carlos", "points": 300 },
-      { "text": "david", "points": 200 },
-      { "text": "miguel", "points": 100 }
+      { "text": "santiago", "rank": 1 },
+      { "text": "mateo", "rank": 2 },
+      { "text": "diego", "rank": 3 },
+      { "text": "alejandro", "rank": 4 },
+      { "text": "daniel", "rank": 5 },
+      { "text": "sebastián", "rank": 6 },
+      { "text": "andrés", "rank": 7 },
+      { "text": "carlos", "rank": 8 },
+      { "text": "david", "rank": 9 },
+      { "text": "miguel", "rank": 10 }
     ]
   },
   {
     "question": "Nombres más populares para niñas...?",
     "answers": [
-      { "text": "sofía", "points": 1000 },
-      { "text": "maría", "points": 900 },
-      { "text": "valentina", "points": 800 },
-      { "text": "isabella", "points": 700 },
-      { "text": "camila", "points": 600 },
-      { "text": "valeria", "points": 500 },
-      { "text": "regina", "points": 400 },
-      { "text": "daniela", "points": 300 },
-      { "text": "martina", "points": 200 },
-      { "text": "paula", "points": 100 }
+      { "text": "sofía", "rank": 1 },
+      { "text": "maría", "rank": 2 },
+      { "text": "valentina", "rank": 3 },
+      { "text": "isabella", "rank": 4 },
+      { "text": "camila", "rank": 5 },
+      { "text": "valeria", "rank": 6 },
+      { "text": "regina", "rank": 7 },
+      { "text": "daniela", "rank": 8 },
+      { "text": "martina", "rank": 9 },
+      { "text": "paula", "rank": 10 }
     ]
   },
   {
     "question": "Apellidos más comunes en España...?",
     "answers": [
-      { "text": "garcía", "points": 1000 },
-      { "text": "rodríguez", "points": 900 },
-      { "text": "gonzález", "points": 800 },
-      { "text": "fernández", "points": 700 },
-      { "text": "lópez", "points": 600 },
-      { "text": "martínez", "points": 500 },
-      { "text": "sánchez", "points": 400 },
-      { "text": "pérez", "points": 300 },
-      { "text": "gómez", "points": 200 },
-      { "text": "martín", "points": 100 }
+      { "text": "garcía", "rank": 1 },
+      { "text": "rodríguez", "rank": 2 },
+      { "text": "gonzález", "rank": 3 },
+      { "text": "fernández", "rank": 4 },
+      { "text": "lópez", "rank": 5 },
+      { "text": "martínez", "rank": 6 },
+      { "text": "sánchez", "rank": 7 },
+      { "text": "pérez", "rank": 8 },
+      { "text": "gómez", "rank": 9 },
+      { "text": "martín", "rank": 10 }
     ]
   },
   {
     "question": "Nombres de santos populares...?",
     "answers": [
-      { "text": "josé", "points": 1000 },
-      { "text": "juan", "points": 900 },
-      { "text": "antonio", "points": 800 },
-      { "text": "francisco", "points": 700 },
-      { "text": "pedro", "points": 600 },
-      { "text": "manuel", "points": 500 },
-      { "text": "pablo", "points": 400 },
-      { "text": "luis", "points": 300 },
-      { "text": "rafael", "points": 200 },
-      { "text": "fernando", "points": 100 }
+      { "text": "josé", "rank": 1 },
+      { "text": "juan", "rank": 2 },
+      { "text": "antonio", "rank": 3 },
+      { "text": "francisco", "rank": 4 },
+      { "text": "pedro", "rank": 5 },
+      { "text": "manuel", "rank": 6 },
+      { "text": "pablo", "rank": 7 },
+      { "text": "luis", "rank": 8 },
+      { "text": "rafael", "rank": 9 },
+      { "text": "fernando", "rank": 10 }
     ]
   },
   {
     "question": "Nombres que terminan en 'a'...?",
     "answers": [
-      { "text": "ana", "points": 1000 },
-      { "text": "elena", "points": 900 },
-      { "text": "laura", "points": 800 },
-      { "text": "cristina", "points": 700 },
-      { "text": "patricia", "points": 600 },
-      { "text": "andrea", "points": 500 },
-      { "text": "carolina", "points": 400 },
-      { "text": "claudia", "points": 300 },
-      { "text": "gloria", "points": 200 },
-      { "text": "teresa", "points": 100 }
+      { "text": "ana", "rank": 1 },
+      { "text": "elena", "rank": 2 },
+      { "text": "laura", "rank": 3 },
+      { "text": "cristina", "rank": 4 },
+      { "text": "patricia", "rank": 5 },
+      { "text": "andrea", "rank": 6 },
+      { "text": "carolina", "rank": 7 },
+      { "text": "claudia", "rank": 8 },
+      { "text": "gloria", "rank": 9 },
+      { "text": "teresa", "rank": 10 }
     ]
   }
 ]

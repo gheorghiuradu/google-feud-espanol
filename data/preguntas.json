@@ -2,76 +2,76 @@
   {
     "question": "¿Qué es lo primero que haces cuando...?",
     "answers": [
-      { "text": "te despiertas", "points": 1000 },
-      { "text": "llegas a casa", "points": 900 },
-      { "text": "tienes hambre", "points": 800 },
-      { "text": "estás aburrido", "points": 700 },
-      { "text": "llueve", "points": 600 },
-      { "text": "te enamoras", "points": 500 },
-      { "text": "ganas dinero", "points": 400 },
-      { "text": "tienes miedo", "points": 300 },
-      { "text": "estás triste", "points": 200 },
-      { "text": "te enfermas", "points": 100 }
+      { "text": "te despiertas", "rank": 1 },
+      { "text": "llegas a casa", "rank": 2 },
+      { "text": "tienes hambre", "rank": 3 },
+      { "text": "estás aburrido", "rank": 4 },
+      { "text": "llueve", "rank": 5 },
+      { "text": "te enamoras", "rank": 6 },
+      { "text": "ganas dinero", "rank": 7 },
+      { "text": "tienes miedo", "rank": 8 },
+      { "text": "estás triste", "rank": 9 },
+      { "text": "te enfermas", "rank": 10 }
     ]
   },
   {
     "question": "¿Por qué la gente...?",
     "answers": [
-      { "text": "miente", "points": 1000 },
-      { "text": "trabaja", "points": 900 },
-      { "text": "se casa", "points": 800 },
-      { "text": "estudia", "points": 700 },
-      { "text": "viaja", "points": 600 },
-      { "text": "hace ejercicio", "points": 500 },
-      { "text": "ahorra dinero", "points": 400 },
-      { "text": "tiene hijos", "points": 300 },
-      { "text": "se divorcia", "points": 200 },
-      { "text": "hace dieta", "points": 100 }
+      { "text": "miente", "rank": 1 },
+      { "text": "trabaja", "rank": 2 },
+      { "text": "se casa", "rank": 3 },
+      { "text": "estudia", "rank": 4 },
+      { "text": "viaja", "rank": 5 },
+      { "text": "hace ejercicio", "rank": 6 },
+      { "text": "ahorra dinero", "rank": 7 },
+      { "text": "tiene hijos", "rank": 8 },
+      { "text": "se divorcia", "rank": 9 },
+      { "text": "hace dieta", "rank": 10 }
     ]
   },
   {
     "question": "¿Cómo puedo...?",
     "answers": [
-      { "text": "ganar dinero", "points": 1000 },
-      { "text": "ser feliz", "points": 900 },
-      { "text": "bajar de peso", "points": 800 },
-      { "text": "encontrar trabajo", "points": 700 },
-      { "text": "enamorarme", "points": 600 },
-      { "text": "estudiar mejor", "points": 500 },
-      { "text": "dormir bien", "points": 400 },
-      { "text": "hacer amigos", "points": 300 },
-      { "text": "ser exitoso", "points": 200 },
-      { "text": "cocinar", "points": 100 }
+      { "text": "ganar dinero", "rank": 1 },
+      { "text": "ser feliz", "rank": 2 },
+      { "text": "bajar de peso", "rank": 3 },
+      { "text": "encontrar trabajo", "rank": 4 },
+      { "text": "enamorarme", "rank": 5 },
+      { "text": "estudiar mejor", "rank": 6 },
+      { "text": "dormir bien", "rank": 7 },
+      { "text": "hacer amigos", "rank": 8 },
+      { "text": "ser exitoso", "rank": 9 },
+      { "text": "cocinar", "rank": 10 }
     ]
   },
   {
     "question": "¿Dónde puedo comprar...?",
     "answers": [
-      { "text": "comida", "points": 1000 },
-      { "text": "ropa", "points": 900 },
-      { "text": "libros", "points": 800 },
-      { "text": "medicinas", "points": 700 },
-      { "text": "flores", "points": 600 },
-      { "text": "zapatos", "points": 500 },
-      { "text": "muebles", "points": 400 },
-      { "text": "celulares", "points": 300 },
-      { "text": "juguetes", "points": 200 },
-      { "text": "carros", "points": 100 }
+      { "text": "comida", "rank": 1 },
+      { "text": "ropa", "rank": 2 },
+      { "text": "libros", "rank": 3 },
+      { "text": "medicinas", "rank": 4 },
+      { "text": "flores", "rank": 5 },
+      { "text": "zapatos", "rank": 6 },
+      { "text": "muebles", "rank": 7 },
+      { "text": "celulares", "rank": 8 },
+      { "text": "juguetes", "rank": 9 },
+      { "text": "carros", "rank": 10 }
     ]
   },
   {
     "question": "¿Cuándo es mejor...?",
     "answers": [
-      { "text": "casarse", "points": 1000 },
-      { "text": "tener hijos", "points": 900 },
-      { "text": "estudiar", "points": 800 },
-      { "text": "viajar", "points": 700 },
-      { "text": "hacer ejercicio", "points": 600 },
-      { "text": "comprar una casa", "points": 500 },
-      { "text": "cambiar de trabajo", "points": 400 },
-      { "text": "jubilarse", "points": 300 },
-      { "text": "empezar un negocio", "points": 200 },
-      { "text": "mudarse", "points": 100 }
+      { "text": "casarse", "rank": 1 },
+      { "text": "tener hijos", "rank": 2 },
+      { "text": "estudiar", "rank": 3 },
+      { "text": "viajar", "rank": 4 },
+      { "text": "hacer ejercicio", "rank": 5 },
+      { "text": "comprar una casa", "rank": 6 },
+      { "text": "cambiar de trabajo", "rank": 7 },
+      { "text": "jubilarse", "rank": 8 },
+      { "text": "empezar un negocio", "rank": 9 },
+      { "text": "mudarse", "rank": 10 }
     ]
   }
 ]

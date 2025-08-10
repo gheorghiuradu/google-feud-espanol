@@ -2,76 +2,76 @@
   {
     "question": "¿Por qué España es famosa por...?",
     "answers": [
-      { "text": "la paella", "points": 1000 },
-      { "text": "el flamenco", "points": 900 },
-      { "text": "los toros", "points": 800 },
-      { "text": "el fútbol", "points": 700 },
-      { "text": "las playas", "points": 600 },
-      { "text": "el jamón", "points": 500 },
-      { "text": "el arte", "points": 400 },
-      { "text": "la siesta", "points": 300 },
-      { "text": "la sangría", "points": 200 },
-      { "text": "las fiestas", "points": 100 }
+      { "text": "la paella", "rank": 1 },
+      { "text": "el flamenco", "rank": 2 },
+      { "text": "los toros", "rank": 3 },
+      { "text": "el fútbol", "rank": 4 },
+      { "text": "las playas", "rank": 5 },
+      { "text": "el jamón", "rank": 6 },
+      { "text": "el arte", "rank": 7 },
+      { "text": "la siesta", "rank": 8 },
+      { "text": "la sangría", "rank": 9 },
+      { "text": "las fiestas", "rank": 10 }
     ]
   },
   {
     "question": "En México celebran...?",
     "answers": [
-      { "text": "día de los muertos", "points": 1000 },
-      { "text": "cinco de mayo", "points": 900 },
-      { "text": "día de la independencia", "points": 800 },
-      { "text": "navidad", "points": 700 },
-      { "text": "año nuevo", "points": 600 },
-      { "text": "día de la madre", "points": 500 },
-      { "text": "semana santa", "points": 400 },
-      { "text": "carnaval", "points": 300 },
-      { "text": "día del niño", "points": 200 },
-      { "text": "día del padre", "points": 100 }
+      { "text": "día de los muertos", "rank": 1 },
+      { "text": "cinco de mayo", "rank": 2 },
+      { "text": "día de la independencia", "rank": 3 },
+      { "text": "navidad", "rank": 4 },
+      { "text": "año nuevo", "rank": 5 },
+      { "text": "día de la madre", "rank": 6 },
+      { "text": "semana santa", "rank": 7 },
+      { "text": "carnaval", "rank": 8 },
+      { "text": "día del niño", "rank": 9 },
+      { "text": "día del padre", "rank": 10 }
     ]
   },
   {
     "question": "En Argentina es típico comer...?",
     "answers": [
-      { "text": "asado", "points": 1000 },
-      { "text": "empanadas", "points": 900 },
-      { "text": "milanesas", "points": 800 },
-      { "text": "choripán", "points": 700 },
-      { "text": "mate", "points": 600 },
-      { "text": "dulce de leche", "points": 500 },
-      { "text": "locro", "points": 400 },
-      { "text": "alfajores", "points": 300 },
-      { "text": "pizza", "points": 200 },
-      { "text": "chimichurri", "points": 100 }
+      { "text": "asado", "rank": 1 },
+      { "text": "empanadas", "rank": 2 },
+      { "text": "milanesas", "rank": 3 },
+      { "text": "choripán", "rank": 4 },
+      { "text": "mate", "rank": 5 },
+      { "text": "dulce de leche", "rank": 6 },
+      { "text": "locro", "rank": 7 },
+      { "text": "alfajores", "rank": 8 },
+      { "text": "pizza", "rank": 9 },
+      { "text": "chimichurri", "rank": 10 }
     ]
   },
   {
     "question": "Los latinos son conocidos por ser...?",
     "answers": [
-      { "text": "cálidos", "points": 1000 },
-      { "text": "familiares", "points": 900 },
-      { "text": "alegres", "points": 800 },
-      { "text": "hospitalarios", "points": 700 },
-      { "text": "trabajadores", "points": 600 },
-      { "text": "apasionados", "points": 500 },
-      { "text": "expresivos", "points": 400 },
-      { "text": "unidos", "points": 300 },
-      { "text": "festivos", "points": 200 },
-      { "text": "generosos", "points": 100 }
+      { "text": "cálidos", "rank": 1 },
+      { "text": "familiares", "rank": 2 },
+      { "text": "alegres", "rank": 3 },
+      { "text": "hospitalarios", "rank": 4 },
+      { "text": "trabajadores", "rank": 5 },
+      { "text": "apasionados", "rank": 6 },
+      { "text": "expresivos", "rank": 7 },
+      { "text": "unidos", "rank": 8 },
+      { "text": "festivos", "rank": 9 },
+      { "text": "generosos", "rank": 10 }
     ]
   },
   {
     "question": "En Perú es famoso...?",
     "answers": [
-      { "text": "machu picchu", "points": 1000 },
-      { "text": "ceviche", "points": 900 },
-      { "text": "los incas", "points": 800 },
-      { "text": "cusco", "points": 700 },
-      { "text": "alpacas", "points": 600 },
-      { "text": "quinoa", "points": 500 },
-      { "text": "nazca", "points": 400 },
-      { "text": "lima", "points": 300 },
-      { "text": "pisco", "points": 200 },
-      { "text": "llamas", "points": 100 }
+      { "text": "machu picchu", "rank": 1 },
+      { "text": "ceviche", "rank": 2 },
+      { "text": "los incas", "rank": 3 },
+      { "text": "cusco", "rank": 4 },
+      { "text": "alpacas", "rank": 5 },
+      { "text": "quinoa", "rank": 6 },
+      { "text": "nazca", "rank": 7 },
+      { "text": "lima", "rank": 8 },
+      { "text": "pisco", "rank": 9 },
+      { "text": "llamas", "rank": 10 }
     ]
   }
 ]

@@ -2,76 +2,76 @@
   {
     "question": "Mi novio es muy...?",
     "answers": [
-      { "text": "guapo", "points": 1000 },
-      { "text": "cariñoso", "points": 900 },
-      { "text": "celoso", "points": 800 },
-      { "text": "divertido", "points": 700 },
-      { "text": "inteligente", "points": 600 },
-      { "text": "alto", "points": 500 },
-      { "text": "romántico", "points": 400 },
-      { "text": "trabajador", "points": 300 },
-      { "text": "gracioso", "points": 200 },
-      { "text": "fiel", "points": 100 }
+      { "text": "guapo", "rank": 1 },
+      { "text": "cariñoso", "rank": 2 },
+      { "text": "celoso", "rank": 3 },
+      { "text": "divertido", "rank": 4 },
+      { "text": "inteligente", "rank": 5 },
+      { "text": "alto", "rank": 6 },
+      { "text": "romántico", "rank": 7 },
+      { "text": "trabajador", "rank": 8 },
+      { "text": "gracioso", "rank": 9 },
+      { "text": "fiel", "rank": 10 }
     ]
   },
   {
     "question": "Mi jefe siempre está...?",
     "answers": [
-      { "text": "estresado", "points": 1000 },
-      { "text": "ocupado", "points": 900 },
-      { "text": "enojado", "points": 800 },
-      { "text": "cansado", "points": 700 },
-      { "text": "serio", "points": 600 },
-      { "text": "preocupado", "points": 500 },
-      { "text": "apurado", "points": 400 },
-      { "text": "hablando", "points": 300 },
-      { "text": "comiendo", "points": 200 },
-      { "text": "trabajando", "points": 100 }
+      { "text": "estresado", "rank": 1 },
+      { "text": "ocupado", "rank": 2 },
+      { "text": "enojado", "rank": 3 },
+      { "text": "cansado", "rank": 4 },
+      { "text": "serio", "rank": 5 },
+      { "text": "preocupado", "rank": 6 },
+      { "text": "apurado", "rank": 7 },
+      { "text": "hablando", "rank": 8 },
+      { "text": "comiendo", "rank": 9 },
+      { "text": "trabajando", "rank": 10 }
     ]
   },
   {
     "question": "Los niños siempre quieren...?",
     "answers": [
-      { "text": "jugar", "points": 1000 },
-      { "text": "dulces", "points": 900 },
-      { "text": "juguetes", "points": 800 },
-      { "text": "ver televisión", "points": 700 },
-      { "text": "helado", "points": 600 },
-      { "text": "videojuegos", "points": 500 },
-      { "text": "pizza", "points": 400 },
-      { "text": "no ir a la escuela", "points": 300 },
-      { "text": "quedarse despiertos", "points": 200 },
-      { "text": "atención", "points": 100 }
+      { "text": "jugar", "rank": 1 },
+      { "text": "dulces", "rank": 2 },
+      { "text": "juguetes", "rank": 3 },
+      { "text": "ver televisión", "rank": 4 },
+      { "text": "helado", "rank": 5 },
+      { "text": "videojuegos", "rank": 6 },
+      { "text": "pizza", "rank": 7 },
+      { "text": "no ir a la escuela", "rank": 8 },
+      { "text": "quedarse despiertos", "rank": 9 },
+      { "text": "atención", "rank": 10 }
     ]
   },
   {
     "question": "Mi mamá siempre me dice que...?",
     "answers": [
-      { "text": "me cuide", "points": 1000 },
-      { "text": "estudie", "points": 900 },
-      { "text": "coma", "points": 800 },
-      { "text": "me ama", "points": 700 },
-      { "text": "ordene mi cuarto", "points": 600 },
-      { "text": "llegue temprano", "points": 500 },
-      { "text": "me porte bien", "points": 400 },
-      { "text": "ahorre dinero", "points": 300 },
-      { "text": "sea feliz", "points": 200 },
-      { "text": "me abrigué", "points": 100 }
+      { "text": "me cuide", "rank": 1 },
+      { "text": "estudie", "rank": 2 },
+      { "text": "coma", "rank": 3 },
+      { "text": "me ama", "rank": 4 },
+      { "text": "ordene mi cuarto", "rank": 5 },
+      { "text": "llegue temprano", "rank": 6 },
+      { "text": "me porte bien", "rank": 7 },
+      { "text": "ahorre dinero", "rank": 8 },
+      { "text": "sea feliz", "rank": 9 },
+      { "text": "me abrigué", "rank": 10 }
     ]
   },
   {
     "question": "Los adolescentes pasan mucho tiempo...?",
     "answers": [
-      { "text": "en el celular", "points": 1000 },
-      { "text": "durmiendo", "points": 900 },
-      { "text": "en redes sociales", "points": 800 },
-      { "text": "con amigos", "points": 700 },
-      { "text": "jugando videojuegos", "points": 600 },
-      { "text": "escuchando música", "points": 500 },
-      { "text": "estudiando", "points": 400 },
-      { "text": "viendo series", "points": 300 },
-      { "text": "en la escuela", "points": 200 },
-      { "text": "comiendo", "points": 100 }
+      { "text": "en el celular", "rank": 1 },
+      { "text": "durmiendo", "rank": 2 },
+      { "text": "en redes sociales", "rank": 3 },
+      { "text": "con amigos", "rank": 4 },
+      { "text": "jugando videojuegos", "rank": 5 },
+      { "text": "escuchando música", "rank": 6 },
+      { "text": "estudiando", "rank": 7 },
+      { "text": "viendo series", "rank": 8 },
+      { "text": "en la escuela", "rank": 9 },
+      { "text": "comiendo", "rank": 10 }
     ]
   }
 ]

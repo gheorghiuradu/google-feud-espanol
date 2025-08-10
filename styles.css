@@ -28,6 +28,24 @@ header {
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
+.logo-container {
+    margin-bottom: 20px;
+}
+
+.logo {
+    height: 60px;
+    width: auto;
+    max-width: 100%;
+}
+
+.subtitle {
+    margin: 8px 0 0 0;
+    color: #5f6368;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+}
+
 h1 {
     font-size: 3em;
     color: #4285f4;
@@ -288,6 +306,14 @@ h1 {
         padding: 10px;
     }
 
+    .logo {
+        height: 40px;
+    }
+
+    .subtitle {
+        font-size: 14px;
+    }
+
     h1 {
         font-size: 2em;
     }
@@ -313,9 +339,7 @@ h1 {
         max-width: 100%;
         margin-bottom: 10px;
     }
-}
-
-/* Loading animation */
+}/* Loading animation */
 .loading {
     display: inline-block;
     width: 20px;
@@ -329,4 +353,11 @@ h1 {
 @keyframes spin {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
+}
+
+/* Wrong answer feedback */
+.wrong-answer-x {
+    pointer-events: none;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    font-family: Arial, sans-serif;
 }

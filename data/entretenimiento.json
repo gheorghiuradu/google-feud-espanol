@@ -2,76 +2,76 @@
   {
     "question": "Las mejores películas de Netflix son...?",
     "answers": [
-      { "text": "de acción", "points": 1000 },
-      { "text": "comedias", "points": 900 },
-      { "text": "de terror", "points": 800 },
-      { "text": "dramas", "points": 700 },
-      { "text": "románticas", "points": 600 },
-      { "text": "documentales", "points": 500 },
-      { "text": "de superhéroes", "points": 400 },
-      { "text": "series", "points": 300 },
-      { "text": "animadas", "points": 200 },
-      { "text": "de misterio", "points": 100 }
+      { "text": "de acción", "rank": 1 },
+      { "text": "comedias", "rank": 2 },
+      { "text": "de terror", "rank": 3 },
+      { "text": "dramas", "rank": 4 },
+      { "text": "románticas", "rank": 5 },
+      { "text": "documentales", "rank": 6 },
+      { "text": "de superhéroes", "rank": 7 },
+      { "text": "series", "rank": 8 },
+      { "text": "animadas", "rank": 9 },
+      { "text": "de misterio", "rank": 10 }
     ]
   },
   {
     "question": "Los cantantes más famosos son...?",
     "answers": [
-      { "text": "bad bunny", "points": 1000 },
-      { "text": "shakira", "points": 900 },
-      { "text": "maluma", "points": 800 },
-      { "text": "j balvin", "points": 700 },
-      { "text": "manu chao", "points": 600 },
-      { "text": "alejandro sanz", "points": 500 },
-      { "text": "messi", "points": 400 },
-      { "text": "ozuna", "points": 300 },
-      { "text": "karol g", "points": 200 },
-      { "text": "daddy yankee", "points": 100 }
+      { "text": "bad bunny", "rank": 1 },
+      { "text": "shakira", "rank": 2 },
+      { "text": "maluma", "rank": 3 },
+      { "text": "j balvin", "rank": 4 },
+      { "text": "manu chao", "rank": 5 },
+      { "text": "alejandro sanz", "rank": 6 },
+      { "text": "messi", "rank": 7 },
+      { "text": "ozuna", "rank": 8 },
+      { "text": "karol g", "rank": 9 },
+      { "text": "daddy yankee", "rank": 10 }
     ]
   },
   {
     "question": "Los videojuegos más populares son...?",
     "answers": [
-      { "text": "fortnite", "points": 1000 },
-      { "text": "fifa", "points": 900 },
-      { "text": "call of duty", "points": 800 },
-      { "text": "minecraft", "points": 700 },
-      { "text": "gta", "points": 600 },
-      { "text": "among us", "points": 500 },
-      { "text": "pokemon", "points": 400 },
-      { "text": "free fire", "points": 300 },
-      { "text": "valorant", "points": 200 },
-      { "text": "roblox", "points": 100 }
+      { "text": "fortnite", "rank": 1 },
+      { "text": "fifa", "rank": 2 },
+      { "text": "call of duty", "rank": 3 },
+      { "text": "minecraft", "rank": 4 },
+      { "text": "gta", "rank": 5 },
+      { "text": "among us", "rank": 6 },
+      { "text": "pokemon", "rank": 7 },
+      { "text": "free fire", "rank": 8 },
+      { "text": "valorant", "rank": 9 },
+      { "text": "roblox", "rank": 10 }
     ]
   },
   {
     "question": "Las redes sociales más usadas son...?",
     "answers": [
-      { "text": "whatsapp", "points": 1000 },
-      { "text": "instagram", "points": 900 },
-      { "text": "facebook", "points": 800 },
-      { "text": "tiktok", "points": 700 },
-      { "text": "twitter", "points": 600 },
-      { "text": "youtube", "points": 500 },
-      { "text": "telegram", "points": 400 },
-      { "text": "snapchat", "points": 300 },
-      { "text": "discord", "points": 200 },
-      { "text": "pinterest", "points": 100 }
+      { "text": "whatsapp", "rank": 1 },
+      { "text": "instagram", "rank": 2 },
+      { "text": "facebook", "rank": 3 },
+      { "text": "tiktok", "rank": 4 },
+      { "text": "twitter", "rank": 5 },
+      { "text": "youtube", "rank": 6 },
+      { "text": "telegram", "rank": 7 },
+      { "text": "snapchat", "rank": 8 },
+      { "text": "discord", "rank": 9 },
+      { "text": "pinterest", "rank": 10 }
     ]
   },
   {
     "question": "Los programas de televisión más vistos son...?",
     "answers": [
-      { "text": "novelas", "points": 1000 },
-      { "text": "noticias", "points": 900 },
-      { "text": "deportes", "points": 800 },
-      { "text": "reality shows", "points": 700 },
-      { "text": "talk shows", "points": 600 },
-      { "text": "caricaturas", "points": 500 },
-      { "text": "documentales", "points": 400 },
-      { "text": "series", "points": 300 },
-      { "text": "concursos", "points": 200 },
-      { "text": "música", "points": 100 }
+      { "text": "novelas", "rank": 1 },
+      { "text": "noticias", "rank": 2 },
+      { "text": "deportes", "rank": 3 },
+      { "text": "reality shows", "rank": 4 },
+      { "text": "talk shows", "rank": 5 },
+      { "text": "caricaturas", "rank": 6 },
+      { "text": "documentales", "rank": 7 },
+      { "text": "series", "rank": 8 },
+      { "text": "concursos", "rank": 9 },
+      { "text": "música", "rank": 10 }
     ]
   }
 ]

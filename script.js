@@ -10,11 +10,10 @@ class GoogleFeudGame {
         this.revealedAnswers = [];
         this.gameData = {};
         this.selectedCategory = null;
+        this.usedQuestions = new Set(); // Track used questions to prevent repeats
 
         this.init();
-    }
-
-    async init() {
+    }    async init() {
         await this.loadGameData();
         this.setupEventListeners();
         this.updateDisplay();
@@ -67,10 +66,28 @@ class GoogleFeudGame {
             return;
         }
 
-        // Select a random question from the category
         const questions = this.gameData[this.selectedCategory];
-        const randomIndex = Math.floor(Math.random() * questions.length);
-        this.currentQuestion = questions[randomIndex];
+
+        // If we've used all questions, reset the used questions set
+        if (this.usedQuestions.size >= questions.length) {
+            this.usedQuestions.clear();
+        }
+
+        // Find available questions (not yet used)
+        const availableQuestions = questions.filter((_, index) => !this.usedQuestions.has(index));
+
+        // If no available questions, reset and use all questions
+        const questionsToChooseFrom = availableQuestions.length > 0 ? availableQuestions : questions;
+
+        // Select a random question from available questions
+        const randomIndex = Math.floor(Math.random() * questionsToChooseFrom.length);
+        const selectedQuestion = questionsToChooseFrom[randomIndex];
+
+        // Find the original index of the selected question and mark it as used
+        const originalIndex = questions.findIndex(q => q === selectedQuestion);
+        this.usedQuestions.add(originalIndex);
+
+        this.currentQuestion = selectedQuestion;
         this.currentAnswers = [...this.currentQuestion.answers]; // Copy array
         this.revealedAnswers = [];
 
@@ -91,10 +108,13 @@ class GoogleFeudGame {
         $grid.empty();
 
         this.currentAnswers.forEach((answer, index) => {
+            // Calculate points based on rank (1-10), with rank 1 = 10000 points, rank 10 = 1000 points
+            const points = 11000 - (answer.rank * 1000);
+
             const $answerItem = $(`
                 <div class="answer-item" data-index="${index}">
                     <span class="answer-text" style="visibility: hidden;">${answer.text}</span>
-                    <span class="answer-points" style="visibility: hidden;">${answer.points}</span>
+                    <span class="answer-points" style="visibility: hidden;">${points}</span>
                 </div>
             `);
             $grid.append($answerItem);
@@ -127,7 +147,9 @@ class GoogleFeudGame {
                 this.normalizeText(answer.text).includes(this.normalizeText(guess))) {
 
                 this.revealAnswer(i);
-                this.score += answer.points;
+                // Calculate points based on rank
+                const points = 11000 - (answer.rank * 1000);
+                this.score += points;
                 found = true;
                 break;
             }
@@ -135,6 +157,7 @@ class GoogleFeudGame {
 
         if (!found) {
             this.guessesLeft--;
+            this.showWrongAnswerFeedback();
             if (this.guessesLeft <= 0) {
                 // Disable input when no guesses left
                 $('#guessInput').prop('disabled', true);
@@ -150,6 +173,33 @@ class GoogleFeudGame {
         if (this.revealedAnswers.length === this.currentAnswers.length) {
             this.endRound();
         }
+    }
+
+    showWrongAnswerFeedback() {
+        // Create and show red X for wrong answer
+        const $wrongX = $('<div class="wrong-answer-x">✗</div>');
+        $('body').append($wrongX);
+
+        // Position it in the center of the screen
+        $wrongX.css({
+            position: 'fixed',
+            top: '50%',
+            left: '50%',
+            transform: 'translate(-50%, -50%)',
+            fontSize: '4em',
+            color: '#ea4335',
+            fontWeight: 'bold',
+            zIndex: 9999,
+            opacity: 1
+        });
+
+        // Animate fade out and remove
+        $wrongX.animate({
+            opacity: 0,
+            fontSize: '6em'
+        }, 800, function() {
+            $(this).remove();
+        });
     }
 
     normalizeText(text) {
@@ -189,7 +239,9 @@ class GoogleFeudGame {
         this.updateDisplay();
 
         if (this.currentRound <= 10) {
-            this.loadNewQuestion();
+            // Show category selection for next round
+            $('#gamePlay').hide();
+            $('#categorySelection').show();
         } else {
             this.endGame();
         }
@@ -209,15 +261,14 @@ class GoogleFeudGame {
         this.currentAnswers = [];
         this.revealedAnswers = [];
         this.selectedCategory = null;
+        this.usedQuestions.clear(); // Reset used questions for new game
 
         $('#gameOver').hide();
         $('#gamePlay').hide();
         $('#categorySelection').show();
 
         this.updateDisplay();
-    }
-
-    updateDisplay() {
+    }    updateDisplay() {
         $('#score').text(this.score);
         $('#round').text(this.currentRound);
         $('#guesses').text(this.guessesLeft);

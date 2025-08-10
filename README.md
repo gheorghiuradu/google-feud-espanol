@@ -4,12 +4,14 @@ Un juego estilo Google Feud en español donde los jugadores adivinan las respues
 
 ## 🎮 Cómo jugar
 
-1. Selecciona una categoría
+1. Selecciona una categoría para la primera ronda
 2. Lee la pregunta mostrada
 3. Escribe tu respuesta en el campo de texto
 4. Tienes 4 intentos por ronda
 5. Hay 10 rondas por juego
-6. Cada respuesta correcta te da puntos (de 100 a 1000 puntos)
+6. **Después de cada ronda, selecciona una nueva categoría**
+7. Cada respuesta correcta te da puntos según su popularidad (10,000 - 1,000 puntos)
+8. Las respuestas incorrectas muestran una ✗ roja en pantalla
 
 ## 📁 Estructura del proyecto
 
@@ -46,23 +48,26 @@ google-feud-espanol/
 Cada categoría tiene su propio archivo JSON en la carpeta `data/`. El formato es:
 
 ```json
+```json
 [
   {
-    "question": "¿Tu pregunta aquí...?",
+    "question": "Your question here...?",
     "answers": [
-      { "text": "respuesta 1", "points": 1000 },
-      { "text": "respuesta 2", "points": 900 },
-      { "text": "respuesta 3", "points": 800 },
-      { "text": "respuesta 4", "points": 700 },
-      { "text": "respuesta 5", "points": 600 },
-      { "text": "respuesta 6", "points": 500 },
-      { "text": "respuesta 7", "points": 400 },
-      { "text": "respuesta 8", "points": 300 },
-      { "text": "respuesta 9", "points": 200 },
-      { "text": "respuesta 10", "points": 100 }
+      { "text": "most popular answer", "rank": 1 },
+      { "text": "second most popular", "rank": 2 },
+      { "text": "third most popular", "rank": 3 },
+      // ... up to rank 10
+      { "text": "least popular answer", "rank": 10 }
     ]
   }
 ]
+```
+
+### Reglas para las respuestas:
+- Cada pregunta debe tener exactamente 10 respuestas
+- Los ranks van de 1 (más popular) a 10 (menos popular)
+- **Los puntos se calculan automáticamente**: Rank 1 = 10,000 puntos, Rank 10 = 1,000 puntos
+- Las respuestas deben estar ordenadas por popularidad (rank 1 a 10)
 ```
 
 ### Reglas para las respuestas:
@@ -115,10 +120,12 @@ docker-compose down
 - ✅ **Diseño estilo Google Search** con colores y elementos familiares
 - ✅ 7 categorías diferentes
 - ✅ 10 rondas por juego
+- ✅ **Selección de categoría después de cada ronda**
 - ✅ 4 intentos por ronda (límite estricto)
-- ✅ Sistema de puntuación
+- ✅ **Sistema de puntuación mejorado** (10,000 - 1,000 puntos por respuesta)
+- ✅ **Feedback visual para respuestas incorrectas** (✗ roja animada)
 - ✅ Animaciones suaves
-- ✅ Fácil edición de preguntas (archivos JSON)
+- ✅ Fácil edición de preguntas (archivos JSON con ranks)
 - ✅ Búsqueda flexible (ignora acentos y mayúsculas)
 - ✅ **Docker setup con Nginx** para fácil despliegue
 - ✅ **Configuración de servidor optimizada** con compresión y caché
