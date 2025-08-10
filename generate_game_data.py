@@ -65,8 +65,7 @@ class GoogleAutocompleteClient:
             for suggestion in enhanced_suggestions:
                 if (suggestion.lower().startswith(query.lower()) and
                     suggestion.lower() != query.lower() and
-                    suggestion not in all_suggestions and
-                    (len(suggestion) - len(query)) <= 50):  # Reasonable length limit
+                    suggestion not in all_suggestions):  # Reasonable length limit
                     all_suggestions.add(suggestion)
                     new_count += 1
 
@@ -132,7 +131,7 @@ class GoogleAutocompleteClient:
                             for item in data[1]:
                                 if isinstance(item, str) and item.strip():
                                     clean_item = item.strip().lower()
-                                    if clean_item != query.lower():
+                                    if clean_item != query.lower() and (len(clean_item) - len(query))<= 50:
                                         suggestions.append(clean_item)
 
                         return suggestions
