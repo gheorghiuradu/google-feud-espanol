@@ -1,77 +1,2781 @@
 [
   {
-    "question": "¿Qué es lo primero que haces cuando...?",
+    "question": "por qué",
     "answers": [
-      { "text": "te despiertas", "rank": 1 },
-      { "text": "llegas a casa", "rank": 2 },
-      { "text": "tienes hambre", "rank": 3 },
-      { "text": "estás aburrido", "rank": 4 },
-      { "text": "llueve", "rank": 5 },
-      { "text": "te enamoras", "rank": 6 },
-      { "text": "ganas dinero", "rank": 7 },
-      { "text": "tienes miedo", "rank": 8 },
-      { "text": "estás triste", "rank": 9 },
-      { "text": "te enfermas", "rank": 10 }
+      {
+        "text": "aparecen los chinches",
+        "rank": 1
+      },
+      {
+        "text": "el agua del mar es salada",
+        "rank": 2
+      },
+      {
+        "text": "amargan los pepinos",
+        "rank": 3
+      },
+      {
+        "text": "se duermen las manos",
+        "rank": 4
+      },
+      {
+        "text": "es festivo el 15 de agosto",
+        "rank": 5
+      },
+      {
+        "text": "algunos hombres odian a las mujeres",
+        "rank": 6
+      },
+      {
+        "text": "se calienta el móvil",
+        "rank": 7
+      },
+      {
+        "text": "a los gatos no les gusta el agua",
+        "rank": 8
+      },
+      {
+        "text": "salen los orzuelos",
+        "rank": 9
+      },
+      {
+        "text": "ataca israel a irán",
+        "rank": 10
+      }
     ]
   },
   {
-    "question": "¿Por qué la gente...?",
+    "question": "cómo hacer",
     "answers": [
-      { "text": "miente", "rank": 1 },
-      { "text": "trabaja", "rank": 2 },
-      { "text": "se casa", "rank": 3 },
-      { "text": "estudia", "rank": 4 },
-      { "text": "viaja", "rank": 5 },
-      { "text": "hace ejercicio", "rank": 6 },
-      { "text": "ahorra dinero", "rank": 7 },
-      { "text": "tiene hijos", "rank": 8 },
-      { "text": "se divorcia", "rank": 9 },
-      { "text": "hace dieta", "rank": 10 }
+      {
+        "text": "arroz con bogavante",
+        "rank": 1
+      },
+      {
+        "text": "crepes",
+        "rank": 2
+      },
+      {
+        "text": "albóndigas en salsa",
+        "rank": 3
+      },
+      {
+        "text": "cebolla caramelizada",
+        "rank": 4
+      },
+      {
+        "text": "boquerones en vinagre",
+        "rank": 5
+      },
+      {
+        "text": "arroz blanco",
+        "rank": 6
+      },
+      {
+        "text": "gazpacho",
+        "rank": 7
+      },
+      {
+        "text": "alioli",
+        "rank": 8
+      },
+      {
+        "text": "una fideuá",
+        "rank": 9
+      },
+      {
+        "text": "salmorejo",
+        "rank": 10
+      }
     ]
   },
   {
-    "question": "¿Cómo puedo...?",
+    "question": "qué es",
     "answers": [
-      { "text": "ganar dinero", "rank": 1 },
-      { "text": "ser feliz", "rank": 2 },
-      { "text": "bajar de peso", "rank": 3 },
-      { "text": "encontrar trabajo", "rank": 4 },
-      { "text": "enamorarme", "rank": 5 },
-      { "text": "estudiar mejor", "rank": 6 },
-      { "text": "dormir bien", "rank": 7 },
-      { "text": "hacer amigos", "rank": 8 },
-      { "text": "ser exitoso", "rank": 9 },
-      { "text": "cocinar", "rank": 10 }
+      {
+        "text": "tudios tiene josé luis ábalos",
+        "rank": 1
+      },
+      {
+        "text": "la uco",
+        "rank": 2
+      },
+      {
+        "text": "el kéfir",
+        "rank": 3
+      },
+      {
+        "text": "el cortisol",
+        "rank": 4
+      },
+      {
+        "text": "el sibo",
+        "rank": 5
+      },
+      {
+        "text": "la fibromialgia",
+        "rank": 6
+      },
+      {
+        "text": "un podcast",
+        "rank": 7
+      },
+      {
+        "text": "un ictus",
+        "rank": 8
+      },
+      {
+        "text": "la ocu",
+        "rank": 9
+      },
+      {
+        "text": "el tdah",
+        "rank": 10
+      }
     ]
   },
   {
-    "question": "¿Dónde puedo comprar...?",
+    "question": "cuándo es",
     "answers": [
-      { "text": "comida", "rank": 1 },
-      { "text": "ropa", "rank": 2 },
-      { "text": "libros", "rank": 3 },
-      { "text": "medicinas", "rank": 4 },
-      { "text": "flores", "rank": 5 },
-      { "text": "zapatos", "rank": 6 },
-      { "text": "muebles", "rank": 7 },
-      { "text": "celulares", "rank": 8 },
-      { "text": "juguetes", "rank": 9 },
-      { "text": "carros", "rank": 10 }
+      {
+        "text": "san lorenzo",
+        "rank": 1
+      },
+      {
+        "text": "la lluvia de estrellas",
+        "rank": 2
+      },
+      {
+        "text": "eurovisión 2025",
+        "rank": 3
+      },
+      {
+        "text": "la final de la champions",
+        "rank": 4
+      },
+      {
+        "text": "el día del padre",
+        "rank": 5
+      },
+      {
+        "text": "eurovisión",
+        "rank": 6
+      },
+      {
+        "text": "luna llena",
+        "rank": 7
+      },
+      {
+        "text": "la feria de málaga",
+        "rank": 8
+      },
+      {
+        "text": "el festival de eurovisión",
+        "rank": 9
+      },
+      {
+        "text": "el corpus",
+        "rank": 10
+      }
     ]
   },
   {
-    "question": "¿Cuándo es mejor...?",
+    "question": "dónde está",
     "answers": [
-      { "text": "casarse", "rank": 1 },
-      { "text": "tener hijos", "rank": 2 },
-      { "text": "estudiar", "rank": 3 },
-      { "text": "viajar", "rank": 4 },
-      { "text": "hacer ejercicio", "rank": 5 },
-      { "text": "comprar una casa", "rank": 6 },
-      { "text": "cambiar de trabajo", "rank": 7 },
-      { "text": "jubilarse", "rank": 8 },
-      { "text": "empezar un negocio", "rank": 9 },
-      { "text": "mudarse", "rank": 10 }
+      {
+        "text": "bali",
+        "rank": 1
+      },
+      {
+        "text": "luxemburgo",
+        "rank": 2
+      },
+      {
+        "text": "el monasterio de piedra",
+        "rank": 3
+      },
+      {
+        "text": "armenia",
+        "rank": 4
+      },
+      {
+        "text": "alcalá del júcar",
+        "rank": 5
+      },
+      {
+        "text": "azerbaiyán",
+        "rank": 6
+      },
+      {
+        "text": "aqualandia",
+        "rank": 7
+      },
+      {
+        "text": "almería",
+        "rank": 8
+      },
+      {
+        "text": "amsterdam",
+        "rank": 9
+      },
+      {
+        "text": "n las islas maldivas",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo deshacerse de",
+    "answers": [
+      {
+        "text": "un nido de avispas",
+        "rank": 1
+      },
+      {
+        "text": "las polillas",
+        "rank": 2
+      },
+      {
+        "text": "las avispas",
+        "rank": 3
+      },
+      {
+        "text": "las hormigas",
+        "rank": 4
+      },
+      {
+        "text": "las chinches",
+        "rank": 5
+      },
+      {
+        "text": "las cucarachas",
+        "rank": 6
+      },
+      {
+        "text": "las pulgas",
+        "rank": 7
+      },
+      {
+        "text": "los topos",
+        "rank": 8
+      },
+      {
+        "text": "las moscas",
+        "rank": 9
+      },
+      {
+        "text": "las hormigas en casa",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo construir un",
+    "answers": [
+      {
+        "text": "a barbacoa",
+        "rank": 1
+      },
+      {
+        "text": "a casa de madera",
+        "rank": 2
+      },
+      {
+        "text": "a pérgola",
+        "rank": 3
+      },
+      {
+        "text": "a piscina",
+        "rank": 4
+      },
+      {
+        "text": "a mansión en minecraft",
+        "rank": 5
+      },
+      {
+        "text": "a casa en minecraft",
+        "rank": 6
+      },
+      {
+        "text": "ascensor en minecraft",
+        "rank": 7
+      },
+      {
+        "text": "a casa en animal crossing",
+        "rank": 8
+      },
+      {
+        "text": "a casa",
+        "rank": 9
+      },
+      {
+        "text": "gallinero",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo dibujar un",
+    "answers": [
+      {
+        "text": "a flor",
+        "rank": 1
+      },
+      {
+        "text": "capibara",
+        "rank": 2
+      },
+      {
+        "text": "gato",
+        "rank": 3
+      },
+      {
+        "text": "a mariposa",
+        "rank": 4
+      },
+      {
+        "text": "perro fácil",
+        "rank": 5
+      },
+      {
+        "text": "coche",
+        "rank": 6
+      },
+      {
+        "text": "caballo",
+        "rank": 7
+      },
+      {
+        "text": "a persona",
+        "rank": 8
+      },
+      {
+        "text": "perro",
+        "rank": 9
+      },
+      {
+        "text": "conejo",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo hacerse rico con",
+    "answers": [
+      {
+        "text": "multinivel",
+        "rank": 1
+      },
+      {
+        "text": "poco dinero",
+        "rank": 2
+      },
+      {
+        "text": "multinivel pdf gratis",
+        "rank": 3
+      },
+      {
+        "text": "las tarjetas de crédito",
+        "rank": 4
+      },
+      {
+        "text": "dividendos marc lichtenfeld",
+        "rank": 5
+      },
+      {
+        "text": "bitcoin",
+        "rank": 6
+      },
+      {
+        "text": "bienes raices",
+        "rank": 7
+      },
+      {
+        "text": "dividendos",
+        "rank": 8
+      },
+      {
+        "text": "criptomonedas",
+        "rank": 9
+      },
+      {
+        "text": "dividendos libro",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo matar un",
+    "answers": [
+      {
+        "text": "hormiguero",
+        "rank": 1
+      },
+      {
+        "text": "a higuera",
+        "rank": 2
+      },
+      {
+        "text": "pulpo",
+        "rank": 3
+      },
+      {
+        "text": "nido de avispas",
+        "rank": 4
+      },
+      {
+        "text": "a serpiente",
+        "rank": 5
+      },
+      {
+        "text": "a cucaracha",
+        "rank": 6
+      },
+      {
+        "text": "a rata",
+        "rank": 7
+      },
+      {
+        "text": "a garrapata",
+        "rank": 8
+      },
+      {
+        "text": "avispero",
+        "rank": 9
+      },
+      {
+        "text": "árbol",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo hacer un",
+    "answers": [
+      {
+        "text": "avión de papel que vuele 1000 metros",
+        "rank": 1
+      },
+      {
+        "text": "abanico de papel",
+        "rank": 2
+      },
+      {
+        "text": "a ensalada de pasta",
+        "rank": 3
+      },
+      {
+        "text": "alioli",
+        "rank": 4
+      },
+      {
+        "text": "avión de papel fácil",
+        "rank": 5
+      },
+      {
+        "text": "a fideuá",
+        "rank": 6
+      },
+      {
+        "text": "arroz caldoso",
+        "rank": 7
+      },
+      {
+        "text": "gazpacho",
+        "rank": 8
+      },
+      {
+        "text": "arroz blanco",
+        "rank": 9
+      },
+      {
+        "text": "bizcocho",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "se puede fumar",
+    "answers": [
+      {
+        "text": "en las piscinas municipales",
+        "rank": 1
+      },
+      {
+        "text": "en las terrazas",
+        "rank": 2
+      },
+      {
+        "text": "en los toros",
+        "rank": 3
+      },
+      {
+        "text": "en la playa en españa",
+        "rank": 4
+      },
+      {
+        "text": "conduciendo",
+        "rank": 5
+      },
+      {
+        "text": "en los campos de futbol",
+        "rank": 6
+      },
+      {
+        "text": "en la playa",
+        "rank": 7
+      },
+      {
+        "text": "antes de una analítica",
+        "rank": 8
+      },
+      {
+        "text": "en las terrazas de los bares",
+        "rank": 9
+      },
+      {
+        "text": "en las terrazas 2025",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "puede jesús",
+    "answers": [
+      {
+        "text": "hacer milagros",
+        "rank": 1
+      },
+      {
+        "text": "cambiar tu vida",
+        "rank": 2
+      },
+      {
+        "text": "sanar",
+        "rank": 3
+      },
+      {
+        "text": "caminar por el agua",
+        "rank": 4
+      },
+      {
+        "text": "perdonar pecados por qué",
+        "rank": 5
+      },
+      {
+        "text": "hacerlo",
+        "rank": 6
+      },
+      {
+        "text": "perdonar pecados",
+        "rank": 7
+      },
+      {
+        "text": "ser un apellido",
+        "rank": 8
+      },
+      {
+        "text": "volar",
+        "rank": 9
+      }
+    ]
+  },
+  {
+    "question": "se puede enviar por correo",
+    "answers": [
+      {
+        "text": "electronico una carpeta de archivos",
+        "rank": 1
+      },
+      {
+        "text": "rreo postal",
+        "rank": 2
+      },
+      {
+        "text": "argentino con pago en destino",
+        "rank": 3
+      },
+      {
+        "text": "una carpeta con archivos",
+        "rank": 4
+      },
+      {
+        "text": "medicamentos",
+        "rank": 5
+      },
+      {
+        "text": "comida",
+        "rank": 6
+      },
+      {
+        "text": "la e firma",
+        "rank": 7
+      },
+      {
+        "text": "dinero",
+        "rank": 8
+      },
+      {
+        "text": "una carpeta",
+        "rank": 9
+      },
+      {
+        "text": "s un paquete a cobro revertido",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "se puede todavía comprar",
+    "answers": [
+      {
+        "text": "en shein",
+        "rank": 1
+      },
+      {
+        "text": "en eneba",
+        "rank": 2
+      },
+      {
+        "text": "en shein desde estados unidos",
+        "rank": 3
+      },
+      {
+        "text": "en temu",
+        "rank": 4
+      },
+      {
+        "text": "lotería de navidad",
+        "rank": 5
+      },
+      {
+        "text": "lotería del niño",
+        "rank": 6
+      }
+    ]
+  },
+  {
+    "question": "los astronautas",
+    "answers": [
+      {
+        "text": "a donde viajan",
+        "rank": 1
+      },
+      {
+        "text": "atrapados",
+        "rank": 2
+      },
+      {
+        "text": "a donde van",
+        "rank": 3
+      },
+      {
+        "text": "al regresar a la tierra presentan algún malestar",
+        "rank": 4
+      },
+      {
+        "text": "antiguos",
+        "rank": 5
+      },
+      {
+        "text": "atrapados en el espacio",
+        "rank": 6
+      },
+      {
+        "text": "del cabo de hornos",
+        "rank": 7
+      },
+      {
+        "text": "de yavé",
+        "rank": 8
+      },
+      {
+        "text": "llevan pañales",
+        "rank": 9
+      },
+      {
+        "text": "sinopsis",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo detectar falso",
+    "answers": [
+      {
+        "text": "s amigos",
+        "rank": 1
+      },
+      {
+        "text": "s positivos",
+        "rank": 2
+      },
+      {
+        "text": "falso",
+        "rank": 3
+      },
+      {
+        "text": "s profetas",
+        "rank": 4
+      },
+      {
+        "text": "tes falsos con el celular",
+        "rank": 5
+      },
+      {
+        "text": "es falsos",
+        "rank": 6
+      },
+      {
+        "text": "tes falsos",
+        "rank": 7
+      },
+      {
+        "text": "contacto",
+        "rank": 8
+      },
+      {
+        "text": "tes falsos de 500",
+        "rank": 9
+      }
+    ]
+  },
+  {
+    "question": "cómo obtener",
+    "answers": [
+      {
+        "text": "la tarjeta sanitaria europea",
+        "rank": 1
+      },
+      {
+        "text": "el dni electrónico",
+        "rank": 2
+      },
+      {
+        "text": "clave pin",
+        "rank": 3
+      },
+      {
+        "text": "copia de la resolución de jubilación",
+        "rank": 4
+      },
+      {
+        "text": "la vida laboral",
+        "rank": 5
+      },
+      {
+        "text": "el borrador de la renta",
+        "rank": 6
+      },
+      {
+        "text": "el certificado digital",
+        "rank": 7
+      },
+      {
+        "text": "la firma digital",
+        "rank": 8
+      },
+      {
+        "text": "el número de la seguridad social",
+        "rank": 9
+      },
+      {
+        "text": "la clave permanente",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo hacer",
+    "answers": [
+      {
+        "text": "arroz con bogavante",
+        "rank": 1
+      },
+      {
+        "text": "crepes",
+        "rank": 2
+      },
+      {
+        "text": "albóndigas en salsa",
+        "rank": 3
+      },
+      {
+        "text": "cebolla caramelizada",
+        "rank": 4
+      },
+      {
+        "text": "boquerones en vinagre",
+        "rank": 5
+      },
+      {
+        "text": "arroz blanco",
+        "rank": 6
+      },
+      {
+        "text": "gazpacho",
+        "rank": 7
+      },
+      {
+        "text": "alioli",
+        "rank": 8
+      },
+      {
+        "text": "una fideuá",
+        "rank": 9
+      },
+      {
+        "text": "salmorejo",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo mezclar",
+    "answers": [
+      {
+        "text": "rojo",
+        "rank": 1
+      },
+      {
+        "text": "dos fotos",
+        "rank": 2
+      },
+      {
+        "text": "morado",
+        "rank": 3
+      },
+      {
+        "text": "canciones",
+        "rank": 4
+      },
+      {
+        "text": "colores",
+        "rank": 5
+      },
+      {
+        "text": "tierra de diatomeas con agua",
+        "rank": 6
+      },
+      {
+        "text": "cemento",
+        "rank": 7
+      },
+      {
+        "text": "el color marrón",
+        "rank": 8
+      },
+      {
+        "text": "jabón potásico y bicarbonato",
+        "rank": 9
+      },
+      {
+        "text": "pintura para hacer blanco",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo cortar",
+    "answers": [
+      {
+        "text": "las uñas a un perro",
+        "rank": 1
+      },
+      {
+        "text": "un cristal",
+        "rank": 2
+      },
+      {
+        "text": "la diarrea",
+        "rank": 3
+      },
+      {
+        "text": "el pelo a capas",
+        "rank": 4
+      },
+      {
+        "text": "la sangre de la nariz",
+        "rank": 5
+      },
+      {
+        "text": "un jamón",
+        "rank": 6
+      },
+      {
+        "text": "una sandía",
+        "rank": 7
+      },
+      {
+        "text": "un mango",
+        "rank": 8
+      },
+      {
+        "text": "metacrilato",
+        "rank": 9
+      },
+      {
+        "text": "el flequillo",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "es malo",
+    "answers": [
+      {
+        "text": "tomar dormidina",
+        "rank": 1
+      },
+      {
+        "text": "comer huevos todos los dias",
+        "rank": 2
+      },
+      {
+        "text": "tomar serc mucho tiempo",
+        "rank": 3
+      },
+      {
+        "text": "crujirse los dedos",
+        "rank": 4
+      },
+      {
+        "text": "tener proteínas en la orina",
+        "rank": 5
+      },
+      {
+        "text": "entrar en cetosis",
+        "rank": 6
+      },
+      {
+        "text": "beber mucha agua",
+        "rank": 7
+      },
+      {
+        "text": "orinar poco",
+        "rank": 8
+      },
+      {
+        "text": "lavarse el pelo todos los dias",
+        "rank": 9
+      },
+      {
+        "text": "tomar horchata por la noche",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "es genial",
+    "answers": [
+      {
+        "text": "ser diferente libro",
+        "rank": 1
+      },
+      {
+        "text": "es maped",
+        "rank": 2
+      },
+      {
+        "text": "ff",
+        "rank": 3
+      },
+      {
+        "text": "el planeta tierra si",
+        "rank": 4
+      },
+      {
+        "text": "ser diferente",
+        "rank": 5
+      },
+      {
+        "text": "en california",
+        "rank": 6
+      },
+      {
+        "text": "en frances",
+        "rank": 7
+      },
+      {
+        "text": "ver su sonrisa despues de ganar en ingles",
+        "rank": 8
+      },
+      {
+        "text": "una variedad de lechuga",
+        "rank": 9
+      },
+      {
+        "text": "en ingles",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "es fácil cultivar",
+    "answers": [
+      {
+        "text": "arandanos",
+        "rank": 1
+      },
+      {
+        "text": "albahaca",
+        "rank": 2
+      },
+      {
+        "text": "ultivar",
+        "rank": 3
+      },
+      {
+        "text": "fresas",
+        "rank": 4
+      },
+      {
+        "text": "tulipanes",
+        "rank": 5
+      },
+      {
+        "text": "cultivar plantas",
+        "rank": 6
+      },
+      {
+        "text": "cultivar",
+        "rank": 7
+      },
+      {
+        "text": "espinacas",
+        "rank": 8
+      },
+      {
+        "text": "hongos",
+        "rank": 9
+      },
+      {
+        "text": "lavanda",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "es divertido",
+    "answers": [
+      {
+        "text": "en inglés",
+        "rank": 1
+      },
+      {
+        "text": "aprender con flip",
+        "rank": 2
+      },
+      {
+        "text": "aprender un idioma extranjero traducir al ingles",
+        "rank": 3
+      },
+      {
+        "text": "porque es cierto",
+        "rank": 4
+      },
+      {
+        "text": "aprender un idioma extranjero",
+        "rank": 5
+      },
+      {
+        "text": "amarse a uno mismo",
+        "rank": 6
+      },
+      {
+        "text": "aprender un idioma extranjero en inglés",
+        "rank": 7
+      },
+      {
+        "text": "aprender",
+        "rank": 8
+      },
+      {
+        "text": "ser sayayines",
+        "rank": 9
+      },
+      {
+        "text": "andar en bicicleta",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "es difícil conseguir trabajo en",
+    "answers": [
+      {
+        "text": "estados unidos",
+        "rank": 1
+      },
+      {
+        "text": "mexico",
+        "rank": 2
+      },
+      {
+        "text": "uruguay",
+        "rank": 3
+      },
+      {
+        "text": "españa",
+        "rank": 4
+      },
+      {
+        "text": "canada",
+        "rank": 5
+      },
+      {
+        "text": "argentina",
+        "rank": 6
+      },
+      {
+        "text": "valencia",
+        "rank": 7
+      },
+      {
+        "text": "suiza",
+        "rank": 8
+      },
+      {
+        "text": "colombia",
+        "rank": 9
+      },
+      {
+        "text": "dubái",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "es saludable comer",
+    "answers": [
+      {
+        "text": "gelatina",
+        "rank": 1
+      },
+      {
+        "text": "pipas",
+        "rank": 2
+      },
+      {
+        "text": "caracoles",
+        "rank": 3
+      },
+      {
+        "text": "cacahuetes",
+        "rank": 4
+      },
+      {
+        "text": "sardinas en lata",
+        "rank": 5
+      },
+      {
+        "text": "pasta",
+        "rank": 6
+      },
+      {
+        "text": "fruta por la noche",
+        "rank": 7
+      },
+      {
+        "text": "huevos todos los dias",
+        "rank": 8
+      },
+      {
+        "text": "aceitunas",
+        "rank": 9
+      },
+      {
+        "text": "pipas de girasol",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "es doloroso",
+    "answers": [
+      {
+        "text": "un bloqueo lumbar",
+        "rank": 1
+      },
+      {
+        "text": "el electromiograma",
+        "rank": 2
+      },
+      {
+        "text": "abortar",
+        "rank": 3
+      },
+      {
+        "text": "ponerse el diu",
+        "rank": 4
+      },
+      {
+        "text": "el herpes zoster",
+        "rank": 5
+      },
+      {
+        "text": "el postoperatorio de prótesis de rodilla",
+        "rank": 6
+      },
+      {
+        "text": "la biopsia de próstata",
+        "rank": 7
+      },
+      {
+        "text": "un curetaje dental",
+        "rank": 8
+      },
+      {
+        "text": "el injerto de hueso dental",
+        "rank": 9
+      },
+      {
+        "text": "un implante dental",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "es posible",
+    "answers": [
+      {
+        "text": "anular una transferencia",
+        "rank": 1
+      },
+      {
+        "text": "adelgazar 10 kilos en un mes",
+        "rank": 2
+      },
+      {
+        "text": "quedarse embarazada con la regla",
+        "rank": 3
+      },
+      {
+        "text": "anular un bizum",
+        "rank": 4
+      },
+      {
+        "text": "anular una transferencia bancaria",
+        "rank": 5
+      },
+      {
+        "text": "viajar en el tiempo",
+        "rank": 6
+      },
+      {
+        "text": "una guerra en europa",
+        "rank": 7
+      },
+      {
+        "text": "en ingles",
+        "rank": 8
+      },
+      {
+        "text": "amar a dos personas a la vez",
+        "rank": 9
+      },
+      {
+        "text": "adelgazar con hipotiroidismo",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "es seguro viajar a",
+    "answers": [
+      {
+        "text": "marruecos",
+        "rank": 1
+      },
+      {
+        "text": "egipto ahora con la guerra de israel",
+        "rank": 2
+      },
+      {
+        "text": "egipto",
+        "rank": 3
+      },
+      {
+        "text": "estambul",
+        "rank": 4
+      },
+      {
+        "text": "jordania",
+        "rank": 5
+      },
+      {
+        "text": "albania",
+        "rank": 6
+      },
+      {
+        "text": "colombia",
+        "rank": 7
+      },
+      {
+        "text": "cabo verde",
+        "rank": 8
+      },
+      {
+        "text": "vietnam",
+        "rank": 9
+      },
+      {
+        "text": "tailandia",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "está mal",
+    "answers": [
+      {
+        "text": "quedarse a dormir en la casa de tu novio",
+        "rank": 1
+      },
+      {
+        "text": "lorca",
+        "rank": 2
+      },
+      {
+        "text": "acostumbrada",
+        "rank": 3
+      },
+      {
+        "text": "abortar",
+        "rank": 4
+      },
+      {
+        "text": "aquí",
+        "rank": 5
+      },
+      {
+        "text": "guys",
+        "rank": 6
+      },
+      {
+        "text": "intentar ligar con chicas en una mazmorra",
+        "rank": 7
+      },
+      {
+        "text": "dicho ambos dos",
+        "rank": 8
+      },
+      {
+        "text": "en algo",
+        "rank": 9
+      },
+      {
+        "text": "asia",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "qué pasa si tocas",
+    "answers": [
+      {
+        "text": "un murciélago",
+        "rank": 1
+      },
+      {
+        "text": "los huevos de un nido",
+        "rank": 2
+      },
+      {
+        "text": "una oruga",
+        "rank": 3
+      },
+      {
+        "text": "una babosa",
+        "rank": 4
+      },
+      {
+        "text": "un sapo",
+        "rank": 5
+      },
+      {
+        "text": "una golondrina",
+        "rank": 6
+      },
+      {
+        "text": "a una cría de pájaro",
+        "rank": 7
+      },
+      {
+        "text": "una mariposa",
+        "rank": 8
+      },
+      {
+        "text": "una estrella de mar",
+        "rank": 9
+      },
+      {
+        "text": "el boliche en la petanca",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "qué es malo",
+    "answers": [
+      {
+        "text": "para el colesterol",
+        "rank": 1
+      },
+      {
+        "text": "para el hígado graso",
+        "rank": 2
+      },
+      {
+        "text": "para el hígado",
+        "rank": 3
+      },
+      {
+        "text": "para las hemorroides",
+        "rank": 4
+      },
+      {
+        "text": "clusión",
+        "rank": 5
+      },
+      {
+        "text": "para la tensión alta",
+        "rank": 6
+      },
+      {
+        "text": "bañarse todos los días",
+        "rank": 7
+      },
+      {
+        "text": "para los triglicéridos",
+        "rank": 8
+      },
+      {
+        "text": "para el ácido úrico",
+        "rank": 9
+      },
+      {
+        "text": "barrer de noche",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "qué es más grande que",
+    "answers": [
+      {
+        "text": "en size o king size",
+        "rank": 1
+      },
+      {
+        "text": "el multiverso",
+        "rank": 2
+      },
+      {
+        "text": "el sistema solar",
+        "rank": 3
+      },
+      {
+        "text": "una galaxia",
+        "rank": 4
+      },
+      {
+        "text": "en o king",
+        "rank": 5
+      },
+      {
+        "text": "el universo",
+        "rank": 6
+      },
+      {
+        "text": "el sol",
+        "rank": 7
+      },
+      {
+        "text": "una tonelada",
+        "rank": 8
+      },
+      {
+        "text": "una ballena azul",
+        "rank": 9
+      },
+      {
+        "text": "el infinito",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "qué es más pequeño que",
+    "answers": [
+      {
+        "text": "un milimetro",
+        "rank": 1
+      },
+      {
+        "text": "un quark",
+        "rank": 2
+      },
+      {
+        "text": "un yoctosegundo",
+        "rank": 3
+      },
+      {
+        "text": "un segundo",
+        "rank": 4
+      },
+      {
+        "text": "un nanometro",
+        "rank": 5
+      },
+      {
+        "text": "un grano de café",
+        "rank": 6
+      },
+      {
+        "text": "un nanosegundo",
+        "rank": 7
+      },
+      {
+        "text": "un atomo",
+        "rank": 8
+      },
+      {
+        "text": "un monte",
+        "rank": 9
+      },
+      {
+        "text": "una particula subatomica",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "qué es peor que",
+    "answers": [
+      {
+        "text": "un huracán",
+        "rank": 1
+      },
+      {
+        "text": "la muerte",
+        "rank": 2
+      },
+      {
+        "text": "te pique una abeja o una avispa",
+        "rank": 3
+      },
+      {
+        "text": "la depresión",
+        "rank": 4
+      },
+      {
+        "text": "el infierno",
+        "rank": 5
+      },
+      {
+        "text": "la anemia",
+        "rank": 6
+      },
+      {
+        "text": "un narcisista",
+        "rank": 7
+      },
+      {
+        "text": "la bronquitis",
+        "rank": 8
+      },
+      {
+        "text": "un psicópata",
+        "rank": 9
+      },
+      {
+        "text": "encontrar un gusano en una manzana",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cuándo es buen momento para",
+    "answers": [
+      {
+        "text": "comprar oro",
+        "rank": 1
+      },
+      {
+        "text": "cortarse el cabello",
+        "rank": 2
+      },
+      {
+        "text": "hacer una prueba de embarazo",
+        "rank": 3
+      },
+      {
+        "text": "vender oro",
+        "rank": 4
+      },
+      {
+        "text": "comprar dolares",
+        "rank": 5
+      },
+      {
+        "text": "invertir",
+        "rank": 6
+      },
+      {
+        "text": "comprar casa",
+        "rank": 7
+      },
+      {
+        "text": "pedir aumento de sueldo",
+        "rank": 8
+      },
+      {
+        "text": "cortarse el pelo",
+        "rank": 9
+      },
+      {
+        "text": "comprar bitcoin",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "dónde puedes vender",
+    "answers": [
+      {
+        "text": "oro",
+        "rank": 1
+      },
+      {
+        "text": "tu celular",
+        "rank": 2
+      },
+      {
+        "text": "tus monedas de 20 pesos",
+        "rank": 3
+      },
+      {
+        "text": "tus ovulos",
+        "rank": 4
+      },
+      {
+        "text": "fotos de tus pies",
+        "rank": 5
+      },
+      {
+        "text": "fotos de pies",
+        "rank": 6
+      },
+      {
+        "text": "tu cabello",
+        "rank": 7
+      },
+      {
+        "text": "tu ropa usada",
+        "rank": 8
+      },
+      {
+        "text": "tu iphone",
+        "rank": 9
+      },
+      {
+        "text": "monedas antiguas",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "dónde compro",
+    "answers": [
+      {
+        "text": "r ácido bórico",
+        "rank": 1
+      },
+      {
+        "text": "la casa julio iglesias en galicia",
+        "rank": 2
+      },
+      {
+        "text": "r tierra de diatomeas",
+        "rank": 3
+      },
+      {
+        "text": "julio iglesias la casa en ourense",
+        "rank": 4
+      },
+      {
+        "text": "r jabón potásico",
+        "rank": 5
+      },
+      {
+        "text": "r oro",
+        "rank": 6
+      },
+      {
+        "text": "r alcohol isopropílico",
+        "rank": 7
+      },
+      {
+        "text": "r papel de arroz",
+        "rank": 8
+      },
+      {
+        "text": "r",
+        "rank": 9
+      },
+      {
+        "text": "r bicarbonato de sodio",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "dónde desechar",
+    "answers": [
+      {
+        "text": "electronicos",
+        "rank": 1
+      },
+      {
+        "text": "baterias de litio",
+        "rank": 2
+      },
+      {
+        "text": "pilas",
+        "rank": 3
+      },
+      {
+        "text": "los aparatos electrónicos",
+        "rank": 4
+      },
+      {
+        "text": "pilas usadas",
+        "rank": 5
+      },
+      {
+        "text": "medicamentos vencidos",
+        "rank": 6
+      },
+      {
+        "text": "celulares viejos",
+        "rank": 7
+      },
+      {
+        "text": "aceite de motor",
+        "rank": 8
+      },
+      {
+        "text": "baterias",
+        "rank": 9
+      },
+      {
+        "text": "pintura vieja",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "quién hace el mejor",
+    "answers": [
+      {
+        "text": "ceviche del mundo",
+        "rank": 1
+      },
+      {
+        "text": "asado del mundo",
+        "rank": 2
+      },
+      {
+        "text": "chocolate del mundo",
+        "rank": 3
+      },
+      {
+        "text": "cafe del mundo",
+        "rank": 4
+      },
+      {
+        "text": "cafe",
+        "rank": 5
+      },
+      {
+        "text": "vino",
+        "rank": 6
+      },
+      {
+        "text": "vino del mundo",
+        "rank": 7
+      },
+      {
+        "text": "asmr del mundo",
+        "rank": 8
+      },
+      {
+        "text": "pan del mundo",
+        "rank": 9
+      },
+      {
+        "text": "ceviche",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "por qué tengo miedo de",
+    "answers": [
+      {
+        "text": "todo",
+        "rank": 1
+      },
+      {
+        "text": "dormir",
+        "rank": 2
+      },
+      {
+        "text": "la nada",
+        "rank": 3
+      },
+      {
+        "text": "estar sola en casa",
+        "rank": 4
+      },
+      {
+        "text": "perder a mi pareja",
+        "rank": 5
+      },
+      {
+        "text": "salir a la calle",
+        "rank": 6
+      },
+      {
+        "text": "morir",
+        "rank": 7
+      },
+      {
+        "text": "trabajar",
+        "rank": 8
+      },
+      {
+        "text": "lastimar a alguien",
+        "rank": 9
+      },
+      {
+        "text": "la hermana glenda",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "por qué lo llaman",
+    "answers": [
+      {
+        "text": "liderazgo cuando quieren decir comunicación",
+        "rank": 1
+      },
+      {
+        "text": "países bajos",
+        "rank": 2
+      },
+      {
+        "text": "el cachorro",
+        "rank": 3
+      },
+      {
+        "text": "amor",
+        "rank": 4
+      },
+      {
+        "text": "amor cuando quieren decir x",
+        "rank": 5
+      },
+      {
+        "text": "países bajos a holanda",
+        "rank": 6
+      },
+      {
+        "text": "al papa león 14",
+        "rank": 7
+      },
+      {
+        "text": "el mar rojo",
+        "rank": 8
+      },
+      {
+        "text": "el mar muerto",
+        "rank": 9
+      },
+      {
+        "text": "el mar negro",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "hay todavía",
+    "answers": [
+      {
+        "text": "dinosaurios vivos",
+        "rank": 1
+      },
+      {
+        "text": "a lugar en la universidad para las humanidades",
+        "rank": 2
+      },
+      {
+        "text": "huelga de autobuses",
+        "rank": 3
+      },
+      {
+        "text": "esperanza",
+        "rank": 4
+      },
+      {
+        "text": "dinosaurios",
+        "rank": 5
+      },
+      {
+        "text": "rebajas en el corte inglés",
+        "rank": 6
+      },
+      {
+        "text": "en inglés",
+        "rank": 7
+      },
+      {
+        "text": "covid",
+        "rank": 8
+      },
+      {
+        "text": "algo que todo el mundo necesite",
+        "rank": 9
+      }
+    ]
+  },
+  {
+    "question": "por qué hay agujeros en",
+    "answers": [
+      {
+        "text": "el coliseo",
+        "rank": 1
+      },
+      {
+        "text": "el coliseo romano",
+        "rank": 2
+      },
+      {
+        "text": "la luna",
+        "rank": 3
+      },
+      {
+        "text": "gros en el universo",
+        "rank": 4
+      },
+      {
+        "text": "la.parte de adelante de un calzoncillo",
+        "rank": 5
+      },
+      {
+        "text": "gros en el espacio",
+        "rank": 6
+      }
+    ]
+  },
+  {
+    "question": "alguien ha visto alguna vez",
+    "answers": [
+      {
+        "text": "o un atomo",
+        "rank": 1
+      },
+      {
+        "text": "español",
+        "rank": 2
+      },
+      {
+        "text": "un dragon en ingles",
+        "rank": 3
+      },
+      {
+        "text": "una sirena",
+        "rank": 4
+      },
+      {
+        "text": "lguna vez un dragón",
+        "rank": 5
+      },
+      {
+        "text": "ia",
+        "rank": 6
+      },
+      {
+        "text": "una vez",
+        "rank": 7
+      },
+      {
+        "text": "a este actor en televisión antes en inglés",
+        "rank": 8
+      },
+      {
+        "text": "un dragón",
+        "rank": 9
+      }
+    ]
+  },
+  {
+    "question": "cómo colarse en",
+    "answers": [
+      {
+        "text": "el vip de dress to impress",
+        "rank": 1
+      },
+      {
+        "text": "port aventura",
+        "rank": 2
+      },
+      {
+        "text": "el primavera sound",
+        "rank": 3
+      },
+      {
+        "text": "cabarceno",
+        "rank": 4
+      },
+      {
+        "text": "transmilenio",
+        "rank": 5
+      },
+      {
+        "text": "disneyland paris",
+        "rank": 6
+      },
+      {
+        "text": "el lollapalooza",
+        "rank": 7
+      },
+      {
+        "text": "la zona vip de dress to impress",
+        "rank": 8
+      },
+      {
+        "text": "fila virtual",
+        "rank": 9
+      },
+      {
+        "text": "la fila virtual all access",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cuándo",
+    "answers": [
+      {
+        "text": "son las perseidas",
+        "rank": 1
+      },
+      {
+        "text": "juega el real madrid",
+        "rank": 2
+      },
+      {
+        "text": "juega el atlético de madrid",
+        "rank": 3
+      },
+      {
+        "text": "es san lorenzo",
+        "rank": 4
+      },
+      {
+        "text": "juega la selección española femenina",
+        "rank": 5
+      },
+      {
+        "text": "juega españa",
+        "rank": 6
+      },
+      {
+        "text": "es la final de la champions",
+        "rank": 7
+      },
+      {
+        "text": "juega el barça",
+        "rank": 8
+      },
+      {
+        "text": "juega alcaraz",
+        "rank": 9
+      },
+      {
+        "text": "es luna llena",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "dónde",
+    "answers": [
+      {
+        "text": "ver el joan gamper",
+        "rank": 1
+      },
+      {
+        "text": "mirar wsg tirol contra real madrid",
+        "rank": 2
+      },
+      {
+        "text": "mirar fc barcelona contra como 1907",
+        "rank": 3
+      },
+      {
+        "text": "ver el barcelona hoy",
+        "rank": 4
+      },
+      {
+        "text": "televisan el barcelona",
+        "rank": 5
+      },
+      {
+        "text": "mirar chelsea contra ac milan",
+        "rank": 6
+      },
+      {
+        "text": "mirar toulouse fc contra sevilla fc",
+        "rank": 7
+      },
+      {
+        "text": "mirar ud almeria contra al-nassr",
+        "rank": 8
+      },
+      {
+        "text": "está cincinnati",
+        "rank": 9
+      },
+      {
+        "text": "mirar crystal palace contra liverpool fc",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "quién",
+    "answers": [
+      {
+        "text": "salió anoche de supervivientes",
+        "rank": 1
+      },
+      {
+        "text": "juega hoy al fútbol",
+        "rank": 2
+      },
+      {
+        "text": "juega hoy en el mundial de clubes",
+        "rank": 3
+      },
+      {
+        "text": "va a ganar el balón de oro 2025",
+        "rank": 4
+      },
+      {
+        "text": "ganó ayer tu cara me suena",
+        "rank": 5
+      },
+      {
+        "text": "es la pareja de cuca gamarra",
+        "rank": 6
+      },
+      {
+        "text": "torea hoy en las ventas",
+        "rank": 7
+      },
+      {
+        "text": "es plex",
+        "rank": 8
+      },
+      {
+        "text": "juega hoy",
+        "rank": 9
+      },
+      {
+        "text": "fue expulsado ayer de supervivientes",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cuál es",
+    "answers": [
+      {
+        "text": "antiinflamatorio el ibuprofeno o el paracetamol",
+        "rank": 1
+      },
+      {
+        "text": "andy y cuál es lucas",
+        "rank": 2
+      },
+      {
+        "text": "actualmente el mejor restaurante del mundo",
+        "rank": 3
+      },
+      {
+        "text": "américa del norte",
+        "rank": 4
+      },
+      {
+        "text": "actualmente el salario mínimo interprofesional",
+        "rank": 5
+      },
+      {
+        "text": "el país más grande del mundo",
+        "rank": 6
+      },
+      {
+        "text": "actualmente el crucero más grande del mundo",
+        "rank": 7
+      },
+      {
+        "text": "el mejor equipo del mundo",
+        "rank": 8
+      },
+      {
+        "text": "el dia mas largo del año",
+        "rank": 9
+      },
+      {
+        "text": "aguda llana o esdrújula",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo funciona",
+    "answers": [
+      {
+        "text": "amazon fotos",
+        "rank": 1
+      },
+      {
+        "text": "alquiler seguro",
+        "rank": 2
+      },
+      {
+        "text": "el mundial de clubes",
+        "rank": 3
+      },
+      {
+        "text": "airbnb",
+        "rank": 4
+      },
+      {
+        "text": "android auto",
+        "rank": 5
+      },
+      {
+        "text": "paypal",
+        "rank": 6
+      },
+      {
+        "text": "el chat gpt",
+        "rank": 7
+      },
+      {
+        "text": "un aire acondicionado portátil",
+        "rank": 8
+      },
+      {
+        "text": "un aire acondicionado",
+        "rank": 9
+      },
+      {
+        "text": "amazon locker",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "para qué sirve",
+    "answers": [
+      {
+        "text": "amoxicilina",
+        "rank": 1
+      },
+      {
+        "text": "arcoxia",
+        "rank": 2
+      },
+      {
+        "text": "el nolotil",
+        "rank": 3
+      },
+      {
+        "text": "la creatina",
+        "rank": 4
+      },
+      {
+        "text": "amlodipino",
+        "rank": 5
+      },
+      {
+        "text": "antalgin",
+        "rank": 6
+      },
+      {
+        "text": "la cúrcuma",
+        "rank": 7
+      },
+      {
+        "text": "alprazolam",
+        "rank": 8
+      },
+      {
+        "text": "acetilcisteína",
+        "rank": 9
+      },
+      {
+        "text": "el algidol",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cuánto cuesta",
+    "answers": [
+      {
+        "text": "alquilar una moto de agua",
+        "rank": 1
+      },
+      {
+        "text": "renovar el dni",
+        "rank": 2
+      },
+      {
+        "text": "amazon prime",
+        "rank": 3
+      },
+      {
+        "text": "un tesla",
+        "rank": 4
+      },
+      {
+        "text": "alquilar un coche",
+        "rank": 5
+      },
+      {
+        "text": "renovar el carnet de conducir",
+        "rank": 6
+      },
+      {
+        "text": "un lamborghini",
+        "rank": 7
+      },
+      {
+        "text": "afiliarse a comisiones obreras",
+        "rank": 8
+      },
+      {
+        "text": "alquilar una caravana",
+        "rank": 9
+      },
+      {
+        "text": "la nintendo switch 2",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo construir",
+    "answers": [
+      {
+        "text": "una barbacoa",
+        "rank": 1
+      },
+      {
+        "text": "en minecraft",
+        "rank": 2
+      },
+      {
+        "text": "una casa de madera",
+        "rank": 3
+      },
+      {
+        "text": "una pérgola",
+        "rank": 4
+      },
+      {
+        "text": "argumentos",
+        "rank": 5
+      },
+      {
+        "text": "una piscina",
+        "rank": 6
+      },
+      {
+        "text": "una mansión en minecraft",
+        "rank": 7
+      },
+      {
+        "text": "a sonic en minecraft",
+        "rank": 8
+      },
+      {
+        "text": "argumentos adecuados para un ensayo académico",
+        "rank": 9
+      },
+      {
+        "text": "ambientes seguros",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo dibujar",
+    "answers": [
+      {
+        "text": "una flor",
+        "rank": 1
+      },
+      {
+        "text": "a cristiano ronaldo",
+        "rank": 2
+      },
+      {
+        "text": "un capibara",
+        "rank": 3
+      },
+      {
+        "text": "un gato",
+        "rank": 4
+      },
+      {
+        "text": "una mariposa",
+        "rank": 5
+      },
+      {
+        "text": "a stitch",
+        "rank": 6
+      },
+      {
+        "text": "a sonic",
+        "rank": 7
+      },
+      {
+        "text": "a doraemon",
+        "rank": 8
+      },
+      {
+        "text": "a goku",
+        "rank": 9
+      },
+      {
+        "text": "a messi",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo hacerse rico",
+    "answers": [
+      {
+        "text": "según robert kiyosaki",
+        "rank": 1
+      },
+      {
+        "text": "en gta online",
+        "rank": 2
+      },
+      {
+        "text": "de nabal",
+        "rank": 3
+      },
+      {
+        "text": "sin ayuda de la suerte",
+        "rank": 4
+      },
+      {
+        "text": "antes de que muera la abuela",
+        "rank": 5
+      },
+      {
+        "text": "rápido",
+        "rank": 6
+      },
+      {
+        "text": "s reparto",
+        "rank": 7
+      },
+      {
+        "text": "rápidamente",
+        "rank": 8
+      },
+      {
+        "text": "de naval",
+        "rank": 9
+      },
+      {
+        "text": "según la biblia",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo matar",
+    "answers": [
+      {
+        "text": "moscas",
+        "rank": 1
+      },
+      {
+        "text": "las pulgas",
+        "rank": 2
+      },
+      {
+        "text": "las cucarachas",
+        "rank": 3
+      },
+      {
+        "text": "hormigas",
+        "rank": 4
+      },
+      {
+        "text": "los chinches",
+        "rank": 5
+      },
+      {
+        "text": "ratas",
+        "rank": 6
+      },
+      {
+        "text": "las garrapatas",
+        "rank": 7
+      },
+      {
+        "text": "un avispero",
+        "rank": 8
+      },
+      {
+        "text": "avispas",
+        "rank": 9
+      },
+      {
+        "text": "un árbol",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo hacer",
+    "answers": [
+      {
+        "text": "arroz con bogavante",
+        "rank": 1
+      },
+      {
+        "text": "crepes",
+        "rank": 2
+      },
+      {
+        "text": "albóndigas en salsa",
+        "rank": 3
+      },
+      {
+        "text": "cebolla caramelizada",
+        "rank": 4
+      },
+      {
+        "text": "boquerones en vinagre",
+        "rank": 5
+      },
+      {
+        "text": "arroz blanco",
+        "rank": 6
+      },
+      {
+        "text": "gazpacho",
+        "rank": 7
+      },
+      {
+        "text": "alioli",
+        "rank": 8
+      },
+      {
+        "text": "una fideuá",
+        "rank": 9
+      },
+      {
+        "text": "salmorejo",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "puedes fumar",
+    "answers": [
+      {
+        "text": "dando pecho",
+        "rank": 1
+      },
+      {
+        "text": "si te sacan una muela",
+        "rank": 2
+      },
+      {
+        "text": "en el coche",
+        "rank": 3
+      },
+      {
+        "text": "mientras conduces",
+        "rank": 4
+      },
+      {
+        "text": "en la playa",
+        "rank": 5
+      },
+      {
+        "text": "despues de sacarte una muela",
+        "rank": 6
+      },
+      {
+        "text": "despues de un empaste",
+        "rank": 7
+      },
+      {
+        "text": "despues de una operacion",
+        "rank": 8
+      },
+      {
+        "text": "antes de un analisis de sangre",
+        "rank": 9
+      },
+      {
+        "text": "conduciendo",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "puedes enviar por correo",
+    "answers": [
+      {
+        "text": "por correo",
+        "rank": 1
+      },
+      {
+        "text": "correos",
+        "rank": 2
+      },
+      {
+        "text": "rreos de mexico",
+        "rank": 3
+      },
+      {
+        "text": "reo en ingles",
+        "rank": 4
+      },
+      {
+        "text": "iar por correo outlook",
+        "rank": 5
+      },
+      {
+        "text": "correo",
+        "rank": 6
+      },
+      {
+        "text": "iar por correo",
+        "rank": 7
+      },
+      {
+        "text": "rreo electrónico",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "question": "todavía hacen",
+    "answers": [
+      {
+        "text": "billetes de 2 dolares",
+        "rank": 1
+      },
+      {
+        "text": "cen lobotomias",
+        "rank": 2
+      },
+      {
+        "text": "cen los ofendidos",
+        "rank": 3
+      },
+      {
+        "text": "tazos",
+        "rank": 4
+      },
+      {
+        "text": "pruebas de covid gratis",
+        "rank": 5
+      },
+      {
+        "text": "hacen",
+        "rank": 6
+      },
+      {
+        "text": "davia hacen sacrificios",
+        "rank": 7
+      },
+      {
+        "text": "caso cerrado",
+        "rank": 8
+      },
+      {
+        "text": "cen exorcismos",
+        "rank": 9
+      },
+      {
+        "text": "pruebas de covid",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo salir de",
+    "answers": [
+      {
+        "text": "un grupo de whatsapp",
+        "rank": 1
+      },
+      {
+        "text": "l asnef",
+        "rank": 2
+      },
+      {
+        "text": "la lista de morosos",
+        "rank": 3
+      },
+      {
+        "text": "facebook",
+        "rank": 4
+      },
+      {
+        "text": "una depresión",
+        "rank": 5
+      },
+      {
+        "text": "una relación tóxica",
+        "rank": 6
+      },
+      {
+        "text": "búfalo",
+        "rank": 7
+      },
+      {
+        "text": "un grupo de facebook",
+        "rank": 8
+      },
+      {
+        "text": "l modo seguro",
+        "rank": 9
+      },
+      {
+        "text": "netflix",
+        "rank": 10
+      }
     ]
   }
 ]

@@ -13,7 +13,7 @@ class GoogleFeudGame {
         this.usedQuestions = new Set(); // Track used questions to prevent repeats
 
         this.init();
-    }    async init() {
+    } async init() {
         await this.loadGameData();
         this.setupEventListeners();
         this.updateDisplay();
@@ -146,7 +146,7 @@ class GoogleFeudGame {
             if (!this.revealedAnswers.includes(i) &&
                 this.normalizeText(answer.text).includes(this.normalizeText(guess))) {
 
-                this.revealAnswer(i);
+                this.revealAnswer(i, true);
                 // Calculate points based on rank
                 const points = 11000 - (answer.rank * 1000);
                 this.score += points;
@@ -180,24 +180,11 @@ class GoogleFeudGame {
         const $wrongX = $('<div class="wrong-answer-x">✗</div>');
         $('body').append($wrongX);
 
-        // Position it in the center of the screen
-        $wrongX.css({
-            position: 'fixed',
-            top: '50%',
-            left: '50%',
-            transform: 'translate(-50%, -50%)',
-            fontSize: '4em',
-            color: '#ea4335',
-            fontWeight: 'bold',
-            zIndex: 9999,
-            opacity: 1
-        });
-
         // Animate fade out and remove
         $wrongX.animate({
             opacity: 0,
             fontSize: '6em'
-        }, 800, function() {
+        }, 800, function () {
             $(this).remove();
         });
     }
@@ -210,27 +197,25 @@ class GoogleFeudGame {
             .trim();
     }
 
-    revealAnswer(index) {
+    revealAnswer(index, correct) {
         this.revealedAnswers.push(index);
         const $answerItem = $(`.answer-item[data-index="${index}"]`);
 
         $answerItem.addClass('revealed');
         $answerItem.find('.answer-text, .answer-points').css('visibility', 'visible');
+        if (correct) {
+            $answerItem.addClass('correct');
+        }
     }
 
     endRound() {
         // Reveal all remaining answers
         for (let i = 0; i < this.currentAnswers.length; i++) {
             if (!this.revealedAnswers.includes(i)) {
-                this.revealAnswer(i);
+                this.revealAnswer(i, false);
             }
         }
-
-        if (this.currentRound < 10) {
-            $('#nextRound').show();
-        } else {
-            this.endGame();
-        }
+        $('#nextRound').show();
     }
 
     nextRound() {
@@ -238,10 +223,8 @@ class GoogleFeudGame {
         this.guessesLeft = 4;
         this.updateDisplay();
 
-        if (this.currentRound <= 10) {
-            // Show category selection for next round
-            $('#gamePlay').hide();
-            $('#categorySelection').show();
+        if (this.currentRound <= 3) {
+            this.loadNewQuestion();
         } else {
             this.endGame();
         }
@@ -268,7 +251,7 @@ class GoogleFeudGame {
         $('#categorySelection').show();
 
         this.updateDisplay();
-    }    updateDisplay() {
+    } updateDisplay() {
         $('#score').text(this.score);
         $('#round').text(this.currentRound);
         $('#guesses').text(this.guessesLeft);

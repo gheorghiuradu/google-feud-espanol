@@ -1,77 +1,2622 @@
 [
   {
-    "question": "Mi novio es muy...?",
+    "question": "por qué la gente",
     "answers": [
-      { "text": "guapo", "rank": 1 },
-      { "text": "cariñoso", "rank": 2 },
-      { "text": "celoso", "rank": 3 },
-      { "text": "divertido", "rank": 4 },
-      { "text": "inteligente", "rank": 5 },
-      { "text": "alto", "rank": 6 },
-      { "text": "romántico", "rank": 7 },
-      { "text": "trabajador", "rank": 8 },
-      { "text": "gracioso", "rank": 9 },
-      { "text": "fiel", "rank": 10 }
+      {
+        "text": "no cree en dios",
+        "rank": 1
+      },
+      {
+        "text": "muerta no debe ser besada",
+        "rank": 2
+      },
+      {
+        "text": "hace el camino de santiago",
+        "rank": 3
+      },
+      {
+        "text": "hace ghosting",
+        "rank": 4
+      },
+      {
+        "text": "se come los mocos",
+        "rank": 5
+      },
+      {
+        "text": "ronca",
+        "rank": 6
+      },
+      {
+        "text": "habla sola",
+        "rank": 7
+      },
+      {
+        "text": "se hace tatuajes",
+        "rank": 8
+      },
+      {
+        "text": "es tan mala",
+        "rank": 9
+      },
+      {
+        "text": "se muerde las uñas",
+        "rank": 10
+      }
     ]
   },
   {
-    "question": "Mi jefe siempre está...?",
+    "question": "cómo son las personas",
     "answers": [
-      { "text": "estresado", "rank": 1 },
-      { "text": "ocupado", "rank": 2 },
-      { "text": "enojado", "rank": 3 },
-      { "text": "cansado", "rank": 4 },
-      { "text": "serio", "rank": 5 },
-      { "text": "preocupado", "rank": 6 },
-      { "text": "apurado", "rank": 7 },
-      { "text": "hablando", "rank": 8 },
-      { "text": "comiendo", "rank": 9 },
-      { "text": "trabajando", "rank": 10 }
+      {
+        "text": "sagitario",
+        "rank": 1
+      },
+      {
+        "text": "acuario",
+        "rank": 2
+      },
+      {
+        "text": "leo",
+        "rank": 3
+      },
+      {
+        "text": "virgo",
+        "rank": 4
+      },
+      {
+        "text": "del signo piscis",
+        "rank": 5
+      },
+      {
+        "text": "del signo capricornio",
+        "rank": 6
+      },
+      {
+        "text": "cáncer",
+        "rank": 7
+      },
+      {
+        "text": "géminis",
+        "rank": 8
+      },
+      {
+        "text": "del signo cáncer",
+        "rank": 9
+      },
+      {
+        "text": "aries",
+        "rank": 10
+      }
     ]
   },
   {
-    "question": "Los niños siempre quieren...?",
+    "question": "qué hacen los",
     "answers": [
-      { "text": "jugar", "rank": 1 },
-      { "text": "dulces", "rank": 2 },
-      { "text": "juguetes", "rank": 3 },
-      { "text": "ver televisión", "rank": 4 },
-      { "text": "helado", "rank": 5 },
-      { "text": "videojuegos", "rank": 6 },
-      { "text": "pizza", "rank": 7 },
-      { "text": "no ir a la escuela", "rank": 8 },
-      { "text": "quedarse despiertos", "rank": 9 },
-      { "text": "atención", "rank": 10 }
+      {
+        "text": "antihistamínicos",
+        "rank": 1
+      },
+      {
+        "text": "murciélagos",
+        "rank": 2
+      },
+      {
+        "text": "chinches",
+        "rank": 3
+      },
+      {
+        "text": "bebés",
+        "rank": 4
+      },
+      {
+        "text": "osteópatas",
+        "rank": 5
+      },
+      {
+        "text": "ingenieros",
+        "rank": 6
+      },
+      {
+        "text": "probióticos",
+        "rank": 7
+      },
+      {
+        "text": "corticoides",
+        "rank": 8
+      },
+      {
+        "text": "corticoides en el cuerpo",
+        "rank": 9
+      },
+      {
+        "text": "probióticos en el cuerpo",
+        "rank": 10
+      }
     ]
   },
   {
-    "question": "Mi mamá siempre me dice que...?",
+    "question": "cuándo las personas",
     "answers": [
-      { "text": "me cuide", "rank": 1 },
-      { "text": "estudie", "rank": 2 },
-      { "text": "coma", "rank": 3 },
-      { "text": "me ama", "rank": 4 },
-      { "text": "ordene mi cuarto", "rank": 5 },
-      { "text": "llegue temprano", "rank": 6 },
-      { "text": "me porte bien", "rank": 7 },
-      { "text": "ahorre dinero", "rank": 8 },
-      { "text": "sea feliz", "rank": 9 },
-      { "text": "me abrigué", "rank": 10 }
+      {
+        "text": "buenas son lastimadas",
+        "rank": 1
+      },
+      {
+        "text": "te decepcionan",
+        "rank": 2
+      },
+      {
+        "text": "cambian",
+        "rank": 3
+      },
+      {
+        "text": "comercian cómo se benefician ambas partes",
+        "rank": 4
+      },
+      {
+        "text": "se describen así mismas de qué hablan",
+        "rank": 5
+      },
+      {
+        "text": "se alejan de ti",
+        "rank": 6
+      },
+      {
+        "text": "se alejan de ti dejalas ir",
+        "rank": 7
+      },
+      {
+        "text": "hablan mal de ti",
+        "rank": 8
+      }
     ]
   },
   {
-    "question": "Los adolescentes pasan mucho tiempo...?",
+    "question": "dónde viven los",
     "answers": [
-      { "text": "en el celular", "rank": 1 },
-      { "text": "durmiendo", "rank": 2 },
-      { "text": "en redes sociales", "rank": 3 },
-      { "text": "con amigos", "rank": 4 },
-      { "text": "jugando videojuegos", "rank": 5 },
-      { "text": "escuchando música", "rank": 6 },
-      { "text": "estudiando", "rank": 7 },
-      { "text": "viendo series", "rank": 8 },
-      { "text": "en la escuela", "rank": 9 },
-      { "text": "comiendo", "rank": 10 }
+      {
+        "text": "cocodrilos",
+        "rank": 1
+      },
+      {
+        "text": "pingüinos",
+        "rank": 2
+      },
+      {
+        "text": "koalas",
+        "rank": 3
+      },
+      {
+        "text": "capibaras",
+        "rank": 4
+      },
+      {
+        "text": "reyes de españa",
+        "rank": 5
+      },
+      {
+        "text": "tigres",
+        "rank": 6
+      },
+      {
+        "text": "osos polares",
+        "rank": 7
+      },
+      {
+        "text": "ajolotes",
+        "rank": 8
+      },
+      {
+        "text": "elefantes",
+        "rank": 9
+      },
+      {
+        "text": "leones",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "por qué es mi hijo tan",
+    "answers": [
+      {
+        "text": "lloron",
+        "rank": 1
+      },
+      {
+        "text": "tonto",
+        "rank": 2
+      },
+      {
+        "text": "pesado",
+        "rank": 3
+      },
+      {
+        "text": "guapo",
+        "rank": 4
+      },
+      {
+        "text": "hiperactivo",
+        "rank": 5
+      },
+      {
+        "text": "feo",
+        "rank": 6
+      },
+      {
+        "text": "hermoso",
+        "rank": 7
+      },
+      {
+        "text": "lindo",
+        "rank": 8
+      },
+      {
+        "text": "agresivo",
+        "rank": 9
+      },
+      {
+        "text": "inquieto",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "estoy enamorado de mi",
+    "answers": [
+      {
+        "text": "amante",
+        "rank": 1
+      },
+      {
+        "text": "hermana manga",
+        "rank": 2
+      },
+      {
+        "text": "pais",
+        "rank": 3
+      },
+      {
+        "text": "amiga",
+        "rank": 4
+      },
+      {
+        "text": "madre",
+        "rank": 5
+      },
+      {
+        "text": "ex",
+        "rank": 6
+      },
+      {
+        "text": "mujer",
+        "rank": 7
+      },
+      {
+        "text": "auto queen",
+        "rank": 8
+      },
+      {
+        "text": "mejor amiga pero ella no",
+        "rank": 9
+      },
+      {
+        "text": "hermana",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "puedo ser un",
+    "answers": [
+      {
+        "text": "a bruja",
+        "rank": 1
+      },
+      {
+        "text": "a persona en situación de vulnerabilidad",
+        "rank": 2
+      },
+      {
+        "text": "ángel o un demonio frases",
+        "rank": 3
+      },
+      {
+        "text": "emprendedor",
+        "rank": 4
+      },
+      {
+        "text": "poco mayor a ti pero puedo ser tu novia manga",
+        "rank": 5
+      },
+      {
+        "text": "a estrella un cantante",
+        "rank": 6
+      },
+      {
+        "text": "villano pero no un monstruo",
+        "rank": 7
+      },
+      {
+        "text": "esclavo y no un sacerdote",
+        "rank": 8
+      },
+      {
+        "text": "comunicador efectivo",
+        "rank": 9
+      },
+      {
+        "text": "comunicador efectivo utel",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "puedo comer mi",
+    "answers": [
+      {
+        "text": "el estando embarazada",
+        "rank": 1
+      },
+      {
+        "text": "el con diarrea",
+        "rank": 2
+      },
+      {
+        "text": "el antes de una colonoscopia",
+        "rank": 3
+      },
+      {
+        "text": "entras doy pecho",
+        "rank": 4
+      },
+      {
+        "text": "el con gastroenteritis",
+        "rank": 5
+      },
+      {
+        "text": "el en el embarazo",
+        "rank": 6
+      },
+      {
+        "text": "el si tengo cáncer",
+        "rank": 7
+      },
+      {
+        "text": "el en la lactancia",
+        "rank": 8
+      },
+      {
+        "text": "el si tengo sibo",
+        "rank": 9
+      },
+      {
+        "text": "el si tengo diarrea",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "se puede vender tu",
+    "answers": [
+      {
+        "text": "parte de una casa",
+        "rank": 1
+      },
+      {
+        "text": "cuenta de fortnite",
+        "rank": 2
+      },
+      {
+        "text": "s ovulos",
+        "rank": 3
+      },
+      {
+        "text": "iphone a apple",
+        "rank": 4
+      },
+      {
+        "text": "cuenta de steam",
+        "rank": 5
+      },
+      {
+        "text": "parte de una herencia",
+        "rank": 6
+      },
+      {
+        "text": "ropa en roblox",
+        "rank": 7
+      },
+      {
+        "text": "s vacaciones",
+        "rank": 8
+      },
+      {
+        "text": "casa al banco",
+        "rank": 9
+      },
+      {
+        "text": "casa en gta 5 online",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "se puede oler",
+    "answers": [
+      {
+        "text": "un iceberg",
+        "rank": 1
+      },
+      {
+        "text": "el aire",
+        "rank": 2
+      },
+      {
+        "text": "el parkinson",
+        "rank": 3
+      },
+      {
+        "text": "por la boca",
+        "rank": 4
+      },
+      {
+        "text": "alcohol",
+        "rank": 5
+      },
+      {
+        "text": "el miedo",
+        "rank": 6
+      },
+      {
+        "text": "la muerte",
+        "rank": 7
+      },
+      {
+        "text": "bajo el agua",
+        "rank": 8
+      },
+      {
+        "text": "en los sueños",
+        "rank": 9
+      },
+      {
+        "text": "el cancer",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo mejorar tu",
+    "answers": [
+      {
+        "text": "vocabulario",
+        "rank": 1
+      },
+      {
+        "text": "cámara",
+        "rank": 2
+      },
+      {
+        "text": "voz",
+        "rank": 3
+      },
+      {
+        "text": "autoestima",
+        "rank": 4
+      },
+      {
+        "text": "sistema inmune",
+        "rank": 5
+      },
+      {
+        "text": "caligrafía",
+        "rank": 6
+      },
+      {
+        "text": "vista",
+        "rank": 7
+      },
+      {
+        "text": "puntería en fortnite",
+        "rank": 8
+      },
+      {
+        "text": "s dibujos",
+        "rank": 9
+      },
+      {
+        "text": "letra",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo hacer que alguien",
+    "answers": [
+      {
+        "text": "sueñe conmigo",
+        "rank": 1
+      },
+      {
+        "text": "te escriba",
+        "rank": 2
+      },
+      {
+        "text": "te deje de seguir en instagram",
+        "rank": 3
+      },
+      {
+        "text": "deje de roncar",
+        "rank": 4
+      },
+      {
+        "text": "sueñe contigo",
+        "rank": 5
+      },
+      {
+        "text": "te busque",
+        "rank": 6
+      },
+      {
+        "text": "se enamore de ti",
+        "rank": 7
+      },
+      {
+        "text": "no vea mis publicaciones en instagram",
+        "rank": 8
+      },
+      {
+        "text": "piense en ti",
+        "rank": 9
+      },
+      {
+        "text": "te extrañe",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cuánto tiempo debería",
+    "answers": [
+      {
+        "text": "rvir un huevo duro",
+        "rank": 1
+      },
+      {
+        "text": "rvir un huevo",
+        "rank": 2
+      },
+      {
+        "text": "sar entre la toma de un medicamento y otro",
+        "rank": 3
+      },
+      {
+        "text": "rvir el brócoli",
+        "rank": 4
+      },
+      {
+        "text": "tar aislada una persona con yodo radiactivo",
+        "rank": 5
+      },
+      {
+        "text": "dicar un antivirus al escaneo",
+        "rank": 6
+      },
+      {
+        "text": "ayunar para perder peso en un mes",
+        "rank": 7
+      },
+      {
+        "text": "rar una siesta",
+        "rank": 8
+      },
+      {
+        "text": "mantenerse una elongación estática",
+        "rank": 9
+      },
+      {
+        "text": "cer el arroz",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo aguantar",
+    "answers": [
+      {
+        "text": "haciendo el pino",
+        "rank": 1
+      },
+      {
+        "text": "a una mujer",
+        "rank": 2
+      },
+      {
+        "text": "un mal ambiente en el trabajo",
+        "rank": 3
+      },
+      {
+        "text": "el pis",
+        "rank": 4
+      },
+      {
+        "text": "más la respiración debajo del agua",
+        "rank": 5
+      },
+      {
+        "text": "el hambre",
+        "rank": 6
+      },
+      {
+        "text": "el sueño",
+        "rank": 7
+      },
+      {
+        "text": "la respiración bajo el agua",
+        "rank": 8
+      },
+      {
+        "text": "más tiempo debajo del agua",
+        "rank": 9
+      },
+      {
+        "text": "las ganas de orinar",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "debería ser un",
+    "answers": [
+      {
+        "text": "er una relación de pareja",
+        "rank": 1
+      },
+      {
+        "text": "mbre feminista",
+        "rank": 2
+      },
+      {
+        "text": "er un buen presidente para bolivia",
+        "rank": 3
+      },
+      {
+        "text": "er una escuela realmente inclusiva",
+        "rank": 4
+      },
+      {
+        "text": "delito ir a trabajar con el corazon roto",
+        "rank": 5
+      },
+      {
+        "text": "er una alimentación saludable",
+        "rank": 6
+      },
+      {
+        "text": "er una correcta alimentación",
+        "rank": 7
+      },
+      {
+        "text": "er una característica de una noticia",
+        "rank": 8
+      },
+      {
+        "text": "matrimonio por conveniencia",
+        "rank": 9
+      },
+      {
+        "text": "er un gobierno",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "debería ir a",
+    "answers": [
+      {
+        "text": "la universidad jw",
+        "rank": 1
+      },
+      {
+        "text": "un psicólogo test",
+        "rank": 2
+      },
+      {
+        "text": "l gym si estoy resfriado",
+        "rank": 3
+      },
+      {
+        "text": "l doctor en inglés",
+        "rank": 4
+      },
+      {
+        "text": "l psiquiatra",
+        "rank": 5
+      },
+      {
+        "text": "vivir al monte",
+        "rank": 6
+      },
+      {
+        "text": "l gimnasio si estoy resfriado",
+        "rank": 7
+      },
+      {
+        "text": "l psicólogo",
+        "rank": 8
+      },
+      {
+        "text": "la universidad",
+        "rank": 9
+      },
+      {
+        "text": "l gimnasio con gripe",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "debería empezar",
+    "answers": [
+      {
+        "text": "pezar un email",
+        "rank": 1
+      },
+      {
+        "text": "a correr",
+        "rank": 2
+      },
+      {
+        "text": "a pensar un poco más en mí",
+        "rank": 3
+      },
+      {
+        "text": "pezar un artículo de divulgación científica",
+        "rank": 4
+      },
+      {
+        "text": "ar un email",
+        "rank": 5
+      },
+      {
+        "text": "ar a leer la.biblia",
+        "rank": 6
+      },
+      {
+        "text": "a fumar",
+        "rank": 7
+      },
+      {
+        "text": "ezar a tomar creatina",
+        "rank": 8
+      },
+      {
+        "text": "empezar a hacer la pizza sí quiero cenar a las 9",
+        "rank": 9
+      }
+    ]
+  },
+  {
+    "question": "debería parar",
+    "answers": [
+      {
+        "text": "arar el motor para ahorrar combustible",
+        "rank": 1
+      },
+      {
+        "text": "arar el motor",
+        "rank": 2
+      },
+      {
+        "text": "in english",
+        "rank": 3
+      },
+      {
+        "text": "ia parar y empezar a confesar",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "question": "qué partes del cuerpo se puede",
+    "answers": [
+      {
+        "text": "n depilar con laser",
+        "rank": 1
+      },
+      {
+        "text": "n usar en voleibol",
+        "rank": 2
+      },
+      {
+        "text": "inyectar la insulina",
+        "rank": 3
+      },
+      {
+        "text": "n trabajar en el gym",
+        "rank": 4
+      },
+      {
+        "text": "n donar en vida",
+        "rank": 5
+      },
+      {
+        "text": "n regenerar",
+        "rank": 6
+      },
+      {
+        "text": "n trasplantar",
+        "rank": 7
+      },
+      {
+        "text": "n donar",
+        "rank": 8
+      },
+      {
+        "text": "poner la insulina",
+        "rank": 9
+      }
+    ]
+  },
+  {
+    "question": "dónde puedo comprar humano",
+    "answers": [
+      {
+        "text": "iones de cabello humano",
+        "rank": 1
+      },
+      {
+        "text": "humano",
+        "rank": 2
+      },
+      {
+        "text": "asitante para humanos",
+        "rank": 3
+      },
+      {
+        "text": "e de consumo humano",
+        "rank": 4
+      },
+      {
+        "text": "ot humanoide",
+        "rank": 5
+      },
+      {
+        "text": "e para consumo humano",
+        "rank": 6
+      },
+      {
+        "text": "iones de pelo humano",
+        "rank": 7
+      },
+      {
+        "text": "una del papiloma humano en costa rica",
+        "rank": 8
+      },
+      {
+        "text": "para papiloma humano",
+        "rank": 9
+      },
+      {
+        "text": "e para humanos",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "quién está casado con",
+    "answers": [
+      {
+        "text": "espinosa de los monteros",
+        "rank": 1
+      },
+      {
+        "text": "óscar higares",
+        "rank": 2
+      },
+      {
+        "text": "chayanne",
+        "rank": 3
+      },
+      {
+        "text": "bárbara de regil",
+        "rank": 4
+      },
+      {
+        "text": "viggo mortensen",
+        "rank": 5
+      },
+      {
+        "text": "la hija de bono",
+        "rank": 6
+      },
+      {
+        "text": "matt damon",
+        "rank": 7
+      },
+      {
+        "text": "ana boyer",
+        "rank": 8
+      },
+      {
+        "text": "gal gadot",
+        "rank": 9
+      },
+      {
+        "text": "jorge macri",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "quién es el más rico del mundo",
+    "answers": [
+      {
+        "text": "top 10",
+        "rank": 1
+      },
+      {
+        "text": "según la revista forbes",
+        "rank": 2
+      },
+      {
+        "text": "ahora mismo",
+        "rank": 3
+      },
+      {
+        "text": "actualmente en 2024",
+        "rank": 4
+      },
+      {
+        "text": "entero",
+        "rank": 5
+      },
+      {
+        "text": "actualmente",
+        "rank": 6
+      },
+      {
+        "text": "2025",
+        "rank": 7
+      },
+      {
+        "text": "mundial",
+        "rank": 8
+      },
+      {
+        "text": "ahora",
+        "rank": 9
+      },
+      {
+        "text": "en este momento",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "por qué los adultos tienen",
+    "answers": [
+      {
+        "text": "nen piojos",
+        "rank": 1
+      },
+      {
+        "text": "nen cosquillas",
+        "rank": 2
+      },
+      {
+        "text": "tos tienen otras características",
+        "rank": 3
+      },
+      {
+        "text": "que trabajar",
+        "rank": 4
+      },
+      {
+        "text": "s tienen mayor riesgo de deshidratación",
+        "rank": 5
+      },
+      {
+        "text": "parásitos",
+        "rank": 6
+      },
+      {
+        "text": "s tienen alucinaciones",
+        "rank": 7
+      },
+      {
+        "text": "hipo",
+        "rank": 8
+      },
+      {
+        "text": "menos huesos",
+        "rank": 9
+      },
+      {
+        "text": "206 huesos",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "por qué me siento tan",
+    "answers": [
+      {
+        "text": "agotado",
+        "rank": 1
+      },
+      {
+        "text": "mal",
+        "rank": 2
+      },
+      {
+        "text": "cansada y agotada",
+        "rank": 3
+      },
+      {
+        "text": "débil",
+        "rank": 4
+      },
+      {
+        "text": "sola",
+        "rank": 5
+      },
+      {
+        "text": "triste",
+        "rank": 6
+      },
+      {
+        "text": "cansada y sin ganas de hacer nada",
+        "rank": 7
+      },
+      {
+        "text": "hinchada",
+        "rank": 8
+      },
+      {
+        "text": "mareada",
+        "rank": 9
+      },
+      {
+        "text": "cansada",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "por qué los hombres",
+    "answers": [
+      {
+        "text": "viven menos",
+        "rank": 1
+      },
+      {
+        "text": "tienen nuez y las mujeres no",
+        "rank": 2
+      },
+      {
+        "text": "se quedan calvos",
+        "rank": 3
+      },
+      {
+        "text": "mienten",
+        "rank": 4
+      },
+      {
+        "text": "tienen barba y las mujeres no",
+        "rank": 5
+      },
+      {
+        "text": "no escuchan y las mujeres no entienden los mapas",
+        "rank": 6
+      },
+      {
+        "text": "no tienen celulitis",
+        "rank": 7
+      },
+      {
+        "text": "tienen nuez",
+        "rank": 8
+      },
+      {
+        "text": "se pintan las uñas de negro",
+        "rank": 9
+      },
+      {
+        "text": "viven menos que las mujeres",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "por qué la gente",
+    "answers": [
+      {
+        "text": "no cree en dios",
+        "rank": 1
+      },
+      {
+        "text": "muerta no debe ser besada",
+        "rank": 2
+      },
+      {
+        "text": "hace el camino de santiago",
+        "rank": 3
+      },
+      {
+        "text": "hace ghosting",
+        "rank": 4
+      },
+      {
+        "text": "se come los mocos",
+        "rank": 5
+      },
+      {
+        "text": "ronca",
+        "rank": 6
+      },
+      {
+        "text": "habla sola",
+        "rank": 7
+      },
+      {
+        "text": "se hace tatuajes",
+        "rank": 8
+      },
+      {
+        "text": "es tan mala",
+        "rank": 9
+      },
+      {
+        "text": "se muerde las uñas",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "por qué las mujeres",
+    "answers": [
+      {
+        "text": "viven más que los hombres",
+        "rank": 1
+      },
+      {
+        "text": "tienen que dormir más que los hombres",
+        "rank": 2
+      },
+      {
+        "text": "amish deben extraerse los dientes",
+        "rank": 3
+      },
+      {
+        "text": "amish se quitan los dientes",
+        "rank": 4
+      },
+      {
+        "text": "cruzan las piernas",
+        "rank": 5
+      },
+      {
+        "text": "amish se sacan los dientes",
+        "rank": 6
+      },
+      {
+        "text": "tienen la regla",
+        "rank": 7
+      },
+      {
+        "text": "matan",
+        "rank": 8
+      },
+      {
+        "text": "amish se extraen los dientes",
+        "rank": 9
+      },
+      {
+        "text": "musulmanas llevan velo",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "por qué mi brazo",
+    "answers": [
+      {
+        "text": "izquierdo se duerme",
+        "rank": 1
+      },
+      {
+        "text": "derecho tiembla",
+        "rank": 2
+      },
+      {
+        "text": "izquierdo se me duerme",
+        "rank": 3
+      },
+      {
+        "text": "tiembla",
+        "rank": 4
+      },
+      {
+        "text": "se mueve solo",
+        "rank": 5
+      },
+      {
+        "text": "no tiene fuerza",
+        "rank": 6
+      },
+      {
+        "text": "palpita",
+        "rank": 7
+      },
+      {
+        "text": "izquierdo tiembla",
+        "rank": 8
+      },
+      {
+        "text": "izquierdo se adormece",
+        "rank": 9
+      },
+      {
+        "text": "se adormece",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "por qué es mi novio tan",
+    "answers": [
+      {
+        "text": "celoso",
+        "rank": 1
+      },
+      {
+        "text": "estúpido",
+        "rank": 2
+      },
+      {
+        "text": "mentiroso",
+        "rank": 3
+      },
+      {
+        "text": "lindo",
+        "rank": 4
+      },
+      {
+        "text": "hermoso",
+        "rank": 5
+      },
+      {
+        "text": "tonto",
+        "rank": 6
+      },
+      {
+        "text": "caliente",
+        "rank": 7
+      },
+      {
+        "text": "frio conmigo",
+        "rank": 8
+      },
+      {
+        "text": "perfecto",
+        "rank": 9
+      },
+      {
+        "text": "tóxico",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "por qué es mi novia tan",
+    "answers": [
+      {
+        "text": "celosa",
+        "rank": 1
+      },
+      {
+        "text": "enojona",
+        "rank": 2
+      },
+      {
+        "text": "perfecta",
+        "rank": 3
+      },
+      {
+        "text": "pesada",
+        "rank": 4
+      },
+      {
+        "text": "bonita",
+        "rank": 5
+      },
+      {
+        "text": "hermosa",
+        "rank": 6
+      },
+      {
+        "text": "guapa",
+        "rank": 7
+      },
+      {
+        "text": "tóxica",
+        "rank": 8
+      },
+      {
+        "text": "fea",
+        "rank": 9
+      },
+      {
+        "text": "tonta",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "baños cerca",
+    "answers": [
+      {
+        "text": "de mi ubicación",
+        "rank": 1
+      },
+      {
+        "text": "de mi abierto ahora",
+        "rank": 2
+      },
+      {
+        "text": "de mi",
+        "rank": 3
+      },
+      {
+        "text": "de alicante",
+        "rank": 4
+      },
+      {
+        "text": "de madrid",
+        "rank": 5
+      },
+      {
+        "text": "nos",
+        "rank": 6
+      },
+      {
+        "text": "de teruel",
+        "rank": 7
+      },
+      {
+        "text": "abierto ahora",
+        "rank": 8
+      },
+      {
+        "text": "a mi",
+        "rank": 9
+      },
+      {
+        "text": "nias madrid",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "mejor manera de matar",
+    "answers": [
+      {
+        "text": "mosquitos",
+        "rank": 1
+      },
+      {
+        "text": "garrapatas",
+        "rank": 2
+      },
+      {
+        "text": "chinches",
+        "rank": 3
+      },
+      {
+        "text": "ratones",
+        "rank": 4
+      },
+      {
+        "text": "zancudos",
+        "rank": 5
+      },
+      {
+        "text": "hormigas",
+        "rank": 6
+      },
+      {
+        "text": "moscas",
+        "rank": 7
+      },
+      {
+        "text": "cucarachas",
+        "rank": 8
+      },
+      {
+        "text": "un pollo",
+        "rank": 9
+      },
+      {
+        "text": "ratas",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "de papá",
+    "answers": [
+      {
+        "text": "pitufo",
+        "rank": 1
+      },
+      {
+        "text": "noel",
+        "rank": 2
+      },
+      {
+        "text": "cerdito",
+        "rank": 3
+      },
+      {
+        "text": "dios",
+        "rank": 4
+      },
+      {
+        "text": "la huancaína",
+        "rank": 5
+      },
+      {
+        "text": "a la crema",
+        "rank": 6
+      },
+      {
+        "text": "y mamá",
+        "rank": 7
+      },
+      {
+        "text": "e hija",
+        "rank": 8
+      },
+      {
+        "text": "y hija",
+        "rank": 9
+      },
+      {
+        "text": "para mi hija",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo deshacerse de tu",
+    "answers": [
+      {
+        "text": "s tuzas",
+        "rank": 1
+      },
+      {
+        "text": "patan",
+        "rank": 2
+      },
+      {
+        "text": "ojo turco",
+        "rank": 3
+      },
+      {
+        "text": "a turmalina negra",
+        "rank": 4
+      },
+      {
+        "text": "novio en 10 dias",
+        "rank": 5
+      },
+      {
+        "text": "s tuqueques",
+        "rank": 6
+      },
+      {
+        "text": "s turiros",
+        "rank": 7
+      },
+      {
+        "text": "tumor",
+        "rank": 8
+      },
+      {
+        "text": "jefe",
+        "rank": 9
+      },
+      {
+        "text": "jefe pelicula",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo parecer",
+    "answers": [
+      {
+        "text": "inteligente en tu charla impartida por will stephen",
+        "rank": 1
+      },
+      {
+        "text": "hacker",
+        "rank": 2
+      },
+      {
+        "text": "más delgada",
+        "rank": 3
+      },
+      {
+        "text": "más joven",
+        "rank": 4
+      },
+      {
+        "text": "hacker en roblox",
+        "rank": 5
+      },
+      {
+        "text": "de 30 a 40",
+        "rank": 6
+      },
+      {
+        "text": "coreana",
+        "rank": 7
+      },
+      {
+        "text": "seguros aunque no lo estemos",
+        "rank": 8
+      },
+      {
+        "text": "rico",
+        "rank": 9
+      }
+    ]
+  },
+  {
+    "question": "cómo criar",
+    "answers": [
+      {
+        "text": "canarios",
+        "rank": 1
+      },
+      {
+        "text": "un gorrión",
+        "rank": 2
+      },
+      {
+        "text": "mariquitas",
+        "rank": 3
+      },
+      {
+        "text": "caracoles en casa",
+        "rank": 4
+      },
+      {
+        "text": "a un superhéroe reparto",
+        "rank": 5
+      },
+      {
+        "text": "gusanos de seda",
+        "rank": 6
+      },
+      {
+        "text": "caracoles",
+        "rank": 7
+      },
+      {
+        "text": "a un superhéroe temporada 2",
+        "rank": 8
+      },
+      {
+        "text": "tenebrios",
+        "rank": 9
+      },
+      {
+        "text": "a un gorrión en casa",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "huelo",
+    "answers": [
+      {
+        "text": "bien",
+        "rank": 1
+      },
+      {
+        "text": "s baratos",
+        "rank": 2
+      },
+      {
+        "text": "seco",
+        "rank": 3
+      },
+      {
+        "text": "de oler",
+        "rank": 4
+      },
+      {
+        "text": "el miedo",
+        "rank": 5
+      },
+      {
+        "text": "s",
+        "rank": 6
+      },
+      {
+        "text": "a humo todo el tiempo",
+        "rank": 7
+      },
+      {
+        "text": "a metal",
+        "rank": 8
+      },
+      {
+        "text": "mal",
+        "rank": 9
+      },
+      {
+        "text": "a ti",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "soy demasiado",
+    "answers": [
+      {
+        "text": "viejo para estas cosas",
+        "rank": 1
+      },
+      {
+        "text": "sensible",
+        "rank": 2
+      },
+      {
+        "text": "ambiente para mi sueldo",
+        "rank": 3
+      },
+      {
+        "text": "ambiente meme",
+        "rank": 4
+      },
+      {
+        "text": "ambiente para el sueldo que me pagan",
+        "rank": 5
+      },
+      {
+        "text": "amor para tanta ausencia",
+        "rank": 6
+      },
+      {
+        "text": "feliz para estar pensando en ti",
+        "rank": 7
+      },
+      {
+        "text": "ambiente frases",
+        "rank": 8
+      },
+      {
+        "text": "ambiente para mi cuenta bancaria",
+        "rank": 9
+      },
+      {
+        "text": "emocional",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "de mamá",
+    "answers": [
+      {
+        "text": "en inglés",
+        "rank": 1
+      },
+      {
+        "text": "hostel & cervecería fotos",
+        "rank": 2
+      },
+      {
+        "text": "coco",
+        "rank": 3
+      },
+      {
+        "text": "y hija",
+        "rank": 4
+      },
+      {
+        "text": "a mamá",
+        "rank": 5
+      },
+      {
+        "text": "hostel & cervecería",
+        "rank": 6
+      },
+      {
+        "text": "cerdita",
+        "rank": 7
+      },
+      {
+        "text": "hostel & cervecería reseñas",
+        "rank": 8
+      },
+      {
+        "text": "y papá",
+        "rank": 9
+      },
+      {
+        "text": "e hija",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "fotos de",
+    "answers": [
+      {
+        "text": "voltereta toscana - córdoba",
+        "rank": 1
+      },
+      {
+        "text": "aquarama",
+        "rank": 2
+      },
+      {
+        "text": "aqualeón",
+        "rank": 3
+      },
+      {
+        "text": "isla mágica",
+        "rank": 4
+      },
+      {
+        "text": "aquavelis",
+        "rank": 5
+      },
+      {
+        "text": "animales",
+        "rank": 6
+      },
+      {
+        "text": "alcázar de segovia",
+        "rank": 7
+      },
+      {
+        "text": "action cartagena",
+        "rank": 8
+      },
+      {
+        "text": "terra mítica",
+        "rank": 9
+      },
+      {
+        "text": "puy du fou españa",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "debería vender mi",
+    "answers": [
+      {
+        "text": "vender mi celular",
+        "rank": 1
+      },
+      {
+        "text": "nder mis acciones",
+        "rank": 2
+      },
+      {
+        "text": "casa",
+        "rank": 3
+      },
+      {
+        "text": "s dolares",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "question": "cuándo es el próximo",
+    "answers": [
+      {
+        "text": "combate de ilia topuria",
+        "rank": 1
+      },
+      {
+        "text": "admin abuse en roba un brainrot",
+        "rank": 2
+      },
+      {
+        "text": "mundial de fútbol",
+        "rank": 3
+      },
+      {
+        "text": "partido de la selección española femenina",
+        "rank": 4
+      },
+      {
+        "text": "partido del real madrid en el mundial de clubes",
+        "rank": 5
+      },
+      {
+        "text": "partido de alcaraz",
+        "rank": 6
+      },
+      {
+        "text": "partido de españa",
+        "rank": 7
+      },
+      {
+        "text": "partido del barça",
+        "rank": 8
+      },
+      {
+        "text": "partido del real madrid",
+        "rank": 9
+      },
+      {
+        "text": "gran premio de fórmula 1",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "por qué a la gente le gusta",
+    "answers": [
+      {
+        "text": "tatuarse",
+        "rank": 1
+      },
+      {
+        "text": "el terror",
+        "rank": 2
+      },
+      {
+        "text": "mentir",
+        "rank": 3
+      },
+      {
+        "text": "el picante",
+        "rank": 4
+      },
+      {
+        "text": "el alcohol",
+        "rank": 5
+      },
+      {
+        "text": "ver videos de granos",
+        "rank": 6
+      },
+      {
+        "text": "el futbol",
+        "rank": 7
+      },
+      {
+        "text": "fumar",
+        "rank": 8
+      },
+      {
+        "text": "el reggaeton",
+        "rank": 9
+      },
+      {
+        "text": "n los pies",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "por qué es tan difícil",
+    "answers": [
+      {
+        "text": "salir y ver el mundo exterior",
+        "rank": 1
+      },
+      {
+        "text": "bajar de peso",
+        "rank": 2
+      },
+      {
+        "text": "estudiar el gato andino",
+        "rank": 3
+      },
+      {
+        "text": "aquí y ahora ser verdaderos cristianos",
+        "rank": 4
+      },
+      {
+        "text": "perdonar",
+        "rank": 5
+      },
+      {
+        "text": "estudiar al gato andino",
+        "rank": 6
+      },
+      {
+        "text": "dejar de fumar",
+        "rank": 7
+      },
+      {
+        "text": "ver las estrellas en algunos lugares",
+        "rank": 8
+      },
+      {
+        "text": "creer",
+        "rank": 9
+      },
+      {
+        "text": "alcanzar la equidad y la solidaridad",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "debería trabajar en",
+    "answers": [
+      {
+        "text": "en inglés",
+        "rank": 1
+      },
+      {
+        "text": "ajar en plaza vea",
+        "rank": 2
+      },
+      {
+        "text": "ajar en una empresa",
+        "rank": 3
+      },
+      {
+        "text": "bajar en ingles",
+        "rank": 4
+      },
+      {
+        "text": "bajar en equipo",
+        "rank": 5
+      },
+      {
+        "text": "otro lugar antes de mi negocio familiar",
+        "rank": 6
+      },
+      {
+        "text": "ajar en equipo",
+        "rank": 7
+      }
+    ]
+  },
+  {
+    "question": "cómo ser más",
+    "answers": [
+      {
+        "text": "atractivo",
+        "rank": 1
+      },
+      {
+        "text": "flexible",
+        "rank": 2
+      },
+      {
+        "text": "inteligente",
+        "rank": 3
+      },
+      {
+        "text": "guapo",
+        "rank": 4
+      },
+      {
+        "text": "alta",
+        "rank": 5
+      },
+      {
+        "text": "alto",
+        "rank": 6
+      },
+      {
+        "text": "rápido",
+        "rank": 7
+      },
+      {
+        "text": "listo",
+        "rank": 8
+      },
+      {
+        "text": "sociable",
+        "rank": 9
+      },
+      {
+        "text": "femenina",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo ser",
+    "answers": [
+      {
+        "text": "millonario antes que muera la abuela reparto",
+        "rank": 1
+      },
+      {
+        "text": "ía",
+        "rank": 2
+      },
+      {
+        "text": "millonario antes que muera la abuela",
+        "rank": 3
+      },
+      {
+        "text": "un latin lover",
+        "rank": 4
+      },
+      {
+        "text": "un estoico",
+        "rank": 5
+      },
+      {
+        "text": "un latin lover reparto",
+        "rank": 6
+      },
+      {
+        "text": "á el iphone 17",
+        "rank": 7
+      },
+      {
+        "text": "feliz",
+        "rank": 8
+      },
+      {
+        "text": "youtuber",
+        "rank": 9
+      },
+      {
+        "text": "john malkovich",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "qué hace la gente",
+    "answers": [
+      {
+        "text": "por la tarde",
+        "rank": 1
+      },
+      {
+        "text": "una vez a la semana",
+        "rank": 2
+      },
+      {
+        "text": "para pasar el rato en la playa",
+        "rank": 3
+      },
+      {
+        "text": "para celebrar los carnavales en limón",
+        "rank": 4
+      },
+      {
+        "text": "en un hotel",
+        "rank": 5
+      },
+      {
+        "text": "ambiciosa para lograr lo que quiere",
+        "rank": 6
+      },
+      {
+        "text": "cuando está molesta",
+        "rank": 7
+      },
+      {
+        "text": "que los monitores",
+        "rank": 8
+      },
+      {
+        "text": "cuando está feliz",
+        "rank": 9
+      },
+      {
+        "text": "en el parque",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo actúan",
+    "answers": [
+      {
+        "text": "los antibióticos",
+        "rank": 1
+      },
+      {
+        "text": "los psicópatas",
+        "rank": 2
+      },
+      {
+        "text": "los antidepresivos",
+        "rank": 3
+      },
+      {
+        "text": "los corticoides",
+        "rank": 4
+      },
+      {
+        "text": "los antihistamínicos",
+        "rank": 5
+      },
+      {
+        "text": "las estatinas",
+        "rank": 6
+      },
+      {
+        "text": "los agentes externos",
+        "rank": 7
+      },
+      {
+        "text": "los agentes internos",
+        "rank": 8
+      },
+      {
+        "text": "las hormonas",
+        "rank": 9
+      },
+      {
+        "text": "las personas narcisistas",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "características de",
+    "answers": [
+      {
+        "text": "la generación del 27",
+        "rank": 1
+      },
+      {
+        "text": "escorpio",
+        "rank": 2
+      },
+      {
+        "text": "l renacimiento",
+        "rank": 3
+      },
+      {
+        "text": "tauro",
+        "rank": 4
+      },
+      {
+        "text": "capricornio",
+        "rank": 5
+      },
+      {
+        "text": "una persona",
+        "rank": 6
+      },
+      {
+        "text": "un narcisista",
+        "rank": 7
+      },
+      {
+        "text": "l barroco",
+        "rank": 8
+      },
+      {
+        "text": "virgo",
+        "rank": 9
+      },
+      {
+        "text": "l romanticismo",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "personalidad de",
+    "answers": [
+      {
+        "text": "escorpio",
+        "rank": 1
+      },
+      {
+        "text": "geminis",
+        "rank": 2
+      },
+      {
+        "text": "una persona que consume drogas",
+        "rank": 3
+      },
+      {
+        "text": "tauro",
+        "rank": 4
+      },
+      {
+        "text": "leo",
+        "rank": 5
+      },
+      {
+        "text": "piscis",
+        "rank": 6
+      },
+      {
+        "text": "virgo",
+        "rank": 7
+      },
+      {
+        "text": "acuario",
+        "rank": 8
+      },
+      {
+        "text": "aries",
+        "rank": 9
+      },
+      {
+        "text": "cancer",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "comportamiento de",
+    "answers": [
+      {
+        "text": "los perros antes de morir",
+        "rank": 1
+      },
+      {
+        "text": "l consumidor",
+        "rank": 2
+      },
+      {
+        "text": "personas con parkinson",
+        "rank": 3
+      },
+      {
+        "text": "una persona con depresión",
+        "rank": 4
+      },
+      {
+        "text": "la perra después del parto",
+        "rank": 5
+      },
+      {
+        "text": "un bebé con síndrome de down en el vientre",
+        "rank": 6
+      },
+      {
+        "text": "los gatos",
+        "rank": 7
+      },
+      {
+        "text": "un adicto a la coca",
+        "rank": 8
+      },
+      {
+        "text": "un perro ante una persona con cáncer",
+        "rank": 9
+      },
+      {
+        "text": "un narcisista",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "hábitos de",
+    "answers": [
+      {
+        "text": "alimentación saludable para niños",
+        "rank": 1
+      },
+      {
+        "text": "lectura y compra de libros en españa 2024",
+        "rank": 2
+      },
+      {
+        "text": "vida saludable pdf",
+        "rank": 3
+      },
+      {
+        "text": "vida saludable oms",
+        "rank": 4
+      },
+      {
+        "text": "órdenes religiosas masculinas",
+        "rank": 5
+      },
+      {
+        "text": "vida saludable",
+        "rank": 6
+      },
+      {
+        "text": "estudio",
+        "rank": 7
+      },
+      {
+        "text": "vida",
+        "rank": 8
+      },
+      {
+        "text": "higiene",
+        "rank": 9
+      },
+      {
+        "text": "monja",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "estilo de vida",
+    "answers": [
+      {
+        "text": "en ingles",
+        "rank": 1
+      },
+      {
+        "text": "saludable",
+        "rank": 2
+      },
+      {
+        "text": "ejemplos",
+        "rank": 3
+      },
+      {
+        "text": "vecindario",
+        "rank": 4
+      },
+      {
+        "text": "sedentario",
+        "rank": 5
+      },
+      {
+        "text": "americano",
+        "rank": 6
+      },
+      {
+        "text": "actualmente",
+        "rank": 7
+      },
+      {
+        "text": "y depresion",
+        "rank": 8
+      },
+      {
+        "text": "alcaraz",
+        "rank": 9
+      },
+      {
+        "text": "alternativo",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "profesiones de",
+    "answers": [
+      {
+        "text": "l sector secundario",
+        "rank": 1
+      },
+      {
+        "text": "l sector terciario",
+        "rank": 2
+      },
+      {
+        "text": "l circo",
+        "rank": 3
+      },
+      {
+        "text": "riesgo",
+        "rank": 4
+      },
+      {
+        "text": "l sector primario",
+        "rank": 5
+      },
+      {
+        "text": "riesgo en españa",
+        "rank": 6
+      },
+      {
+        "text": "riesgo jubilación",
+        "rank": 7
+      },
+      {
+        "text": "l futuro",
+        "rank": 8
+      },
+      {
+        "text": "riesgo en españa boe",
+        "rank": 9
+      },
+      {
+        "text": "dificil cobertura en españa 2025",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "puedo comer mi",
+    "answers": [
+      {
+        "text": "el estando embarazada",
+        "rank": 1
+      },
+      {
+        "text": "el con diarrea",
+        "rank": 2
+      },
+      {
+        "text": "el antes de una colonoscopia",
+        "rank": 3
+      },
+      {
+        "text": "entras doy pecho",
+        "rank": 4
+      },
+      {
+        "text": "el con gastroenteritis",
+        "rank": 5
+      },
+      {
+        "text": "el en el embarazo",
+        "rank": 6
+      },
+      {
+        "text": "el si tengo cáncer",
+        "rank": 7
+      },
+      {
+        "text": "el en la lactancia",
+        "rank": 8
+      },
+      {
+        "text": "el si tengo sibo",
+        "rank": 9
+      },
+      {
+        "text": "el si tengo diarrea",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "puedes vender tu",
+    "answers": [
+      {
+        "text": "casa de infonavit",
+        "rank": 1
+      },
+      {
+        "text": "casa al banco",
+        "rank": 2
+      },
+      {
+        "text": "coche financiado",
+        "rank": 3
+      },
+      {
+        "text": "s puntos de infonavit",
+        "rank": 4
+      },
+      {
+        "text": "iphone a apple",
+        "rank": 5
+      },
+      {
+        "text": "casa hipotecada",
+        "rank": 6
+      },
+      {
+        "text": "s ovulos",
+        "rank": 7
+      },
+      {
+        "text": "s juegos de steam",
+        "rank": 8
+      },
+      {
+        "text": "casa al precio que quieras",
+        "rank": 9
+      },
+      {
+        "text": "casa a infonavit",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "puedes oler",
+    "answers": [
+      {
+        "text": "lo que la roca esta cocinando",
+        "rank": 1
+      },
+      {
+        "text": "mientras duermes",
+        "rank": 2
+      },
+      {
+        "text": "en los sueños",
+        "rank": 3
+      },
+      {
+        "text": "el aire",
+        "rank": 4
+      },
+      {
+        "text": "el ajo y la cebolla en inglés",
+        "rank": 5
+      },
+      {
+        "text": "tus pulmones",
+        "rank": 6
+      },
+      {
+        "text": "en ingles",
+        "rank": 7
+      },
+      {
+        "text": "vaporub en el.embarazo",
+        "rank": 8
+      },
+      {
+        "text": "me",
+        "rank": 9
+      },
+      {
+        "text": "lo que la roca esta cocinando en ingles",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "quién está casado con",
+    "answers": [
+      {
+        "text": "espinosa de los monteros",
+        "rank": 1
+      },
+      {
+        "text": "óscar higares",
+        "rank": 2
+      },
+      {
+        "text": "chayanne",
+        "rank": 3
+      },
+      {
+        "text": "bárbara de regil",
+        "rank": 4
+      },
+      {
+        "text": "viggo mortensen",
+        "rank": 5
+      },
+      {
+        "text": "la hija de bono",
+        "rank": 6
+      },
+      {
+        "text": "matt damon",
+        "rank": 7
+      },
+      {
+        "text": "ana boyer",
+        "rank": 8
+      },
+      {
+        "text": "gal gadot",
+        "rank": 9
+      },
+      {
+        "text": "jorge macri",
+        "rank": 10
+      }
     ]
   }
 ]

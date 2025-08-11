@@ -1,77 +1,2980 @@
 [
   {
-    "question": "¿Por qué España es famosa por...?",
+    "question": "por qué los españoles",
     "answers": [
-      { "text": "la paella", "rank": 1 },
-      { "text": "el flamenco", "rank": 2 },
-      { "text": "los toros", "rank": 3 },
-      { "text": "el fútbol", "rank": 4 },
-      { "text": "las playas", "rank": 5 },
-      { "text": "el jamón", "rank": 6 },
-      { "text": "el arte", "rank": 7 },
-      { "text": "la siesta", "rank": 8 },
-      { "text": "la sangría", "rank": 9 },
-      { "text": "las fiestas", "rank": 10 }
+      {
+        "text": "asesinaron a atahualpa",
+        "rank": 1
+      },
+      {
+        "text": "conquistaron américa",
+        "rank": 2
+      },
+      {
+        "text": "querían venir a conquistar el imperio",
+        "rank": 3
+      },
+      {
+        "text": "dicen tio",
+        "rank": 4
+      },
+      {
+        "text": "tenemos dos apellidos",
+        "rank": 5
+      },
+      {
+        "text": "son latinos",
+        "rank": 6
+      },
+      {
+        "text": "atacaron a los incas",
+        "rank": 7
+      },
+      {
+        "text": "descubrieron américa",
+        "rank": 8
+      },
+      {
+        "text": "somos latinos",
+        "rank": 9
+      },
+      {
+        "text": "vencieron fácilmente a los incas",
+        "rank": 10
+      }
     ]
   },
   {
-    "question": "En México celebran...?",
+    "question": "cómo es la cultura",
     "answers": [
-      { "text": "día de los muertos", "rank": 1 },
-      { "text": "cinco de mayo", "rank": 2 },
-      { "text": "día de la independencia", "rank": 3 },
-      { "text": "navidad", "rank": 4 },
-      { "text": "año nuevo", "rank": 5 },
-      { "text": "día de la madre", "rank": 6 },
-      { "text": "semana santa", "rank": 7 },
-      { "text": "carnaval", "rank": 8 },
-      { "text": "día del niño", "rank": 9 },
-      { "text": "día del padre", "rank": 10 }
+      {
+        "text": "española",
+        "rank": 1
+      },
+      {
+        "text": "de la legalidad",
+        "rank": 2
+      },
+      {
+        "text": "argentina",
+        "rank": 3
+      },
+      {
+        "text": "hindú",
+        "rank": 4
+      },
+      {
+        "text": "maya",
+        "rank": 5
+      },
+      {
+        "text": "andina",
+        "rank": 6
+      },
+      {
+        "text": "alemana",
+        "rank": 7
+      },
+      {
+        "text": "de bulgaria",
+        "rank": 8
+      },
+      {
+        "text": "azteca",
+        "rank": 9
+      },
+      {
+        "text": "china",
+        "rank": 10
+      }
     ]
   },
   {
-    "question": "En Argentina es típico comer...?",
+    "question": "qué tradiciones tienen",
     "answers": [
-      { "text": "asado", "rank": 1 },
-      { "text": "empanadas", "rank": 2 },
-      { "text": "milanesas", "rank": 3 },
-      { "text": "choripán", "rank": 4 },
-      { "text": "mate", "rank": 5 },
-      { "text": "dulce de leche", "rank": 6 },
-      { "text": "locro", "rank": 7 },
-      { "text": "alfajores", "rank": 8 },
-      { "text": "pizza", "rank": 9 },
-      { "text": "chimichurri", "rank": 10 }
+      {
+        "text": "los huicholes",
+        "rank": 1
+      },
+      {
+        "text": "los tarahumaras",
+        "rank": 2
+      },
+      {
+        "text": "los indígenas",
+        "rank": 3
+      },
+      {
+        "text": "los otomíes",
+        "rank": 4
+      },
+      {
+        "text": "los náhuatl",
+        "rank": 5
+      },
+      {
+        "text": "los mixtecos",
+        "rank": 6
+      },
+      {
+        "text": "los incas",
+        "rank": 7
+      },
+      {
+        "text": "los nahuas",
+        "rank": 8
+      },
+      {
+        "text": "los mayas",
+        "rank": 9
+      },
+      {
+        "text": "los zapotecos",
+        "rank": 10
+      }
     ]
   },
   {
-    "question": "Los latinos son conocidos por ser...?",
+    "question": "cuándo se celebra",
     "answers": [
-      { "text": "cálidos", "rank": 1 },
-      { "text": "familiares", "rank": 2 },
-      { "text": "alegres", "rank": 3 },
-      { "text": "hospitalarios", "rank": 4 },
-      { "text": "trabajadores", "rank": 5 },
-      { "text": "apasionados", "rank": 6 },
-      { "text": "expresivos", "rank": 7 },
-      { "text": "unidos", "rank": 8 },
-      { "text": "festivos", "rank": 9 },
-      { "text": "generosos", "rank": 10 }
+      {
+        "text": "el festival de eurovisión 2025",
+        "rank": 1
+      },
+      {
+        "text": "el dia de la madre en españa",
+        "rank": 2
+      },
+      {
+        "text": "el corpus christi",
+        "rank": 3
+      },
+      {
+        "text": "el día de la madre",
+        "rank": 4
+      },
+      {
+        "text": "eurovisión",
+        "rank": 5
+      },
+      {
+        "text": "santa ana",
+        "rank": 6
+      },
+      {
+        "text": "el festival de eurovisión",
+        "rank": 7
+      },
+      {
+        "text": "la virgen del carmen",
+        "rank": 8
+      },
+      {
+        "text": "san lorenzo",
+        "rank": 9
+      },
+      {
+        "text": "eurovisión 2025",
+        "rank": 10
+      }
     ]
   },
   {
-    "question": "En Perú es famoso...?",
+    "question": "dónde se originó",
     "answers": [
-      { "text": "machu picchu", "rank": 1 },
-      { "text": "ceviche", "rank": 2 },
-      { "text": "los incas", "rank": 3 },
-      { "text": "cusco", "rank": 4 },
-      { "text": "alpacas", "rank": 5 },
-      { "text": "quinoa", "rank": 6 },
-      { "text": "nazca", "rank": 7 },
-      { "text": "lima", "rank": 8 },
-      { "text": "pisco", "rank": 9 },
-      { "text": "llamas", "rank": 10 }
+      {
+        "text": "mercadona",
+        "rank": 1
+      },
+      {
+        "text": "el fútbol",
+        "rank": 2
+      },
+      {
+        "text": "el croissant",
+        "rank": 3
+      },
+      {
+        "text": "la salsa",
+        "rank": 4
+      },
+      {
+        "text": "la revolución industrial",
+        "rank": 5
+      },
+      {
+        "text": "el flamenco",
+        "rank": 6
+      },
+      {
+        "text": "el ajedrez",
+        "rank": 7
+      },
+      {
+        "text": "la civilización griega",
+        "rank": 8
+      },
+      {
+        "text": "el apagón",
+        "rank": 9
+      },
+      {
+        "text": "la gripe española",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "se puede beber caducado",
+    "answers": [
+      {
+        "text": "er caducado",
+        "rank": 1
+      },
+      {
+        "text": "ado",
+        "rank": 2
+      },
+      {
+        "text": "s caducados",
+        "rank": 3
+      },
+      {
+        "text": "ucado",
+        "rank": 4
+      },
+      {
+        "text": "aducado",
+        "rank": 5
+      },
+      {
+        "text": "caducado",
+        "rank": 6
+      },
+      {
+        "text": "ducado",
+        "rank": 7
+      }
+    ]
+  },
+  {
+    "question": "películas dirigidas por",
+    "answers": [
+      {
+        "text": "tarantino",
+        "rank": 1
+      },
+      {
+        "text": "antonio banderas",
+        "rank": 2
+      },
+      {
+        "text": "steven spielberg",
+        "rank": 3
+      },
+      {
+        "text": "ben affleck",
+        "rank": 4
+      },
+      {
+        "text": "clint eastwood",
+        "rank": 5
+      },
+      {
+        "text": "kevin costner",
+        "rank": 6
+      },
+      {
+        "text": "robert redford",
+        "rank": 7
+      },
+      {
+        "text": "quentin tarantino",
+        "rank": 8
+      },
+      {
+        "text": "mario casas",
+        "rank": 9
+      },
+      {
+        "text": "mel gibson",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo elegir maduro",
+    "answers": [
+      {
+        "text": "te maduro",
+        "rank": 1
+      },
+      {
+        "text": "o maduro",
+        "rank": 2
+      },
+      {
+        "text": "on tuna maduro",
+        "rank": 3
+      },
+      {
+        "text": "maduro",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "question": "mejor receta para",
+    "answers": [
+      {
+        "text": "carne de hamburguesa",
+        "rank": 1
+      },
+      {
+        "text": "crepas",
+        "rank": 2
+      },
+      {
+        "text": "masa de pizza",
+        "rank": 3
+      },
+      {
+        "text": "waffles",
+        "rank": 4
+      },
+      {
+        "text": "pizza",
+        "rank": 5
+      },
+      {
+        "text": "pancakes",
+        "rank": 6
+      },
+      {
+        "text": "bajar de peso",
+        "rank": 7
+      },
+      {
+        "text": "panqueques",
+        "rank": 8
+      },
+      {
+        "text": "salmon",
+        "rank": 9
+      },
+      {
+        "text": "hamburguesas",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo comer un",
+    "answers": [
+      {
+        "text": "bogavante",
+        "rank": 1
+      },
+      {
+        "text": "a papaya",
+        "rank": 2
+      },
+      {
+        "text": "coco",
+        "rank": 3
+      },
+      {
+        "text": "kiwi",
+        "rank": 4
+      },
+      {
+        "text": "a naranja",
+        "rank": 5
+      },
+      {
+        "text": "a granada",
+        "rank": 6
+      },
+      {
+        "text": "aguacate",
+        "rank": 7
+      },
+      {
+        "text": "pomelo",
+        "rank": 8
+      },
+      {
+        "text": "a nécora",
+        "rank": 9
+      },
+      {
+        "text": "mango",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "películas protagonizadas por",
+    "answers": [
+      {
+        "text": "tom hanks",
+        "rank": 1
+      },
+      {
+        "text": "mujeres",
+        "rank": 2
+      },
+      {
+        "text": "mario casas",
+        "rank": 3
+      },
+      {
+        "text": "kevin costner",
+        "rank": 4
+      },
+      {
+        "text": "leo harlem",
+        "rank": 5
+      },
+      {
+        "text": "jason statham",
+        "rank": 6
+      },
+      {
+        "text": "bruce willis",
+        "rank": 7
+      },
+      {
+        "text": "denzel washington",
+        "rank": 8
+      },
+      {
+        "text": "liam neeson",
+        "rank": 9
+      },
+      {
+        "text": "brad pitt",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "películas sobre",
+    "answers": [
+      {
+        "text": "narcisistas en netflix",
+        "rank": 1
+      },
+      {
+        "text": "papas",
+        "rank": 2
+      },
+      {
+        "text": "vietnam",
+        "rank": 3
+      },
+      {
+        "text": "el holocausto",
+        "rank": 4
+      },
+      {
+        "text": "bob dylan",
+        "rank": 5
+      },
+      {
+        "text": "la segunda guerra mundial",
+        "rank": 6
+      },
+      {
+        "text": "asesinos en serie reales",
+        "rank": 7
+      },
+      {
+        "text": "el papa francisco",
+        "rank": 8
+      },
+      {
+        "text": "eta",
+        "rank": 9
+      },
+      {
+        "text": "el vaticano",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo cortar",
+    "answers": [
+      {
+        "text": "metacrilato",
+        "rank": 1
+      },
+      {
+        "text": "las uñas a un perro",
+        "rank": 2
+      },
+      {
+        "text": "el pelo a capas",
+        "rank": 3
+      },
+      {
+        "text": "una sandía",
+        "rank": 4
+      },
+      {
+        "text": "un mango",
+        "rank": 5
+      },
+      {
+        "text": "un cristal",
+        "rank": 6
+      },
+      {
+        "text": "un jamón",
+        "rank": 7
+      },
+      {
+        "text": "la diarrea",
+        "rank": 8
+      },
+      {
+        "text": "el flequillo",
+        "rank": 9
+      },
+      {
+        "text": "la sangre de la nariz",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "se puede comer caducado",
+    "answers": [
+      {
+        "text": "ucado",
+        "rank": 1
+      },
+      {
+        "text": "ducado",
+        "rank": 2
+      },
+      {
+        "text": "cado",
+        "rank": 3
+      },
+      {
+        "text": "aducados",
+        "rank": 4
+      },
+      {
+        "text": "e caducado",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "question": "soy demasiado viejo para",
+    "answers": [
+      {
+        "text": "estas cosas",
+        "rank": 1
+      },
+      {
+        "text": "este mundo en italiano",
+        "rank": 2
+      },
+      {
+        "text": "esto",
+        "rank": 3
+      },
+      {
+        "text": "estas cosas arma letal",
+        "rank": 4
+      },
+      {
+        "text": "asiado viejo para hacer una cosa",
+        "rank": 5
+      },
+      {
+        "text": "estas",
+        "rank": 6
+      }
+    ]
+  },
+  {
+    "question": "quién está casado con",
+    "answers": [
+      {
+        "text": "espinosa de los monteros",
+        "rank": 1
+      },
+      {
+        "text": "óscar higares",
+        "rank": 2
+      },
+      {
+        "text": "chayanne",
+        "rank": 3
+      },
+      {
+        "text": "bárbara de regil",
+        "rank": 4
+      },
+      {
+        "text": "viggo mortensen",
+        "rank": 5
+      },
+      {
+        "text": "la hija de bono",
+        "rank": 6
+      },
+      {
+        "text": "matt damon",
+        "rank": 7
+      },
+      {
+        "text": "ana boyer",
+        "rank": 8
+      },
+      {
+        "text": "gal gadot",
+        "rank": 9
+      },
+      {
+        "text": "jorge macri",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo detectar falso",
+    "answers": [
+      {
+        "text": "falso",
+        "rank": 1
+      },
+      {
+        "text": "tes falsos con el celular",
+        "rank": 2
+      },
+      {
+        "text": "s profetas",
+        "rank": 3
+      },
+      {
+        "text": "s amigos",
+        "rank": 4
+      },
+      {
+        "text": "tes falsos",
+        "rank": 5
+      },
+      {
+        "text": "tes falsos de 500",
+        "rank": 6
+      },
+      {
+        "text": "es falsos",
+        "rank": 7
+      },
+      {
+        "text": "s positivos",
+        "rank": 8
+      },
+      {
+        "text": "contacto",
+        "rank": 9
+      }
+    ]
+  },
+  {
+    "question": "para microondas",
+    "answers": [
+      {
+        "text": "autocaravana",
+        "rank": 1
+      },
+      {
+        "text": "plato",
+        "rank": 2
+      },
+      {
+        "text": "muebles",
+        "rank": 3
+      },
+      {
+        "text": "whirlpool",
+        "rank": 4
+      },
+      {
+        "text": "camion",
+        "rank": 5
+      },
+      {
+        "text": "carro",
+        "rank": 6
+      },
+      {
+        "text": "empotrar",
+        "rank": 7
+      },
+      {
+        "text": "que sirve",
+        "rank": 8
+      },
+      {
+        "text": "dibujar",
+        "rank": 9
+      },
+      {
+        "text": "restaurante",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo mejorar tu",
+    "answers": [
+      {
+        "text": "vocabulario",
+        "rank": 1
+      },
+      {
+        "text": "cámara",
+        "rank": 2
+      },
+      {
+        "text": "voz",
+        "rank": 3
+      },
+      {
+        "text": "autoestima",
+        "rank": 4
+      },
+      {
+        "text": "sistema inmune",
+        "rank": 5
+      },
+      {
+        "text": "caligrafía",
+        "rank": 6
+      },
+      {
+        "text": "vista",
+        "rank": 7
+      },
+      {
+        "text": "puntería en fortnite",
+        "rank": 8
+      },
+      {
+        "text": "s dibujos",
+        "rank": 9
+      },
+      {
+        "text": "letra",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "relleno de queso",
+    "answers": [
+      {
+        "text": "crema y fresas para pastel",
+        "rank": 1
+      },
+      {
+        "text": "mascarpone para tartas",
+        "rank": 2
+      },
+      {
+        "text": "cottage",
+        "rank": 3
+      },
+      {
+        "text": "para empanadas",
+        "rank": 4
+      },
+      {
+        "text": "crema y chocolate",
+        "rank": 5
+      },
+      {
+        "text": "bola para pastel",
+        "rank": 6
+      },
+      {
+        "text": "para bizcocho",
+        "rank": 7
+      },
+      {
+        "text": "burrata",
+        "rank": 8
+      },
+      {
+        "text": "bola",
+        "rank": 9
+      },
+      {
+        "text": "crema para macarons",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "dónde desechar",
+    "answers": [
+      {
+        "text": "baterias de litio",
+        "rank": 1
+      },
+      {
+        "text": "aceite de motor",
+        "rank": 2
+      },
+      {
+        "text": "celulares viejos",
+        "rank": 3
+      },
+      {
+        "text": "los aparatos electrónicos",
+        "rank": 4
+      },
+      {
+        "text": "pilas usadas",
+        "rank": 5
+      },
+      {
+        "text": "pilas",
+        "rank": 6
+      },
+      {
+        "text": "pintura vieja",
+        "rank": 7
+      },
+      {
+        "text": "baterias",
+        "rank": 8
+      },
+      {
+        "text": "medicamentos vencidos",
+        "rank": 9
+      },
+      {
+        "text": "electronicos",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "por qué los músicos",
+    "answers": [
+      {
+        "text": "se ponen audifonos",
+        "rank": 1
+      },
+      {
+        "text": "se visten de negro",
+        "rank": 2
+      },
+      {
+        "text": "usan alfombras",
+        "rank": 3
+      },
+      {
+        "text": "tienen el pelo largo",
+        "rank": 4
+      },
+      {
+        "text": "son atractivos",
+        "rank": 5
+      },
+      {
+        "text": "caribeños tuvieron que crear los steel drum",
+        "rank": 6
+      },
+      {
+        "text": "dicen 1 2 3 4",
+        "rank": 7
+      },
+      {
+        "text": "usan audífonos",
+        "rank": 8
+      },
+      {
+        "text": "son buenos en matemáticas",
+        "rank": 9
+      }
+    ]
+  },
+  {
+    "question": "por qué los chefs",
+    "answers": [
+      {
+        "text": "no usan guantes",
+        "rank": 1
+      },
+      {
+        "text": "usan gorro",
+        "rank": 2
+      },
+      {
+        "text": "usan gorros altos",
+        "rank": 3
+      },
+      {
+        "text": "es chefs son hombres",
+        "rank": 4
+      },
+      {
+        "text": "utilizan sartenes de aluminio",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "question": "mejor manera de acariciar",
+    "answers": [
+      {
+        "text": "e acariciar a un perro",
+        "rank": 1
+      },
+      {
+        "text": "iar lobos",
+        "rank": 2
+      },
+      {
+        "text": "iar a un gato",
+        "rank": 3
+      },
+      {
+        "text": "ra de acariciarte a lo lejos",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "question": "es difícil conseguir trabajo en",
+    "answers": [
+      {
+        "text": "mexico",
+        "rank": 1
+      },
+      {
+        "text": "argentina",
+        "rank": 2
+      },
+      {
+        "text": "uruguay",
+        "rank": 3
+      },
+      {
+        "text": "colombia",
+        "rank": 4
+      },
+      {
+        "text": "canada",
+        "rank": 5
+      },
+      {
+        "text": "suiza",
+        "rank": 6
+      },
+      {
+        "text": "dubái",
+        "rank": 7
+      },
+      {
+        "text": "estados unidos",
+        "rank": 8
+      },
+      {
+        "text": "valencia",
+        "rank": 9
+      },
+      {
+        "text": "españa",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "se puede casar legalmente",
+    "answers": [
+      {
+        "text": "legalmente",
+        "rank": 1
+      },
+      {
+        "text": "et legalmente",
+        "rank": 2
+      },
+      {
+        "text": "galmente",
+        "rank": 3
+      },
+      {
+        "text": "asar legalmente",
+        "rank": 4
+      },
+      {
+        "text": "e primos hermanos",
+        "rank": 5
+      },
+      {
+        "text": "legalmente en estados unidos",
+        "rank": 6
+      },
+      {
+        "text": "a separada legalmente",
+        "rank": 7
+      },
+      {
+        "text": "legalmente en argentina",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "question": "se puede tostar",
+    "answers": [
+      {
+        "text": "pan en la freidora de aire",
+        "rank": 1
+      },
+      {
+        "text": "pan en el microondas",
+        "rank": 2
+      },
+      {
+        "text": "pan en el horno",
+        "rank": 3
+      },
+      {
+        "text": "pan en sarten",
+        "rank": 4
+      },
+      {
+        "text": "la margarina",
+        "rank": 5
+      },
+      {
+        "text": "el pan de centeno",
+        "rank": 6
+      },
+      {
+        "text": "pan en el air fryer",
+        "rank": 7
+      },
+      {
+        "text": "el pan congelado",
+        "rank": 8
+      },
+      {
+        "text": "pan en airfryer",
+        "rank": 9
+      },
+      {
+        "text": "el pan integral",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "mi perro comió mi",
+    "answers": [
+      {
+        "text": "mi tarea",
+        "rank": 1
+      },
+      {
+        "text": "mis pastillas anticonceptivas",
+        "rank": 2
+      },
+      {
+        "text": "a mi abuela",
+        "rank": 3
+      },
+      {
+        "text": "la comida de mi gato",
+        "rank": 4
+      },
+      {
+        "text": "a mi mama",
+        "rank": 5
+      },
+      {
+        "text": "mi planta de marihuanas",
+        "rank": 6
+      },
+      {
+        "text": "mi tarea en ingles",
+        "rank": 7
+      },
+      {
+        "text": "a mi madre",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "question": "los tatuajes son",
+    "answers": [
+      {
+        "text": "malos para la salud",
+        "rank": 1
+      },
+      {
+        "text": "vulgares",
+        "rank": 2
+      },
+      {
+        "text": "malos para la piel",
+        "rank": 3
+      },
+      {
+        "text": "malos",
+        "rank": 4
+      },
+      {
+        "text": "buenos para la salud",
+        "rank": 5
+      },
+      {
+        "text": "perjudiciales para la salud",
+        "rank": 6
+      },
+      {
+        "text": "haram",
+        "rank": 7
+      },
+      {
+        "text": "cancerígenos",
+        "rank": 8
+      },
+      {
+        "text": "tóxicos",
+        "rank": 9
+      },
+      {
+        "text": "pecado",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "aplicación para",
+    "answers": [
+      {
+        "text": "grabar llamadas",
+        "rank": 1
+      },
+      {
+        "text": "alquilar coches",
+        "rank": 2
+      },
+      {
+        "text": "ver películas de estreno gratis",
+        "rank": 3
+      },
+      {
+        "text": "abrir pdf gratis",
+        "rank": 4
+      },
+      {
+        "text": "arreglar fotos",
+        "rank": 5
+      },
+      {
+        "text": "escuchar música gratis",
+        "rank": 6
+      },
+      {
+        "text": "descargar música mp3 y mp4 gratis",
+        "rank": 7
+      },
+      {
+        "text": "descargar juegos",
+        "rank": 8
+      },
+      {
+        "text": "andar",
+        "rank": 9
+      },
+      {
+        "text": "aprender inglés",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "manzana",
+    "answers": [
+      {
+        "text": "asada en freidora de aire",
+        "rank": 1
+      },
+      {
+        "text": "roja",
+        "rank": 2
+      },
+      {
+        "text": "s asadas",
+        "rank": 3
+      },
+      {
+        "text": "amarilla",
+        "rank": 4
+      },
+      {
+        "text": "acida",
+        "rank": 5
+      },
+      {
+        "text": "ambrosia",
+        "rank": 6
+      },
+      {
+        "text": "asada",
+        "rank": 7
+      },
+      {
+        "text": "res",
+        "rank": 8
+      },
+      {
+        "text": "res el real",
+        "rank": 9
+      },
+      {
+        "text": "al microondas con canela",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "premio por",
+    "answers": [
+      {
+        "text": "ganar wimbledon",
+        "rank": 1
+      },
+      {
+        "text": "ganar roland garros",
+        "rank": 2
+      },
+      {
+        "text": "ganar el mundial de clubes",
+        "rank": 3
+      },
+      {
+        "text": "ganar la liga española",
+        "rank": 4
+      },
+      {
+        "text": "ganar la conference league",
+        "rank": 5
+      },
+      {
+        "text": "ganar la copa del rey",
+        "rank": 6
+      },
+      {
+        "text": "ganar la champions",
+        "rank": 7
+      },
+      {
+        "text": "ganar la liga",
+        "rank": 8
+      },
+      {
+        "text": "ganar el tour de francia",
+        "rank": 9
+      },
+      {
+        "text": "jubilación estatuto de los trabajadores",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "biografía de",
+    "answers": [
+      {
+        "text": "federico garcía lorca",
+        "rank": 1
+      },
+      {
+        "text": "cristiano ronaldo",
+        "rank": 2
+      },
+      {
+        "text": "leonardo da vinci",
+        "rank": 3
+      },
+      {
+        "text": "frida kahlo",
+        "rank": 4
+      },
+      {
+        "text": "josé alejandro vara",
+        "rank": 5
+      },
+      {
+        "text": "cristóbal colón",
+        "rank": 6
+      },
+      {
+        "text": "antonio machado",
+        "rank": 7
+      },
+      {
+        "text": "l silencio",
+        "rank": 8
+      },
+      {
+        "text": "l papa león 14",
+        "rank": 9
+      },
+      {
+        "text": "l papa francisco",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "la universidad es",
+    "answers": [
+      {
+        "text": "un gasto extraordinario",
+        "rank": 1
+      },
+      {
+        "text": "gratuita en españa",
+        "rank": 2
+      },
+      {
+        "text": "gratis",
+        "rank": 3
+      },
+      {
+        "text": "dificil",
+        "rank": 4
+      },
+      {
+        "text": "un centro educativo",
+        "rank": 5
+      },
+      {
+        "text": "pañola en cifras 2024",
+        "rank": 6
+      },
+      {
+        "text": "gratis en españa",
+        "rank": 7
+      },
+      {
+        "text": "un organismo publico",
+        "rank": 8
+      },
+      {
+        "text": "una administracion publica",
+        "rank": 9
+      },
+      {
+        "text": "ta sobrevalorada",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "celebridad famosa",
+    "answers": [
+      {
+        "text": "de mexico",
+        "rank": 1
+      },
+      {
+        "text": "de ecuador",
+        "rank": 2
+      },
+      {
+        "text": "de estados unidos",
+        "rank": 3
+      },
+      {
+        "text": "de cuba",
+        "rank": 4
+      },
+      {
+        "text": "de argentina",
+        "rank": 5
+      },
+      {
+        "text": "mujer",
+        "rank": 6
+      },
+      {
+        "text": "de venezuela",
+        "rank": 7
+      },
+      {
+        "text": "de francia",
+        "rank": 8
+      },
+      {
+        "text": "de brasil",
+        "rank": 9
+      },
+      {
+        "text": "en ingles",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "las jirafas son",
+    "answers": [
+      {
+        "text": "mamíferos",
+        "rank": 1
+      },
+      {
+        "text": "criaturas despiadadas",
+        "rank": 2
+      },
+      {
+        "text": "rumiantes",
+        "rank": 3
+      },
+      {
+        "text": "equinos",
+        "rank": 4
+      },
+      {
+        "text": "peligrosas",
+        "rank": 5
+      },
+      {
+        "text": "herbívoras",
+        "rank": 6
+      },
+      {
+        "text": "agresivas con los humanos",
+        "rank": 7
+      },
+      {
+        "text": "mudas",
+        "rank": 8
+      },
+      {
+        "text": "sordas",
+        "rank": 9
+      },
+      {
+        "text": "salvajes",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "sombreros para",
+    "answers": [
+      {
+        "text": "chimeneas leroy merlin",
+        "rank": 1
+      },
+      {
+        "text": "la playa",
+        "rank": 2
+      },
+      {
+        "text": "bodas",
+        "rank": 3
+      },
+      {
+        "text": "el sol",
+        "rank": 4
+      },
+      {
+        "text": "el verano",
+        "rank": 5
+      },
+      {
+        "text": "mujer",
+        "rank": 6
+      },
+      {
+        "text": "el rocio",
+        "rank": 7
+      },
+      {
+        "text": "hombre",
+        "rank": 8
+      },
+      {
+        "text": "el sol mujer",
+        "rank": 9
+      },
+      {
+        "text": "niños",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo cultivar",
+    "answers": [
+      {
+        "text": "jengibre",
+        "rank": 1
+      },
+      {
+        "text": "arándanos",
+        "rank": 2
+      },
+      {
+        "text": "albahaca",
+        "rank": 3
+      },
+      {
+        "text": "pepinos",
+        "rank": 4
+      },
+      {
+        "text": "calabacines",
+        "rank": 5
+      },
+      {
+        "text": "calabazas",
+        "rank": 6
+      },
+      {
+        "text": "tomates",
+        "rank": 7
+      },
+      {
+        "text": "fresas",
+        "rank": 8
+      },
+      {
+        "text": "sandías",
+        "rank": 9
+      },
+      {
+        "text": "un aguacate",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo atar",
+    "answers": [
+      {
+        "text": "los tomates",
+        "rank": 1
+      },
+      {
+        "text": "se los cordones",
+        "rank": 2
+      },
+      {
+        "text": "los ajos",
+        "rank": 3
+      },
+      {
+        "text": "un globo",
+        "rank": 4
+      },
+      {
+        "text": "una corbata",
+        "rank": 5
+      },
+      {
+        "text": "un anzuelo",
+        "rank": 6
+      },
+      {
+        "text": "una pulsera",
+        "rank": 7
+      },
+      {
+        "text": "los cordones de las zapatillas",
+        "rank": 8
+      },
+      {
+        "text": "los pimientos",
+        "rank": 9
+      },
+      {
+        "text": "los cordones",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "isla de",
+    "answers": [
+      {
+        "text": "armona",
+        "rank": 1
+      },
+      {
+        "text": "man",
+        "rank": 2
+      },
+      {
+        "text": "ons",
+        "rank": 3
+      },
+      {
+        "text": "pascua",
+        "rank": 4
+      },
+      {
+        "text": "sal",
+        "rank": 5
+      },
+      {
+        "text": "lobos",
+        "rank": 6
+      },
+      {
+        "text": "la toja",
+        "rank": 7
+      },
+      {
+        "text": "arosa",
+        "rank": 8
+      },
+      {
+        "text": "las tentaciones",
+        "rank": 9
+      },
+      {
+        "text": "tabarca",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "señor",
+    "answers": [
+      {
+        "text": "dame paciencia",
+        "rank": 1
+      },
+      {
+        "text": "miyagi",
+        "rank": 2
+      },
+      {
+        "text": "dame paciencia reparto",
+        "rank": 3
+      },
+      {
+        "text": "cangrejo",
+        "rank": 4
+      },
+      {
+        "text": "io de bertiz",
+        "rank": 5
+      },
+      {
+        "text": "de los anillos",
+        "rank": 6
+      },
+      {
+        "text": "ita",
+        "rank": 7
+      },
+      {
+        "text": "y señora smith",
+        "rank": 8
+      },
+      {
+        "text": "ita puff",
+        "rank": 9
+      },
+      {
+        "text": "burns",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "señora",
+    "answers": [
+      {
+        "text": "acero donde ver",
+        "rank": 1
+      },
+      {
+        "text": "doubtfire",
+        "rank": 2
+      },
+      {
+        "text": "acero",
+        "rank": 3
+      },
+      {
+        "text": "acero reparto",
+        "rank": 4
+      },
+      {
+        "text": "azul letra",
+        "rank": 5
+      },
+      {
+        "text": "azul",
+        "rank": 6
+      },
+      {
+        "text": "en ingles",
+        "rank": 7
+      },
+      {
+        "text": "acero temporada 1",
+        "rank": 8
+      },
+      {
+        "text": "abreviado",
+        "rank": 9
+      },
+      {
+        "text": "s del hampa reparto",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "oh",
+    "answers": [
+      {
+        "text": "alcohol",
+        "rank": 1
+      },
+      {
+        "text": "tels islantilla",
+        "rank": 2
+      },
+      {
+        "text": "arte",
+        "rank": 3
+      },
+      {
+        "text": "io",
+        "rank": 4
+      },
+      {
+        "text": "juliette",
+        "rank": 5
+      },
+      {
+        "text": "alma mia",
+        "rank": 6
+      },
+      {
+        "text": "tels mazagon",
+        "rank": 7
+      },
+      {
+        "text": "polly",
+        "rank": 8
+      },
+      {
+        "text": "alma mia letra",
+        "rank": 9
+      },
+      {
+        "text": "alaba letra",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "los pingüinos son",
+    "answers": [
+      {
+        "text": "pajaros",
+        "rank": 1
+      },
+      {
+        "text": "homosexuales",
+        "rank": 2
+      },
+      {
+        "text": "aves",
+        "rank": 3
+      },
+      {
+        "text": "monogamos",
+        "rank": 4
+      },
+      {
+        "text": "gays",
+        "rank": 5
+      },
+      {
+        "text": "carnívoros",
+        "rank": 6
+      },
+      {
+        "text": "mamíferos",
+        "rank": 7
+      },
+      {
+        "text": "ovíparos o vivíparos",
+        "rank": 8
+      },
+      {
+        "text": "mamíferos o aves",
+        "rank": 9
+      },
+      {
+        "text": "ovíparos",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "poemas sobre",
+    "answers": [
+      {
+        "text": "el verano",
+        "rank": 1
+      },
+      {
+        "text": "la muerte de un ser querido",
+        "rank": 2
+      },
+      {
+        "text": "la amistad",
+        "rank": 3
+      },
+      {
+        "text": "la vida y el tiempo",
+        "rank": 4
+      },
+      {
+        "text": "el amor",
+        "rank": 5
+      },
+      {
+        "text": "la muerte",
+        "rank": 6
+      },
+      {
+        "text": "la vejez benedetti",
+        "rank": 7
+      },
+      {
+        "text": "la madre",
+        "rank": 8
+      },
+      {
+        "text": "la vida",
+        "rank": 9
+      },
+      {
+        "text": "el mar",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "en polvo",
+    "answers": [
+      {
+        "text": "proteina",
+        "rank": 1
+      },
+      {
+        "text": "nos convertiremos",
+        "rank": 2
+      },
+      {
+        "text": "acido citrico",
+        "rank": 3
+      },
+      {
+        "text": "ariel detergente",
+        "rank": 4
+      },
+      {
+        "text": "en sombra en nada",
+        "rank": 5
+      },
+      {
+        "text": "detergente flota",
+        "rank": 6
+      },
+      {
+        "text": "detergente",
+        "rank": 7
+      },
+      {
+        "text": "detergente ariel oferta",
+        "rank": 8
+      },
+      {
+        "text": "ariel jabon",
+        "rank": 9
+      },
+      {
+        "text": "isostar",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "receta para",
+    "answers": [
+      {
+        "text": "hacer gofres",
+        "rank": 1
+      },
+      {
+        "text": "el amor",
+        "rank": 2
+      },
+      {
+        "text": "hacer un bizcocho",
+        "rank": 3
+      },
+      {
+        "text": "hacer pan",
+        "rank": 4
+      },
+      {
+        "text": "12 crepes",
+        "rank": 5
+      },
+      {
+        "text": "crepes",
+        "rank": 6
+      },
+      {
+        "text": "hacer tortitas",
+        "rank": 7
+      },
+      {
+        "text": "hacer gazpacho",
+        "rank": 8
+      },
+      {
+        "text": "hacer crepes",
+        "rank": 9
+      },
+      {
+        "text": "hacer galletas",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "con gas",
+    "answers": [
+      {
+        "text": "troenteritis",
+        "rank": 1
+      },
+      {
+        "text": "tritis que se puede comer",
+        "rank": 2
+      },
+      {
+        "text": "agua mineral",
+        "rank": 3
+      },
+      {
+        "text": "tritis se puede tomar leche",
+        "rank": 4
+      },
+      {
+        "text": "troenteritis se puede tomar ibuprofeno",
+        "rank": 5
+      },
+      {
+        "text": "troenteritis se puede comer yogur",
+        "rank": 6
+      },
+      {
+        "text": "troenteritis que se puede comer",
+        "rank": 7
+      },
+      {
+        "text": "troenteritis se puede comer huevo",
+        "rank": 8
+      },
+      {
+        "text": "troenteritis se puede tomar paracetamol",
+        "rank": 9
+      },
+      {
+        "text": "agua",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "el gran",
+    "answers": [
+      {
+        "text": "guerrero",
+        "rank": 1
+      },
+      {
+        "text": "lebowski",
+        "rank": 2
+      },
+      {
+        "text": "d prix",
+        "rank": 3
+      },
+      {
+        "text": "showman",
+        "rank": 4
+      },
+      {
+        "text": "hotel budapest",
+        "rank": 5
+      },
+      {
+        "text": "salto",
+        "rank": 6
+      },
+      {
+        "text": "show telecinco",
+        "rank": 7
+      },
+      {
+        "text": "golpe",
+        "rank": 8
+      },
+      {
+        "text": "gatsby",
+        "rank": 9
+      },
+      {
+        "text": "wyoming",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "por qué las mujeres usan",
+    "answers": [
+      {
+        "text": "toallas sanitarias",
+        "rank": 1
+      },
+      {
+        "text": "minifalda",
+        "rank": 2
+      },
+      {
+        "text": "hiyab",
+        "rank": 3
+      },
+      {
+        "text": "falda",
+        "rank": 4
+      },
+      {
+        "text": "aretes",
+        "rank": 5
+      },
+      {
+        "text": "tanga",
+        "rank": 6
+      },
+      {
+        "text": "maquillaje",
+        "rank": 7
+      },
+      {
+        "text": "velo",
+        "rank": 8
+      },
+      {
+        "text": "velo en la iglesia",
+        "rank": 9
+      },
+      {
+        "text": "brasier",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "es mala suerte",
+    "answers": [
+      {
+        "text": "celebrar el cumpleaños antes",
+        "rank": 1
+      },
+      {
+        "text": "tener una pecera en casa",
+        "rank": 2
+      },
+      {
+        "text": "regalar sal",
+        "rank": 3
+      },
+      {
+        "text": "tirar sal",
+        "rank": 4
+      },
+      {
+        "text": "que te orine un perro",
+        "rank": 5
+      },
+      {
+        "text": "barrer de noche",
+        "rank": 6
+      },
+      {
+        "text": "si se te cae la sal",
+        "rank": 7
+      },
+      {
+        "text": "que se rompa un espejo",
+        "rank": 8
+      },
+      {
+        "text": "romper un espejo",
+        "rank": 9
+      },
+      {
+        "text": "cortarse las uñas de noche",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "por qué la gente",
+    "answers": [
+      {
+        "text": "no cree en dios",
+        "rank": 1
+      },
+      {
+        "text": "muerta no debe ser besada",
+        "rank": 2
+      },
+      {
+        "text": "hace el camino de santiago",
+        "rank": 3
+      },
+      {
+        "text": "hace ghosting",
+        "rank": 4
+      },
+      {
+        "text": "se come los mocos",
+        "rank": 5
+      },
+      {
+        "text": "ronca",
+        "rank": 6
+      },
+      {
+        "text": "habla sola",
+        "rank": 7
+      },
+      {
+        "text": "se hace tatuajes",
+        "rank": 8
+      },
+      {
+        "text": "es tan mala",
+        "rank": 9
+      },
+      {
+        "text": "se muerde las uñas",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "tradiciones de",
+    "answers": [
+      {
+        "text": "españa",
+        "rank": 1
+      },
+      {
+        "text": "portugal",
+        "rank": 2
+      },
+      {
+        "text": "italia",
+        "rank": 3
+      },
+      {
+        "text": "japon",
+        "rank": 4
+      },
+      {
+        "text": "colombia",
+        "rank": 5
+      },
+      {
+        "text": "francia",
+        "rank": 6
+      },
+      {
+        "text": "mexico",
+        "rank": 7
+      },
+      {
+        "text": "brasil",
+        "rank": 8
+      },
+      {
+        "text": "san juan",
+        "rank": 9
+      },
+      {
+        "text": "alemania",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "festivales en",
+    "answers": [
+      {
+        "text": "galicia",
+        "rank": 1
+      },
+      {
+        "text": "españa",
+        "rank": 2
+      },
+      {
+        "text": "barcelona 2025",
+        "rank": 3
+      },
+      {
+        "text": "valencia 2025",
+        "rank": 4
+      },
+      {
+        "text": "galicia 2025",
+        "rank": 5
+      },
+      {
+        "text": "españa 2025",
+        "rank": 6
+      },
+      {
+        "text": "agosto 2025",
+        "rank": 7
+      },
+      {
+        "text": "malaga 2025",
+        "rank": 8
+      },
+      {
+        "text": "julio 2025",
+        "rank": 9
+      },
+      {
+        "text": "madrid 2025",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "historia de",
+    "answers": [
+      {
+        "text": "dos ciudades",
+        "rank": 1
+      },
+      {
+        "text": "l mundo contemporaneo",
+        "rank": 2
+      },
+      {
+        "text": "nuestro cine - la 2 hoy",
+        "rank": 3
+      },
+      {
+        "text": "un matrimonio",
+        "rank": 4
+      },
+      {
+        "text": "un escándalo",
+        "rank": 5
+      },
+      {
+        "text": "la filosofía",
+        "rank": 6
+      },
+      {
+        "text": "un amor",
+        "rank": 7
+      },
+      {
+        "text": "una escalera",
+        "rank": 8
+      },
+      {
+        "text": "españa",
+        "rank": 9
+      },
+      {
+        "text": "l arte",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "arte de",
+    "answers": [
+      {
+        "text": "l renacimiento",
+        "rank": 1
+      },
+      {
+        "text": "la mesa",
+        "rank": 2
+      },
+      {
+        "text": "invertir",
+        "rank": 3
+      },
+      {
+        "text": "finicion",
+        "rank": 4
+      },
+      {
+        "text": "cozina",
+        "rank": 5
+      },
+      {
+        "text": "pesca crucigrama",
+        "rank": 6
+      },
+      {
+        "text": "ser nosotros",
+        "rank": 7
+      },
+      {
+        "text": "hablar con elocuencia",
+        "rank": 8
+      },
+      {
+        "text": "la guerra",
+        "rank": 9
+      },
+      {
+        "text": "pesca",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "música de",
+    "answers": [
+      {
+        "text": "los 70",
+        "rank": 1
+      },
+      {
+        "text": "alejandro fernández",
+        "rank": 2
+      },
+      {
+        "text": "ana gabriel",
+        "rank": 3
+      },
+      {
+        "text": "los 90",
+        "rank": 4
+      },
+      {
+        "text": "bachata",
+        "rank": 5
+      },
+      {
+        "text": "alejandro sanz",
+        "rank": 6
+      },
+      {
+        "text": "los 80 90",
+        "rank": 7
+      },
+      {
+        "text": "acordeón",
+        "rank": 8
+      },
+      {
+        "text": "acdc",
+        "rank": 9
+      },
+      {
+        "text": "ahora",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "bailes de",
+    "answers": [
+      {
+        "text": "bachata",
+        "rank": 1
+      },
+      {
+        "text": "salsa",
+        "rank": 2
+      },
+      {
+        "text": "l mundo",
+        "rank": 3
+      },
+      {
+        "text": "zumba",
+        "rank": 4
+      },
+      {
+        "text": "sevillanas",
+        "rank": 5
+      },
+      {
+        "text": "tiktok 2025",
+        "rank": 6
+      },
+      {
+        "text": "tiktok",
+        "rank": 7
+      },
+      {
+        "text": "boda",
+        "rank": 8
+      },
+      {
+        "text": "salon",
+        "rank": 9
+      },
+      {
+        "text": "fortnite",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "costumbres de",
+    "answers": [
+      {
+        "text": "colombia",
+        "rank": 1
+      },
+      {
+        "text": "grecia",
+        "rank": 2
+      },
+      {
+        "text": "china",
+        "rank": 3
+      },
+      {
+        "text": "francia",
+        "rank": 4
+      },
+      {
+        "text": "marruecos",
+        "rank": 5
+      },
+      {
+        "text": "italia",
+        "rank": 6
+      },
+      {
+        "text": "la india",
+        "rank": 7
+      },
+      {
+        "text": "brasil",
+        "rank": 8
+      },
+      {
+        "text": "españa",
+        "rank": 9
+      },
+      {
+        "text": "los gitanos",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "religión en",
+    "answers": [
+      {
+        "text": "japon",
+        "rank": 1
+      },
+      {
+        "text": "rusia",
+        "rank": 2
+      },
+      {
+        "text": "corea del sur",
+        "rank": 3
+      },
+      {
+        "text": "españa",
+        "rank": 4
+      },
+      {
+        "text": "la india",
+        "rank": 5
+      },
+      {
+        "text": "libertad",
+        "rank": 6
+      },
+      {
+        "text": "israel",
+        "rank": 7
+      },
+      {
+        "text": "albania",
+        "rank": 8
+      },
+      {
+        "text": "turquía",
+        "rank": 9
+      },
+      {
+        "text": "china",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo elegir maduro",
+    "answers": [
+      {
+        "text": "te maduro",
+        "rank": 1
+      },
+      {
+        "text": "o maduro",
+        "rank": 2
+      },
+      {
+        "text": "on tuna maduro",
+        "rank": 3
+      },
+      {
+        "text": "maduro",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "question": "mejor receta para",
+    "answers": [
+      {
+        "text": "carne de hamburguesa",
+        "rank": 1
+      },
+      {
+        "text": "crepas",
+        "rank": 2
+      },
+      {
+        "text": "masa de pizza",
+        "rank": 3
+      },
+      {
+        "text": "waffles",
+        "rank": 4
+      },
+      {
+        "text": "pizza",
+        "rank": 5
+      },
+      {
+        "text": "pancakes",
+        "rank": 6
+      },
+      {
+        "text": "bajar de peso",
+        "rank": 7
+      },
+      {
+        "text": "panqueques",
+        "rank": 8
+      },
+      {
+        "text": "salmon",
+        "rank": 9
+      },
+      {
+        "text": "hamburguesas",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo comer",
+    "answers": [
+      {
+        "text": "papaya",
+        "rank": 1
+      },
+      {
+        "text": "el queso cottage",
+        "rank": 2
+      },
+      {
+        "text": "el requesón",
+        "rank": 3
+      },
+      {
+        "text": "con palillos chinos",
+        "rank": 4
+      },
+      {
+        "text": "la chía",
+        "rank": 5
+      },
+      {
+        "text": "el mango",
+        "rank": 6
+      },
+      {
+        "text": "avena",
+        "rank": 7
+      },
+      {
+        "text": "la remolacha",
+        "rank": 8
+      },
+      {
+        "text": "la quinoa",
+        "rank": 9
+      },
+      {
+        "text": "el aguacate",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "mejores películas con",
+    "answers": [
+      {
+        "text": "efectos especiales",
+        "rank": 1
+      },
+      {
+        "text": "final inesperado netflix",
+        "rank": 2
+      },
+      {
+        "text": "giros inesperados",
+        "rank": 3
+      },
+      {
+        "text": "mensaje",
+        "rank": 4
+      },
+      {
+        "text": "mensaje de vida",
+        "rank": 5
+      },
+      {
+        "text": "dolby atmos",
+        "rank": 6
+      },
+      {
+        "text": "final inesperado",
+        "rank": 7
+      },
+      {
+        "text": "plot twist",
+        "rank": 8
+      },
+      {
+        "text": "mensaje positivo",
+        "rank": 9
+      },
+      {
+        "text": "temporáneas",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "cómo cortar",
+    "answers": [
+      {
+        "text": "metacrilato",
+        "rank": 1
+      },
+      {
+        "text": "las uñas a un perro",
+        "rank": 2
+      },
+      {
+        "text": "el pelo a capas",
+        "rank": 3
+      },
+      {
+        "text": "una sandía",
+        "rank": 4
+      },
+      {
+        "text": "un mango",
+        "rank": 5
+      },
+      {
+        "text": "un cristal",
+        "rank": 6
+      },
+      {
+        "text": "un jamón",
+        "rank": 7
+      },
+      {
+        "text": "la diarrea",
+        "rank": 8
+      },
+      {
+        "text": "el flequillo",
+        "rank": 9
+      },
+      {
+        "text": "la sangre de la nariz",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "puedes comer caducado",
+    "answers": [
+      {
+        "text": "s caducados",
+        "rank": 1
+      },
+      {
+        "text": "aducado",
+        "rank": 2
+      },
+      {
+        "text": "ucado",
+        "rank": 3
+      },
+      {
+        "text": "cado",
+        "rank": 4
+      },
+      {
+        "text": "ducado",
+        "rank": 5
+      },
+      {
+        "text": "aducados",
+        "rank": 6
+      },
+      {
+        "text": "caducado",
+        "rank": 7
+      },
+      {
+        "text": "e caducado",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "question": "comprar acciones en",
+    "answers": [
+      {
+        "text": "desa",
+        "rank": 1
+      },
+      {
+        "text": "bbva",
+        "rank": 2
+      },
+      {
+        "text": "iberdrola",
+        "rank": 3
+      },
+      {
+        "text": "revolut",
+        "rank": 4
+      },
+      {
+        "text": "españa",
+        "rank": 5
+      },
+      {
+        "text": "bolsa",
+        "rank": 6
+      },
+      {
+        "text": "euros o dolares",
+        "rank": 7
+      },
+      {
+        "text": "trade republic",
+        "rank": 8
+      },
+      {
+        "text": "caixabank",
+        "rank": 9
+      },
+      {
+        "text": "myinvestor",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "religion de",
+    "answers": [
+      {
+        "text": "la india",
+        "rank": 1
+      },
+      {
+        "text": "españa",
+        "rank": 2
+      },
+      {
+        "text": "trump",
+        "rank": 3
+      },
+      {
+        "text": "israel",
+        "rank": 4
+      },
+      {
+        "text": "tom cruise",
+        "rank": 5
+      },
+      {
+        "text": "los gitanos",
+        "rank": 6
+      },
+      {
+        "text": "china",
+        "rank": 7
+      },
+      {
+        "text": "japon",
+        "rank": 8
+      },
+      {
+        "text": "palestina",
+        "rank": 9
+      },
+      {
+        "text": "turquia",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "papa",
+    "answers": [
+      {
+        "text": "leon",
+        "rank": 1
+      },
+      {
+        "text": "s aliñas",
+        "rank": 2
+      },
+      {
+        "text": "asada",
+        "rank": 3
+      },
+      {
+        "text": "arruga",
+        "rank": 4
+      },
+      {
+        "text": "anterior a francisco",
+        "rank": 5
+      },
+      {
+        "text": "actual 2025",
+        "rank": 6
+      },
+      {
+        "text": "león xiv",
+        "rank": 7
+      },
+      {
+        "text": "actual",
+        "rank": 8
+      },
+      {
+        "text": "americano cancion",
+        "rank": 9
+      },
+      {
+        "text": "luna",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "los dioses",
+    "answers": [
+      {
+        "text": "deben estar locos",
+        "rank": 1
+      },
+      {
+        "text": "atontados",
+        "rank": 2
+      },
+      {
+        "text": "anuel",
+        "rank": 3
+      },
+      {
+        "text": "del olimpo",
+        "rank": 4
+      },
+      {
+        "text": "album",
+        "rank": 5
+      },
+      {
+        "text": "aureos orden",
+        "rank": 6
+      },
+      {
+        "text": "almeria",
+        "rank": 7
+      },
+      {
+        "text": "antiguos",
+        "rank": 8
+      },
+      {
+        "text": "griegos",
+        "rank": 9
+      },
+      {
+        "text": "estan locos",
+        "rank": 10
+      }
     ]
   }
 ]

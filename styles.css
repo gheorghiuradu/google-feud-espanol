@@ -30,7 +30,7 @@ header {
     background: #fff;
     border-bottom: 1px solid #dadce0;
     padding: 20px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .logo-container {
@@ -66,7 +66,7 @@ h1 {
     gap: 20px;
 }
 
-.game-info > div {
+.game-info>div {
     background: #f8f9fa;
     padding: 10px 20px;
     border-radius: 8px;
@@ -81,7 +81,7 @@ h1 {
     background: #fff;
     border-radius: 8px;
     padding: 40px;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     border: 1px solid #dadce0;
 }
 
@@ -113,7 +113,7 @@ h1 {
 }
 
 .category-btn:hover {
-    box-shadow: 0 1px 6px rgba(32,33,36,.28);
+    box-shadow: 0 1px 6px rgba(32, 33, 36, .28);
     border-color: #dadce0;
     background: #f1f3f4;
 }
@@ -122,7 +122,7 @@ h1 {
     background: #fff;
     border-radius: 8px;
     padding: 40px;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     border: 1px solid #dadce0;
 }
 
@@ -154,12 +154,12 @@ h1 {
     border-radius: 24px;
     outline: none;
     transition: all 0.2s ease;
-    box-shadow: 0 2px 5px 1px rgba(64,60,67,.16);
+    box-shadow: 0 2px 5px 1px rgba(64, 60, 67, .16);
 }
 
 #guessInput:focus {
     border-color: #4285f4;
-    box-shadow: 0 2px 8px 1px rgba(66,133,244,.3);
+    box-shadow: 0 2px 8px 1px rgba(66, 133, 244, .3);
 }
 
 #guessInput:disabled {
@@ -183,7 +183,7 @@ h1 {
 
 #submitGuess:hover {
     background: #1a73e8;
-    box-shadow: 0 1px 3px rgba(0,0,0,.3);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .3);
 }
 
 #submitGuess:disabled {
@@ -212,10 +212,14 @@ h1 {
 }
 
 .answer-item.revealed {
+    background: #f8f9fa;
+    animation: revealAnswer 0.3s ease;
+}
+
+.answer-item.correct {
     background: #e8f5e8;
     color: #137333;
     border-color: #34a853;
-    animation: revealAnswer 0.3s ease;
 }
 
 @keyframes revealAnswer {
@@ -223,6 +227,7 @@ h1 {
         transform: scale(0.8);
         opacity: 0;
     }
+
     100% {
         transform: scale(1);
         opacity: 1;
@@ -262,7 +267,7 @@ h1 {
 
 .game-controls button:hover {
     background: #1a73e8;
-    box-shadow: 0 1px 3px rgba(0,0,0,.3);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .3);
 }
 
 .game-over {
@@ -270,7 +275,7 @@ h1 {
     border-radius: 8px;
     padding: 40px;
     text-align: center;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     border: 1px solid #dadce0;
 }
 
@@ -302,7 +307,7 @@ h1 {
 
 #playAgain:hover {
     background: #1a73e8;
-    box-shadow: 0 1px 3px rgba(0,0,0,.3);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .3);
 }
 
 /* Responsive Design */
@@ -344,7 +349,9 @@ h1 {
         max-width: 100%;
         margin-bottom: 10px;
     }
-}/* Loading animation */
+}
+
+/* Loading animation */
 .loading {
     display: inline-block;
     width: 20px;
@@ -356,8 +363,13 @@ h1 {
 }
 
 @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
 }
 
 /* Wrong answer feedback */
@@ -365,4 +377,13 @@ h1 {
     pointer-events: none;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
     font-family: Arial, sans-serif;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 4em;
+    color: #ea4335;
+    font-weight: bold;
+    z-index: 9999;
+    opacity: 1;
 }

@@ -1,77 +1,1058 @@
 [
   {
-    "question": "Las mejores películas de Netflix son...?",
+    "question": "películas españolas",
     "answers": [
-      { "text": "de acción", "rank": 1 },
-      { "text": "comedias", "rank": 2 },
-      { "text": "de terror", "rank": 3 },
-      { "text": "dramas", "rank": 4 },
-      { "text": "románticas", "rank": 5 },
-      { "text": "documentales", "rank": 6 },
-      { "text": "de superhéroes", "rank": 7 },
-      { "text": "series", "rank": 8 },
-      { "text": "animadas", "rank": 9 },
-      { "text": "de misterio", "rank": 10 }
+      {
+        "text": "2025 comedia",
+        "rank": 1
+      },
+      {
+        "text": "buenas",
+        "rank": 2
+      },
+      {
+        "text": "2024",
+        "rank": 3
+      },
+      {
+        "text": "2025 netflix",
+        "rank": 4
+      },
+      {
+        "text": "2025",
+        "rank": 5
+      },
+      {
+        "text": "2024 comedia",
+        "rank": 6
+      },
+      {
+        "text": "comedia",
+        "rank": 7
+      },
+      {
+        "text": "netflix",
+        "rank": 8
+      },
+      {
+        "text": "gratis",
+        "rank": 9
+      }
     ]
   },
   {
-    "question": "Los cantantes más famosos son...?",
+    "question": "series de netflix",
     "answers": [
-      { "text": "bad bunny", "rank": 1 },
-      { "text": "shakira", "rank": 2 },
-      { "text": "maluma", "rank": 3 },
-      { "text": "j balvin", "rank": 4 },
-      { "text": "manu chao", "rank": 5 },
-      { "text": "alejandro sanz", "rank": 6 },
-      { "text": "messi", "rank": 7 },
-      { "text": "ozuna", "rank": 8 },
-      { "text": "karol g", "rank": 9 },
-      { "text": "daddy yankee", "rank": 10 }
+      {
+        "text": "anime",
+        "rank": 1
+      },
+      {
+        "text": "nuevas",
+        "rank": 2
+      },
+      {
+        "text": "recomendadas",
+        "rank": 3
+      },
+      {
+        "text": "más vistas",
+        "rank": 4
+      },
+      {
+        "text": "romanticas",
+        "rank": 5
+      },
+      {
+        "text": "amor",
+        "rank": 6
+      },
+      {
+        "text": "actuales",
+        "rank": 7
+      },
+      {
+        "text": "basadas en hechos reales",
+        "rank": 8
+      },
+      {
+        "text": "buenas",
+        "rank": 9
+      },
+      {
+        "text": "acabadas",
+        "rank": 10
+      }
     ]
   },
   {
-    "question": "Los videojuegos más populares son...?",
+    "question": "música española",
     "answers": [
-      { "text": "fortnite", "rank": 1 },
-      { "text": "fifa", "rank": 2 },
-      { "text": "call of duty", "rank": 3 },
-      { "text": "minecraft", "rank": 4 },
-      { "text": "gta", "rank": 5 },
-      { "text": "among us", "rank": 6 },
-      { "text": "pokemon", "rank": 7 },
-      { "text": "free fire", "rank": 8 },
-      { "text": "valorant", "rank": 9 },
-      { "text": "roblox", "rank": 10 }
+      {
+        "text": "para bailar",
+        "rank": 1
+      },
+      {
+        "text": "de los 70 y 80",
+        "rank": 2
+      },
+      {
+        "text": "de los 70",
+        "rank": 3
+      },
+      {
+        "text": "de los 80",
+        "rank": 4
+      },
+      {
+        "text": "de los 90",
+        "rank": 5
+      },
+      {
+        "text": "de los años 60",
+        "rank": 6
+      },
+      {
+        "text": "80 y 90",
+        "rank": 7
+      },
+      {
+        "text": "actual",
+        "rank": 8
+      },
+      {
+        "text": "2025",
+        "rank": 9
+      }
     ]
   },
   {
-    "question": "Las redes sociales más usadas son...?",
+    "question": "programas de tv",
     "answers": [
-      { "text": "whatsapp", "rank": 1 },
-      { "text": "instagram", "rank": 2 },
-      { "text": "facebook", "rank": 3 },
-      { "text": "tiktok", "rank": 4 },
-      { "text": "twitter", "rank": 5 },
-      { "text": "youtube", "rank": 6 },
-      { "text": "telegram", "rank": 7 },
-      { "text": "snapchat", "rank": 8 },
-      { "text": "discord", "rank": 9 },
-      { "text": "pinterest", "rank": 10 }
+      {
+        "text": "con park bo-gum",
+        "rank": 1
+      },
+      {
+        "text": "con verónica sánchez",
+        "rank": 2
+      },
+      {
+        "text": "con im si-wan",
+        "rank": 3
+      },
+      {
+        "text": "con megan montaner",
+        "rank": 4
+      },
+      {
+        "text": "con isabela merced",
+        "rank": 5
+      },
+      {
+        "text": "con eric bana",
+        "rank": 6
+      },
+      {
+        "text": "con jensen ackles",
+        "rank": 7
+      },
+      {
+        "text": "con william levy",
+        "rank": 8
+      },
+      {
+        "text": "con ahn hyo-seop",
+        "rank": 9
+      },
+      {
+        "text": "con miguel ángel silvestre",
+        "rank": 10
+      }
     ]
   },
   {
-    "question": "Los programas de televisión más vistos son...?",
+    "question": "series sobre",
     "answers": [
-      { "text": "novelas", "rank": 1 },
-      { "text": "noticias", "rank": 2 },
-      { "text": "deportes", "rank": 3 },
-      { "text": "reality shows", "rank": 4 },
-      { "text": "talk shows", "rank": 5 },
-      { "text": "caricaturas", "rank": 6 },
-      { "text": "documentales", "rank": 7 },
-      { "text": "series", "rank": 8 },
-      { "text": "concursos", "rank": 9 },
-      { "text": "música", "rank": 10 }
+      {
+        "text": "naturales",
+        "rank": 1
+      },
+      {
+        "text": "brujas",
+        "rank": 2
+      },
+      {
+        "text": "la mafia",
+        "rank": 3
+      },
+      {
+        "text": "eta",
+        "rank": 4
+      },
+      {
+        "text": "asesinos en serie",
+        "rank": 5
+      },
+      {
+        "text": "pablo escobar",
+        "rank": 6
+      },
+      {
+        "text": "la guerra civil española netflix",
+        "rank": 7
+      },
+      {
+        "text": "roma",
+        "rank": 8
+      },
+      {
+        "text": "medicos",
+        "rank": 9
+      },
+      {
+        "text": "papas",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "películas dirigidas por",
+    "answers": [
+      {
+        "text": "mariano ozores",
+        "rank": 1
+      },
+      {
+        "text": "steven spielberg",
+        "rank": 2
+      },
+      {
+        "text": "clint eastwood",
+        "rank": 3
+      },
+      {
+        "text": "tarantino",
+        "rank": 4
+      },
+      {
+        "text": "mario casas",
+        "rank": 5
+      },
+      {
+        "text": "mel gibson",
+        "rank": 6
+      },
+      {
+        "text": "ben affleck",
+        "rank": 7
+      },
+      {
+        "text": "antonio banderas",
+        "rank": 8
+      },
+      {
+        "text": "quentin tarantino",
+        "rank": 9
+      },
+      {
+        "text": "kevin costner",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "películas sobre",
+    "answers": [
+      {
+        "text": "el holocausto",
+        "rank": 1
+      },
+      {
+        "text": "la guerra civil española",
+        "rank": 2
+      },
+      {
+        "text": "bob dylan",
+        "rank": 3
+      },
+      {
+        "text": "narcisistas en netflix",
+        "rank": 4
+      },
+      {
+        "text": "eta",
+        "rank": 5
+      },
+      {
+        "text": "la guerra de vietnam",
+        "rank": 6
+      },
+      {
+        "text": "la segunda guerra mundial",
+        "rank": 7
+      },
+      {
+        "text": "el papa francisco",
+        "rank": 8
+      },
+      {
+        "text": "formula 1",
+        "rank": 9
+      },
+      {
+        "text": "asesinos en serie reales",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "películas protagonizadas por",
+    "answers": [
+      {
+        "text": "tom hanks",
+        "rank": 1
+      },
+      {
+        "text": "brad pitt",
+        "rank": 2
+      },
+      {
+        "text": "bruce willis",
+        "rank": 3
+      },
+      {
+        "text": "kevin costner",
+        "rank": 4
+      },
+      {
+        "text": "mario casas",
+        "rank": 5
+      },
+      {
+        "text": "luke evans",
+        "rank": 6
+      },
+      {
+        "text": "liam neeson",
+        "rank": 7
+      },
+      {
+        "text": "denzel washington",
+        "rank": 8
+      },
+      {
+        "text": "mujeres",
+        "rank": 9
+      },
+      {
+        "text": "leo harlem",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "canciones sobre",
+    "answers": [
+      {
+        "text": "la droga en español",
+        "rank": 1
+      },
+      {
+        "text": "madrid",
+        "rank": 2
+      },
+      {
+        "text": "la vida",
+        "rank": 3
+      },
+      {
+        "text": "el verano",
+        "rank": 4
+      },
+      {
+        "text": "el mar",
+        "rank": 5
+      },
+      {
+        "text": "animales en español",
+        "rank": 6
+      },
+      {
+        "text": "la amistad",
+        "rank": 7
+      },
+      {
+        "text": "la familia",
+        "rank": 8
+      },
+      {
+        "text": "el verano en español",
+        "rank": 9
+      },
+      {
+        "text": "la amistad español",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "deportes son",
+    "answers": [
+      {
+        "text": "olímpicos",
+        "rank": 1
+      },
+      {
+        "text": "ora tabla de goleo liga oxxo",
+        "rank": 2
+      },
+      {
+        "text": "ora tabla de goleo",
+        "rank": 3
+      },
+      {
+        "text": "ora tabla de goleo zona norte",
+        "rank": 4
+      },
+      {
+        "text": "seca",
+        "rank": 5
+      },
+      {
+        "text": "ora tampico",
+        "rank": 6
+      },
+      {
+        "text": "ora",
+        "rank": 7
+      }
+    ]
+  },
+  {
+    "question": "lucha libre es",
+    "answers": [
+      {
+        "text": "un arte marcial",
+        "rank": 1
+      },
+      {
+        "text": "real o falsa",
+        "rank": 2
+      },
+      {
+        "text": "real",
+        "rank": 3
+      },
+      {
+        "text": "un deporte",
+        "rank": 4
+      },
+      {
+        "text": "actuada",
+        "rank": 5
+      },
+      {
+        "text": "paña",
+        "rank": 6
+      },
+      {
+        "text": "pañola",
+        "rank": 7
+      },
+      {
+        "text": "mentira",
+        "rank": 8
+      },
+      {
+        "text": "tados unidos",
+        "rank": 9
+      },
+      {
+        "text": "paña años 50",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "poemas de",
+    "answers": [
+      {
+        "text": "amor cortos",
+        "rank": 1
+      },
+      {
+        "text": "amor para dedicar",
+        "rank": 2
+      },
+      {
+        "text": "federico garcia lorca",
+        "rank": 3
+      },
+      {
+        "text": "amor",
+        "rank": 4
+      },
+      {
+        "text": "l mar",
+        "rank": 5
+      },
+      {
+        "text": "becquer",
+        "rank": 6
+      },
+      {
+        "text": "antonio machado",
+        "rank": 7
+      },
+      {
+        "text": "gloria fuertes",
+        "rank": 8
+      },
+      {
+        "text": "amor que llegan al alma",
+        "rank": 9
+      },
+      {
+        "text": "l alma",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "películas de",
+    "answers": [
+      {
+        "text": "brad pitt",
+        "rank": 1
+      },
+      {
+        "text": "jason statham",
+        "rank": 2
+      },
+      {
+        "text": "ana de armas",
+        "rank": 3
+      },
+      {
+        "text": "cate blanchett",
+        "rank": 4
+      },
+      {
+        "text": "gerard butler",
+        "rank": 5
+      },
+      {
+        "text": "jumanji",
+        "rank": 6
+      },
+      {
+        "text": "isabela merced",
+        "rank": 7
+      },
+      {
+        "text": "adam sandler",
+        "rank": 8
+      },
+      {
+        "text": "luke evans",
+        "rank": 9
+      },
+      {
+        "text": "eric bana",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "series de",
+    "answers": [
+      {
+        "text": "netflix recomendadas",
+        "rank": 1
+      },
+      {
+        "text": "amazon prime",
+        "rank": 2
+      },
+      {
+        "text": "medicos",
+        "rank": 3
+      },
+      {
+        "text": "netflix",
+        "rank": 4
+      },
+      {
+        "text": "disney channel",
+        "rank": 5
+      },
+      {
+        "text": "movistar plus",
+        "rank": 6
+      },
+      {
+        "text": "epoca",
+        "rank": 7
+      },
+      {
+        "text": "disney",
+        "rank": 8
+      },
+      {
+        "text": "antena 3",
+        "rank": 9
+      },
+      {
+        "text": "los 90",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "música de",
+    "answers": [
+      {
+        "text": "alejandro sanz",
+        "rank": 1
+      },
+      {
+        "text": "ana gabriel",
+        "rank": 2
+      },
+      {
+        "text": "ahora",
+        "rank": 3
+      },
+      {
+        "text": "los 70",
+        "rank": 4
+      },
+      {
+        "text": "los 80 y 90",
+        "rank": 5
+      },
+      {
+        "text": "agua para dormir",
+        "rank": 6
+      },
+      {
+        "text": "julio iglesias",
+        "rank": 7
+      },
+      {
+        "text": "acordeón",
+        "rank": 8
+      },
+      {
+        "text": "acdc",
+        "rank": 9
+      },
+      {
+        "text": "karol g",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "artistas de",
+    "answers": [
+      {
+        "text": "puerto rico",
+        "rank": 1
+      },
+      {
+        "text": "l barroco",
+        "rank": 2
+      },
+      {
+        "text": "l gremio",
+        "rank": 3
+      },
+      {
+        "text": "la velada del año 5",
+        "rank": 4
+      },
+      {
+        "text": "los 80",
+        "rank": 5
+      },
+      {
+        "text": "reggaeton",
+        "rank": 6
+      },
+      {
+        "text": "l barrio",
+        "rank": 7
+      },
+      {
+        "text": "l maquillaje",
+        "rank": 8
+      },
+      {
+        "text": "l renacimiento",
+        "rank": 9
+      },
+      {
+        "text": "la velada",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "programas de",
+    "answers": [
+      {
+        "text": "tv con park bo-gum",
+        "rank": 1
+      },
+      {
+        "text": "tv con verónica sánchez",
+        "rank": 2
+      },
+      {
+        "text": "tv con im si-wan",
+        "rank": 3
+      },
+      {
+        "text": "tv con megan montaner",
+        "rank": 4
+      },
+      {
+        "text": "tv con isabela merced",
+        "rank": 5
+      },
+      {
+        "text": "tv con eric bana",
+        "rank": 6
+      },
+      {
+        "text": "televisión",
+        "rank": 7
+      },
+      {
+        "text": "tv con william levy",
+        "rank": 8
+      },
+      {
+        "text": "tv con zuria vega",
+        "rank": 9
+      },
+      {
+        "text": "tv con miguel ángel silvestre",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "espectáculos de",
+    "answers": [
+      {
+        "text": "puy du fou",
+        "rank": 1
+      },
+      {
+        "text": "la warner",
+        "rank": 2
+      },
+      {
+        "text": "magia en barcelona",
+        "rank": 3
+      },
+      {
+        "text": "flamenco en madrid",
+        "rank": 4
+      },
+      {
+        "text": "l circo del sol",
+        "rank": 5
+      },
+      {
+        "text": "magia en madrid jorge blass",
+        "rank": 6
+      },
+      {
+        "text": "humor en madrid",
+        "rank": 7
+      },
+      {
+        "text": "portaventura",
+        "rank": 8
+      },
+      {
+        "text": "drones",
+        "rank": 9
+      },
+      {
+        "text": "magia en madrid",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "festivales de",
+    "answers": [
+      {
+        "text": "verano",
+        "rank": 1
+      },
+      {
+        "text": "l sur",
+        "rank": 2
+      },
+      {
+        "text": "rock en españa",
+        "rank": 3
+      },
+      {
+        "text": "cine en españa",
+        "rank": 4
+      },
+      {
+        "text": "musica",
+        "rank": 5
+      },
+      {
+        "text": "jaca 2025",
+        "rank": 6
+      },
+      {
+        "text": "verano 2025",
+        "rank": 7
+      },
+      {
+        "text": "musica 2025",
+        "rank": 8
+      },
+      {
+        "text": "reggaeton 2025",
+        "rank": 9
+      },
+      {
+        "text": "kkr",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "conciertos de",
+    "answers": [
+      {
+        "text": "melendi 2025",
+        "rank": 1
+      },
+      {
+        "text": "l botanico",
+        "rank": 2
+      },
+      {
+        "text": "antonio orozco 2025",
+        "rank": 3
+      },
+      {
+        "text": "la muralla",
+        "rank": 4
+      },
+      {
+        "text": "raphael 2025",
+        "rank": 5
+      },
+      {
+        "text": "llafuente 2025",
+        "rank": 6
+      },
+      {
+        "text": "viveros 2025",
+        "rank": 7
+      },
+      {
+        "text": "camela 2025",
+        "rank": 8
+      },
+      {
+        "text": "manuel carrasco 2025",
+        "rank": 9
+      },
+      {
+        "text": "estopa 2025",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "obras de",
+    "answers": [
+      {
+        "text": "teatro en madrid",
+        "rank": 1
+      },
+      {
+        "text": "arte de leonardo da vinci",
+        "rank": 2
+      },
+      {
+        "text": "federico garcía lorca",
+        "rank": 3
+      },
+      {
+        "text": "arte de pablo picasso",
+        "rank": 4
+      },
+      {
+        "text": "arte de salvador dalí",
+        "rank": 5
+      },
+      {
+        "text": "teatro en barcelona",
+        "rank": 6
+      },
+      {
+        "text": "arte",
+        "rank": 7
+      },
+      {
+        "text": "lope de vega",
+        "rank": 8
+      },
+      {
+        "text": "arte de frida kahlo",
+        "rank": 9
+      },
+      {
+        "text": "william shakespeare",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "libros de",
+    "answers": [
+      {
+        "text": "maría dueñas",
+        "rank": 1
+      },
+      {
+        "text": "isabel allende",
+        "rank": 2
+      },
+      {
+        "text": "elisabet benavent",
+        "rank": 3
+      },
+      {
+        "text": "almudena grandes",
+        "rank": 4
+      },
+      {
+        "text": "dolores redondo",
+        "rank": 5
+      },
+      {
+        "text": "javier castillo",
+        "rank": 6
+      },
+      {
+        "text": "freida mcfadden",
+        "rank": 7
+      },
+      {
+        "text": "stephen king",
+        "rank": 8
+      },
+      {
+        "text": "megan maxwell",
+        "rank": 9
+      },
+      {
+        "text": "segunda mano",
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "question": "mejores películas con",
+    "answers": [
+      {
+        "text": "mensaje",
+        "rank": 1
+      },
+      {
+        "text": "efectos especiales",
+        "rank": 2
+      },
+      {
+        "text": "giros inesperados",
+        "rank": 3
+      },
+      {
+        "text": "final inesperado",
+        "rank": 4
+      },
+      {
+        "text": "plot twist",
+        "rank": 5
+      },
+      {
+        "text": "temporáneas",
+        "rank": 6
+      },
+      {
+        "text": "mensaje de vida",
+        "rank": 7
+      },
+      {
+        "text": "final inesperado netflix",
+        "rank": 8
+      },
+      {
+        "text": "dolby atmos",
+        "rank": 9
+      }
+    ]
+  },
+  {
+    "question": "nueva cancion de",
+    "answers": [
+      {
+        "text": "beele",
+        "rank": 1
+      },
+      {
+        "text": "bad gyal",
+        "rank": 2
+      },
+      {
+        "text": "maluma",
+        "rank": 3
+      },
+      {
+        "text": "aitana",
+        "rank": 4
+      },
+      {
+        "text": "juanes",
+        "rank": 5
+      },
+      {
+        "text": "bad bunny",
+        "rank": 6
+      },
+      {
+        "text": "karina",
+        "rank": 7
+      },
+      {
+        "text": "karol g",
+        "rank": 8
+      },
+      {
+        "text": "isabel aaiun",
+        "rank": 9
+      },
+      {
+        "text": "quevedo",
+        "rank": 10
+      }
     ]
   }
 ]

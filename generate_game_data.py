@@ -261,12 +261,6 @@ def main():
         else:
             print(f"❌ No questions generated for category '{category}'")
 
-        # Break between categories
-        if category != list(seed_data.keys())[-1]:  # Not the last category
-            break_time = random.uniform(30, 60)
-            print(f"\n⏸️  Taking break before next category: {break_time:.1f} seconds...")
-            time.sleep(break_time)
-
     print(f"\n🎉 Data generation completed!")
     print(f"📊 Total requests made: {client.request_count}")
     print("=" * 60)
