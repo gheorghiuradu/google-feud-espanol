@@ -3,43 +3,43 @@
     "question": "por qué los españoles",
     "answers": [
       {
-        "text": "asesinaron a atahualpa",
+        "text": "vencieron fácilmente a los incas",
         "rank": 1
       },
       {
-        "text": "conquistaron américa",
+        "text": "tenemos dos apellidos",
         "rank": 2
       },
       {
-        "text": "querían venir a conquistar el imperio",
+        "text": "buscaron imponer la fe cristiana",
         "rank": 3
       },
       {
-        "text": "dicen tio",
+        "text": "buscaron nuevas rutas",
         "rank": 4
       },
       {
-        "text": "tenemos dos apellidos",
+        "text": "no permitían a los indígenas sublevarse",
         "rank": 5
       },
       {
-        "text": "son latinos",
+        "text": "buscaron conquistar el interior del territorio",
         "rank": 6
       },
       {
-        "text": "atacaron a los incas",
+        "text": "buscaron aliados indígenas",
         "rank": 7
       },
       {
-        "text": "descubrieron américa",
+        "text": "buscaban nuevas rutas comerciales",
         "rank": 8
       },
       {
-        "text": "somos latinos",
+        "text": "buscaban este tesoro",
         "rank": 9
       },
       {
-        "text": "vencieron fácilmente a los incas",
+        "text": "somos latinos",
         "rank": 10
       }
     ]
@@ -48,43 +48,43 @@
     "question": "cómo es la cultura",
     "answers": [
       {
-        "text": "española",
+        "text": "maya",
         "rank": 1
       },
       {
-        "text": "de la legalidad",
+        "text": "aymara",
         "rank": 2
       },
       {
-        "text": "argentina",
+        "text": "afro",
         "rank": 3
       },
       {
-        "text": "hindú",
+        "text": "americana",
         "rank": 4
       },
       {
-        "text": "maya",
+        "text": "china",
         "rank": 5
       },
       {
-        "text": "andina",
+        "text": "asiática",
         "rank": 6
       },
       {
-        "text": "alemana",
+        "text": "paracas",
         "rank": 7
       },
       {
-        "text": "de bulgaria",
+        "text": "nazca",
         "rank": 8
       },
       {
-        "text": "azteca",
+        "text": "de la legalidad",
         "rank": 9
       },
       {
-        "text": "china",
+        "text": "japonesa",
         "rank": 10
       }
     ]
@@ -93,43 +93,43 @@
     "question": "qué tradiciones tienen",
     "answers": [
       {
-        "text": "los huicholes",
+        "text": "los nahuas",
         "rank": 1
       },
       {
-        "text": "los tarahumaras",
+        "text": "en puebla",
         "rank": 2
       },
       {
-        "text": "los indígenas",
+        "text": "los náhuatl",
         "rank": 3
       },
       {
-        "text": "los otomíes",
+        "text": "en canadá",
         "rank": 4
       },
       {
-        "text": "los náhuatl",
+        "text": "los mixtecos",
         "rank": 5
       },
       {
-        "text": "los mixtecos",
+        "text": "los zapotecos",
         "rank": 6
       },
       {
-        "text": "los incas",
+        "text": "en veracruz",
         "rank": 7
       },
       {
-        "text": "los nahuas",
+        "text": "en oaxaca",
         "rank": 8
       },
       {
-        "text": "los mayas",
+        "text": "en japón",
         "rank": 9
       },
       {
-        "text": "los zapotecos",
+        "text": "los otomíes",
         "rank": 10
       }
     ]
@@ -138,31 +138,31 @@
     "question": "cuándo se celebra",
     "answers": [
       {
-        "text": "el festival de eurovisión 2025",
+        "text": "eurovisión",
         "rank": 1
       },
       {
-        "text": "el dia de la madre en españa",
+        "text": "san juan",
         "rank": 2
       },
       {
-        "text": "el corpus christi",
+        "text": "a san judas tadeo",
         "rank": 3
       },
       {
-        "text": "el día de la madre",
+        "text": "al sagrado corazón de jesús",
         "rank": 4
       },
       {
-        "text": "eurovisión",
+        "text": "el festival de eurovisión 2025",
         "rank": 5
       },
       {
-        "text": "santa ana",
+        "text": "a san antonio",
         "rank": 6
       },
       {
-        "text": "el festival de eurovisión",
+        "text": "acción de gracias en estados unidos",
         "rank": 7
       },
       {
@@ -174,7 +174,7 @@
         "rank": 9
       },
       {
-        "text": "eurovisión 2025",
+        "text": "amor y amistad en colombia",
         "rank": 10
       }
     ]
@@ -191,69 +191,81 @@
         "rank": 2
       },
       {
-        "text": "el croissant",
+        "text": "el ajedrez",
         "rank": 3
       },
       {
-        "text": "la salsa",
+        "text": "la revolución industrial",
         "rank": 4
       },
       {
-        "text": "la revolución industrial",
+        "text": "la salsa",
         "rank": 5
       },
       {
-        "text": "el flamenco",
+        "text": "el croissant",
         "rank": 6
       },
       {
-        "text": "el ajedrez",
+        "text": "el flamenco",
         "rank": 7
       },
       {
-        "text": "la civilización griega",
+        "text": "barcel",
         "rank": 8
       },
       {
-        "text": "el apagón",
+        "text": "la civilización griega",
         "rank": 9
       },
       {
-        "text": "la gripe española",
+        "text": "el café",
         "rank": 10
       }
     ]
   },
   {
-    "question": "se puede beber caducado",
+    "question": "se puede beber",
     "answers": [
       {
-        "text": "er caducado",
+        "text": "alcohol en la calle en españa",
         "rank": 1
       },
       {
-        "text": "ado",
+        "text": "alcohol en la playa",
         "rank": 2
       },
       {
-        "text": "s caducados",
+        "text": "agua antes de un análisis",
         "rank": 3
       },
       {
-        "text": "ucado",
+        "text": "agua antes de una ecografía abdominal",
         "rank": 4
       },
       {
-        "text": "aducado",
+        "text": "alcohol tomando corticoides",
         "rank": 5
       },
       {
-        "text": "caducado",
+        "text": "agua antes de un análisis de sangre",
         "rank": 6
       },
       {
-        "text": "ducado",
+        "text": "agua del grifo en barcelona",
         "rank": 7
+      },
+      {
+        "text": "agua antes de una operación",
+        "rank": 8
+      },
+      {
+        "text": "agua destilada",
+        "rank": 9
+      },
+      {
+        "text": "agua antes de un tac con contraste",
+        "rank": 10
       }
     ]
   },
@@ -261,39 +273,39 @@
     "question": "películas dirigidas por",
     "answers": [
       {
-        "text": "tarantino",
+        "text": "ben affleck",
         "rank": 1
       },
       {
-        "text": "antonio banderas",
+        "text": "mario casas",
         "rank": 2
       },
       {
-        "text": "steven spielberg",
+        "text": "kevin costner",
         "rank": 3
       },
       {
-        "text": "ben affleck",
+        "text": "clint eastwood",
         "rank": 4
       },
       {
-        "text": "clint eastwood",
+        "text": "quentin tarantino",
         "rank": 5
       },
       {
-        "text": "kevin costner",
+        "text": "steven spielberg",
         "rank": 6
       },
       {
-        "text": "robert redford",
+        "text": "antonio banderas",
         "rank": 7
       },
       {
-        "text": "quentin tarantino",
+        "text": "mariano ozores",
         "rank": 8
       },
       {
-        "text": "mario casas",
+        "text": "tarantino",
         "rank": 9
       },
       {
@@ -303,23 +315,47 @@
     ]
   },
   {
-    "question": "cómo elegir maduro",
+    "question": "cómo elegir",
     "answers": [
       {
-        "text": "te maduro",
+        "text": "un buen melón",
         "rank": 1
       },
       {
-        "text": "o maduro",
+        "text": "un buen colchón",
         "rank": 2
       },
       {
-        "text": "on tuna maduro",
+        "text": "aire acondicionado",
         "rank": 3
       },
       {
-        "text": "maduro",
+        "text": "una buena sandía",
         "rank": 4
+      },
+      {
+        "text": "un colchón",
+        "rank": 5
+      },
+      {
+        "text": "una almohada",
+        "rank": 6
+      },
+      {
+        "text": "la mejor sandía",
+        "rank": 7
+      },
+      {
+        "text": "sandía",
+        "rank": 8
+      },
+      {
+        "text": "un ventilador de techo",
+        "rank": 9
+      },
+      {
+        "text": "bien una sandía",
+        "rank": 10
       }
     ]
   },
@@ -327,19 +363,19 @@
     "question": "mejor receta para",
     "answers": [
       {
-        "text": "carne de hamburguesa",
+        "text": "panqueques",
         "rank": 1
       },
       {
-        "text": "crepas",
+        "text": "masa de pizza",
         "rank": 2
       },
       {
-        "text": "masa de pizza",
+        "text": "salmon",
         "rank": 3
       },
       {
-        "text": "waffles",
+        "text": "crepas",
         "rank": 4
       },
       {
@@ -351,64 +387,19 @@
         "rank": 6
       },
       {
-        "text": "bajar de peso",
+        "text": "carne de hamburguesa",
         "rank": 7
-      },
-      {
-        "text": "panqueques",
-        "rank": 8
-      },
-      {
-        "text": "salmon",
-        "rank": 9
       },
       {
         "text": "hamburguesas",
-        "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "cómo comer un",
-    "answers": [
-      {
-        "text": "bogavante",
-        "rank": 1
-      },
-      {
-        "text": "a papaya",
-        "rank": 2
-      },
-      {
-        "text": "coco",
-        "rank": 3
-      },
-      {
-        "text": "kiwi",
-        "rank": 4
-      },
-      {
-        "text": "a naranja",
-        "rank": 5
-      },
-      {
-        "text": "a granada",
-        "rank": 6
-      },
-      {
-        "text": "aguacate",
-        "rank": 7
-      },
-      {
-        "text": "pomelo",
         "rank": 8
       },
       {
-        "text": "a nécora",
+        "text": "waffles",
         "rank": 9
       },
       {
-        "text": "mango",
+        "text": "bajar de peso",
         "rank": 10
       }
     ]
@@ -417,43 +408,43 @@
     "question": "películas protagonizadas por",
     "answers": [
       {
-        "text": "tom hanks",
+        "text": "kevin costner",
         "rank": 1
       },
       {
-        "text": "mujeres",
+        "text": "bruce willis",
         "rank": 2
       },
       {
-        "text": "mario casas",
+        "text": "leo harlem",
         "rank": 3
       },
       {
-        "text": "kevin costner",
+        "text": "tom hanks",
         "rank": 4
       },
       {
-        "text": "leo harlem",
+        "text": "liam neeson",
         "rank": 5
       },
       {
-        "text": "jason statham",
+        "text": "mario casas",
         "rank": 6
       },
       {
-        "text": "bruce willis",
+        "text": "denzel washington",
         "rank": 7
       },
       {
-        "text": "denzel washington",
+        "text": "brad pitt",
         "rank": 8
       },
       {
-        "text": "liam neeson",
+        "text": "adam sandler",
         "rank": 9
       },
       {
-        "text": "brad pitt",
+        "text": "mujeres",
         "rank": 10
       }
     ]
@@ -462,35 +453,35 @@
     "question": "películas sobre",
     "answers": [
       {
-        "text": "narcisistas en netflix",
+        "text": "alcoholismo netflix",
         "rank": 1
       },
       {
-        "text": "papas",
+        "text": "narcisistas en netflix",
         "rank": 2
       },
       {
-        "text": "vietnam",
+        "text": "arte en netflix",
         "rank": 3
       },
       {
-        "text": "el holocausto",
+        "text": "adolescentes",
         "rank": 4
       },
       {
-        "text": "bob dylan",
+        "text": "auschwitz",
         "rank": 5
       },
       {
-        "text": "la segunda guerra mundial",
+        "text": "asesinos en serie reales",
         "rank": 6
       },
       {
-        "text": "asesinos en serie reales",
+        "text": "la guerra de vietnam",
         "rank": 7
       },
       {
-        "text": "el papa francisco",
+        "text": "adicciones",
         "rank": 8
       },
       {
@@ -498,7 +489,7 @@
         "rank": 9
       },
       {
-        "text": "el vaticano",
+        "text": "el holocausto",
         "rank": 10
       }
     ]
@@ -507,98 +498,89 @@
     "question": "cómo cortar",
     "answers": [
       {
-        "text": "metacrilato",
+        "text": "la diarrea",
         "rank": 1
       },
       {
-        "text": "las uñas a un perro",
+        "text": "una sandía",
         "rank": 2
       },
       {
-        "text": "el pelo a capas",
+        "text": "la sangre de la nariz",
         "rank": 3
       },
       {
-        "text": "una sandía",
+        "text": "acero",
         "rank": 4
       },
       {
-        "text": "un mango",
+        "text": "azulejos",
         "rank": 5
       },
       {
-        "text": "un cristal",
+        "text": "un jamón",
         "rank": 6
       },
       {
-        "text": "un jamón",
+        "text": "alambre",
         "rank": 7
       },
       {
-        "text": "la diarrea",
+        "text": "metacrilato",
         "rank": 8
       },
       {
-        "text": "el flequillo",
+        "text": "un cristal",
         "rank": 9
       },
       {
-        "text": "la sangre de la nariz",
+        "text": "el pelo a capas",
         "rank": 10
       }
     ]
   },
   {
-    "question": "se puede comer caducado",
+    "question": "se puede comer",
     "answers": [
       {
-        "text": "ucado",
+        "text": "tortilla francesa con diarrea",
         "rank": 1
       },
       {
-        "text": "ducado",
+        "text": "la piel del kiwi",
         "rank": 2
       },
       {
-        "text": "cado",
+        "text": "el calabacín crudo",
         "rank": 3
       },
       {
-        "text": "aducados",
+        "text": "en el monasterio de piedra",
         "rank": 4
       },
       {
-        "text": "e caducado",
-        "rank": 5
-      }
-    ]
-  },
-  {
-    "question": "soy demasiado viejo para",
-    "answers": [
-      {
-        "text": "estas cosas",
-        "rank": 1
-      },
-      {
-        "text": "este mundo en italiano",
-        "rank": 2
-      },
-      {
-        "text": "esto",
-        "rank": 3
-      },
-      {
-        "text": "estas cosas arma letal",
-        "rank": 4
-      },
-      {
-        "text": "asiado viejo para hacer una cosa",
+        "text": "yogur con gastroenteritis",
         "rank": 5
       },
       {
-        "text": "estas",
+        "text": "huevo antes de una colonoscopia",
         "rank": 6
+      },
+      {
+        "text": "yogur después de vomitar",
+        "rank": 7
+      },
+      {
+        "text": "jamón york antes de una colonoscopia",
+        "rank": 8
+      },
+      {
+        "text": "tortilla francesa con gastroenteritis",
+        "rank": 9
+      },
+      {
+        "text": "tomate tomando sintrom",
+        "rank": 10
       }
     ]
   },
@@ -606,129 +588,43 @@
     "question": "quién está casado con",
     "answers": [
       {
-        "text": "espinosa de los monteros",
+        "text": "estrella morente",
         "rank": 1
-      },
-      {
-        "text": "óscar higares",
-        "rank": 2
       },
       {
         "text": "chayanne",
-        "rank": 3
-      },
-      {
-        "text": "bárbara de regil",
-        "rank": 4
-      },
-      {
-        "text": "viggo mortensen",
-        "rank": 5
+        "rank": 2
       },
       {
         "text": "la hija de bono",
-        "rank": 6
+        "rank": 3
+      },
+      {
+        "text": "óscar higares",
+        "rank": 4
+      },
+      {
+        "text": "espinosa de los monteros",
+        "rank": 5
       },
       {
         "text": "matt damon",
-        "rank": 7
-      },
-      {
-        "text": "ana boyer",
-        "rank": 8
+        "rank": 6
       },
       {
         "text": "gal gadot",
-        "rank": 9
+        "rank": 7
       },
       {
         "text": "jorge macri",
-        "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "cómo detectar falso",
-    "answers": [
-      {
-        "text": "falso",
-        "rank": 1
-      },
-      {
-        "text": "tes falsos con el celular",
-        "rank": 2
-      },
-      {
-        "text": "s profetas",
-        "rank": 3
-      },
-      {
-        "text": "s amigos",
-        "rank": 4
-      },
-      {
-        "text": "tes falsos",
-        "rank": 5
-      },
-      {
-        "text": "tes falsos de 500",
-        "rank": 6
-      },
-      {
-        "text": "es falsos",
-        "rank": 7
-      },
-      {
-        "text": "s positivos",
         "rank": 8
       },
       {
-        "text": "contacto",
-        "rank": 9
-      }
-    ]
-  },
-  {
-    "question": "para microondas",
-    "answers": [
-      {
-        "text": "autocaravana",
-        "rank": 1
-      },
-      {
-        "text": "plato",
-        "rank": 2
-      },
-      {
-        "text": "muebles",
-        "rank": 3
-      },
-      {
-        "text": "whirlpool",
-        "rank": 4
-      },
-      {
-        "text": "camion",
-        "rank": 5
-      },
-      {
-        "text": "carro",
-        "rank": 6
-      },
-      {
-        "text": "empotrar",
-        "rank": 7
-      },
-      {
-        "text": "que sirve",
-        "rank": 8
-      },
-      {
-        "text": "dibujar",
+        "text": "bárbara de regil",
         "rank": 9
       },
       {
-        "text": "restaurante",
+        "text": "viggo mortensen",
         "rank": 10
       }
     ]
@@ -737,88 +633,43 @@
     "question": "cómo mejorar tu",
     "answers": [
       {
-        "text": "vocabulario",
+        "text": "autoestima",
         "rank": 1
       },
       {
-        "text": "cámara",
+        "text": "asimetría facial",
         "rank": 2
-      },
-      {
-        "text": "voz",
-        "rank": 3
-      },
-      {
-        "text": "autoestima",
-        "rank": 4
-      },
-      {
-        "text": "sistema inmune",
-        "rank": 5
-      },
-      {
-        "text": "caligrafía",
-        "rank": 6
       },
       {
         "text": "vista",
-        "rank": 7
-      },
-      {
-        "text": "puntería en fortnite",
-        "rank": 8
-      },
-      {
-        "text": "s dibujos",
-        "rank": 9
-      },
-      {
-        "text": "letra",
-        "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "relleno de queso",
-    "answers": [
-      {
-        "text": "crema y fresas para pastel",
-        "rank": 1
-      },
-      {
-        "text": "mascarpone para tartas",
-        "rank": 2
-      },
-      {
-        "text": "cottage",
         "rank": 3
       },
       {
-        "text": "para empanadas",
+        "text": "cámara",
         "rank": 4
       },
       {
-        "text": "crema y chocolate",
+        "text": "caligrafía",
         "rank": 5
       },
       {
-        "text": "bola para pastel",
+        "text": "vocabulario",
         "rank": 6
       },
       {
-        "text": "para bizcocho",
+        "text": "letra",
         "rank": 7
       },
       {
-        "text": "burrata",
+        "text": "voz",
         "rank": 8
       },
       {
-        "text": "bola",
+        "text": "puntería en fortnite",
         "rank": 9
       },
       {
-        "text": "crema para macarons",
+        "text": "sistema inmunológico",
         "rank": 10
       }
     ]
@@ -827,44 +678,20 @@
     "question": "dónde desechar",
     "answers": [
       {
-        "text": "baterias de litio",
+        "text": "pintura vieja",
         "rank": 1
       },
       {
-        "text": "aceite de motor",
+        "text": "pilas",
         "rank": 2
       },
       {
-        "text": "celulares viejos",
+        "text": "los aparatos electrónicos",
         "rank": 3
       },
       {
-        "text": "los aparatos electrónicos",
-        "rank": 4
-      },
-      {
         "text": "pilas usadas",
-        "rank": 5
-      },
-      {
-        "text": "pilas",
-        "rank": 6
-      },
-      {
-        "text": "pintura vieja",
-        "rank": 7
-      },
-      {
-        "text": "baterias",
-        "rank": 8
-      },
-      {
-        "text": "medicamentos vencidos",
-        "rank": 9
-      },
-      {
-        "text": "electronicos",
-        "rank": 10
+        "rank": 4
       }
     ]
   },
@@ -872,168 +699,20 @@
     "question": "por qué los músicos",
     "answers": [
       {
-        "text": "se ponen audifonos",
+        "text": "usan audífonos",
         "rank": 1
-      },
-      {
-        "text": "se visten de negro",
-        "rank": 2
-      },
-      {
-        "text": "usan alfombras",
-        "rank": 3
-      },
-      {
-        "text": "tienen el pelo largo",
-        "rank": 4
-      },
-      {
-        "text": "son atractivos",
-        "rank": 5
       },
       {
         "text": "caribeños tuvieron que crear los steel drum",
-        "rank": 6
+        "rank": 2
       },
       {
-        "text": "dicen 1 2 3 4",
-        "rank": 7
-      },
-      {
-        "text": "usan audífonos",
-        "rank": 8
+        "text": "se visten de negro",
+        "rank": 3
       },
       {
         "text": "son buenos en matemáticas",
-        "rank": 9
-      }
-    ]
-  },
-  {
-    "question": "por qué los chefs",
-    "answers": [
-      {
-        "text": "no usan guantes",
-        "rank": 1
-      },
-      {
-        "text": "usan gorro",
-        "rank": 2
-      },
-      {
-        "text": "usan gorros altos",
-        "rank": 3
-      },
-      {
-        "text": "es chefs son hombres",
         "rank": 4
-      },
-      {
-        "text": "utilizan sartenes de aluminio",
-        "rank": 5
-      }
-    ]
-  },
-  {
-    "question": "mejor manera de acariciar",
-    "answers": [
-      {
-        "text": "e acariciar a un perro",
-        "rank": 1
-      },
-      {
-        "text": "iar lobos",
-        "rank": 2
-      },
-      {
-        "text": "iar a un gato",
-        "rank": 3
-      },
-      {
-        "text": "ra de acariciarte a lo lejos",
-        "rank": 4
-      }
-    ]
-  },
-  {
-    "question": "es difícil conseguir trabajo en",
-    "answers": [
-      {
-        "text": "mexico",
-        "rank": 1
-      },
-      {
-        "text": "argentina",
-        "rank": 2
-      },
-      {
-        "text": "uruguay",
-        "rank": 3
-      },
-      {
-        "text": "colombia",
-        "rank": 4
-      },
-      {
-        "text": "canada",
-        "rank": 5
-      },
-      {
-        "text": "suiza",
-        "rank": 6
-      },
-      {
-        "text": "dubái",
-        "rank": 7
-      },
-      {
-        "text": "estados unidos",
-        "rank": 8
-      },
-      {
-        "text": "valencia",
-        "rank": 9
-      },
-      {
-        "text": "españa",
-        "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "se puede casar legalmente",
-    "answers": [
-      {
-        "text": "legalmente",
-        "rank": 1
-      },
-      {
-        "text": "et legalmente",
-        "rank": 2
-      },
-      {
-        "text": "galmente",
-        "rank": 3
-      },
-      {
-        "text": "asar legalmente",
-        "rank": 4
-      },
-      {
-        "text": "e primos hermanos",
-        "rank": 5
-      },
-      {
-        "text": "legalmente en estados unidos",
-        "rank": 6
-      },
-      {
-        "text": "a separada legalmente",
-        "rank": 7
-      },
-      {
-        "text": "legalmente en argentina",
-        "rank": 8
       }
     ]
   },
@@ -1041,81 +720,44 @@
     "question": "se puede tostar",
     "answers": [
       {
-        "text": "pan en la freidora de aire",
+        "text": "el pan congelado",
         "rank": 1
-      },
-      {
-        "text": "pan en el microondas",
-        "rank": 2
-      },
-      {
-        "text": "pan en el horno",
-        "rank": 3
-      },
-      {
-        "text": "pan en sarten",
-        "rank": 4
-      },
-      {
-        "text": "la margarina",
-        "rank": 5
-      },
-      {
-        "text": "el pan de centeno",
-        "rank": 6
       },
       {
         "text": "pan en el air fryer",
-        "rank": 7
-      },
-      {
-        "text": "el pan congelado",
-        "rank": 8
-      },
-      {
-        "text": "pan en airfryer",
-        "rank": 9
-      },
-      {
-        "text": "el pan integral",
-        "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "mi perro comió mi",
-    "answers": [
-      {
-        "text": "mi tarea",
-        "rank": 1
-      },
-      {
-        "text": "mis pastillas anticonceptivas",
         "rank": 2
       },
       {
-        "text": "a mi abuela",
+        "text": "pan en airfryer",
         "rank": 3
       },
       {
-        "text": "la comida de mi gato",
+        "text": "el pan integral",
         "rank": 4
       },
       {
-        "text": "a mi mama",
+        "text": "el pan de centeno",
         "rank": 5
       },
       {
-        "text": "mi planta de marihuanas",
+        "text": "pan en la freidora de aire",
         "rank": 6
       },
       {
-        "text": "mi tarea en ingles",
+        "text": "la margarina",
         "rank": 7
       },
       {
-        "text": "a mi madre",
+        "text": "pan en sarten",
         "rank": 8
+      },
+      {
+        "text": "pan en el horno",
+        "rank": 9
+      },
+      {
+        "text": "pan en el microondas",
+        "rank": 10
       }
     ]
   },
@@ -1127,35 +769,35 @@
         "rank": 1
       },
       {
-        "text": "vulgares",
+        "text": "cancerígenos",
         "rank": 2
       },
       {
-        "text": "malos para la piel",
+        "text": "buenos para la salud",
         "rank": 3
       },
       {
-        "text": "malos",
+        "text": "vulgares",
         "rank": 4
       },
       {
-        "text": "buenos para la salud",
+        "text": "malos",
         "rank": 5
       },
       {
-        "text": "perjudiciales para la salud",
+        "text": "malos para la piel",
         "rank": 6
       },
       {
-        "text": "haram",
+        "text": "perjudiciales para la salud",
         "rank": 7
       },
       {
-        "text": "cancerígenos",
+        "text": "tóxicos",
         "rank": 8
       },
       {
-        "text": "tóxicos",
+        "text": "haram",
         "rank": 9
       },
       {
@@ -1168,43 +810,43 @@
     "question": "aplicación para",
     "answers": [
       {
-        "text": "grabar llamadas",
+        "text": "aire acondicionado",
         "rank": 1
       },
       {
-        "text": "alquilar coches",
+        "text": "descargar música gratis",
         "rank": 2
       },
       {
-        "text": "ver películas de estreno gratis",
+        "text": "escuchar música gratis",
         "rank": 3
       },
       {
-        "text": "abrir pdf gratis",
+        "text": "descargar música mp3 y mp4 gratis",
         "rank": 4
       },
       {
-        "text": "arreglar fotos",
+        "text": "andar",
         "rank": 5
       },
       {
-        "text": "escuchar música gratis",
+        "text": "ahorrar dinero",
         "rank": 6
       },
       {
-        "text": "descargar música mp3 y mp4 gratis",
+        "text": "escanear documentos",
         "rank": 7
       },
       {
-        "text": "descargar juegos",
+        "text": "aprender inglés",
         "rank": 8
       },
       {
-        "text": "andar",
+        "text": "arreglar fotos",
         "rank": 9
       },
       {
-        "text": "aprender inglés",
+        "text": "ver películas de estreno gratis",
         "rank": 10
       }
     ]
@@ -1213,43 +855,43 @@
     "question": "manzana",
     "answers": [
       {
-        "text": "asada en freidora de aire",
+        "text": "asada en airfryer",
         "rank": 1
       },
       {
-        "text": "roja",
+        "text": "al horno",
         "rank": 2
       },
       {
-        "text": "s asadas",
+        "text": "al microondas con canela",
         "rank": 3
       },
       {
-        "text": "amarilla",
+        "text": "asada microondas",
         "rank": 4
       },
       {
-        "text": "acida",
+        "text": "res ciudad real",
         "rank": 5
       },
       {
-        "text": "ambrosia",
+        "text": "s al horno",
         "rank": 6
       },
       {
-        "text": "asada",
+        "text": "res el real",
         "rank": 7
       },
       {
-        "text": "res",
+        "text": "rota",
         "rank": 8
       },
       {
-        "text": "res el real",
+        "text": "asada",
         "rank": 9
       },
       {
-        "text": "al microondas con canela",
+        "text": "apple",
         "rank": 10
       }
     ]
@@ -1258,11 +900,11 @@
     "question": "premio por",
     "answers": [
       {
-        "text": "ganar wimbledon",
+        "text": "ganar la conference league",
         "rank": 1
       },
       {
-        "text": "ganar roland garros",
+        "text": "jubilación cotiza y tributa",
         "rank": 2
       },
       {
@@ -1270,31 +912,31 @@
         "rank": 3
       },
       {
-        "text": "ganar la liga española",
+        "text": "ganar la liga",
         "rank": 4
       },
       {
-        "text": "ganar la conference league",
+        "text": "ganar la champions",
         "rank": 5
       },
       {
-        "text": "ganar la copa del rey",
+        "text": "jubilación estatuto de los trabajadores",
         "rank": 6
       },
       {
-        "text": "ganar la champions",
+        "text": "ganar wimbledon",
         "rank": 7
       },
       {
-        "text": "ganar la liga",
+        "text": "ganar la liga española",
         "rank": 8
       },
       {
-        "text": "ganar el tour de francia",
+        "text": "ganar roland garros",
         "rank": 9
       },
       {
-        "text": "jubilación estatuto de los trabajadores",
+        "text": "ganar el tour de francia",
         "rank": 10
       }
     ]
@@ -1303,43 +945,43 @@
     "question": "biografía de",
     "answers": [
       {
-        "text": "federico garcía lorca",
+        "text": "l silencio",
         "rank": 1
       },
       {
-        "text": "cristiano ronaldo",
+        "text": "miguel uribe turbay",
         "rank": 2
       },
       {
-        "text": "leonardo da vinci",
+        "text": "josé alejandro vara",
         "rank": 3
       },
       {
-        "text": "frida kahlo",
+        "text": "l papa león 14",
         "rank": 4
       },
       {
-        "text": "josé alejandro vara",
+        "text": "federico garcía lorca",
         "rank": 5
       },
       {
-        "text": "cristóbal colón",
+        "text": "leonardo da vinci",
         "rank": 6
       },
       {
-        "text": "antonio machado",
+        "text": "cristóbal colón",
         "rank": 7
       },
       {
-        "text": "l silencio",
+        "text": "l papa francisco",
         "rank": 8
       },
       {
-        "text": "l papa león 14",
+        "text": "cristiano ronaldo",
         "rank": 9
       },
       {
-        "text": "l papa francisco",
+        "text": "antonio machado",
         "rank": 10
       }
     ]
@@ -1348,11 +990,11 @@
     "question": "la universidad es",
     "answers": [
       {
-        "text": "un gasto extraordinario",
+        "text": "dificil",
         "rank": 1
       },
       {
-        "text": "gratuita en españa",
+        "text": "gratis en españa",
         "rank": 2
       },
       {
@@ -1360,31 +1002,31 @@
         "rank": 3
       },
       {
-        "text": "dificil",
+        "text": "un organismo publico",
         "rank": 4
       },
       {
-        "text": "un centro educativo",
+        "text": "un gasto extraordinario",
         "rank": 5
       },
       {
-        "text": "pañola en cifras 2024",
+        "text": "pañola en cifras",
         "rank": 6
       },
       {
-        "text": "gratis en españa",
+        "text": "gratuita en españa",
         "rank": 7
       },
       {
-        "text": "un organismo publico",
+        "text": "una administracion publica",
         "rank": 8
       },
       {
-        "text": "una administracion publica",
+        "text": "ta sobrevalorada",
         "rank": 9
       },
       {
-        "text": "ta sobrevalorada",
+        "text": "un centro educativo",
         "rank": 10
       }
     ]
@@ -1393,27 +1035,27 @@
     "question": "celebridad famosa",
     "answers": [
       {
-        "text": "de mexico",
+        "text": "de estados unidos",
         "rank": 1
       },
       {
-        "text": "de ecuador",
+        "text": "de francia",
         "rank": 2
       },
       {
-        "text": "de estados unidos",
+        "text": "mujer",
         "rank": 3
       },
       {
-        "text": "de cuba",
+        "text": "de brasil",
         "rank": 4
       },
       {
-        "text": "de argentina",
+        "text": "de cuba",
         "rank": 5
       },
       {
-        "text": "mujer",
+        "text": "de ecuador",
         "rank": 6
       },
       {
@@ -1421,16 +1063,12 @@
         "rank": 7
       },
       {
-        "text": "de francia",
+        "text": "de argentina",
         "rank": 8
       },
       {
-        "text": "de brasil",
+        "text": "de mexico",
         "rank": 9
-      },
-      {
-        "text": "en ingles",
-        "rank": 10
       }
     ]
   },
@@ -1438,31 +1076,31 @@
     "question": "las jirafas son",
     "answers": [
       {
-        "text": "mamíferos",
+        "text": "criaturas despiadadas",
         "rank": 1
       },
       {
-        "text": "criaturas despiadadas",
+        "text": "peligrosas",
         "rank": 2
       },
       {
-        "text": "rumiantes",
+        "text": "agresivas con los humanos",
         "rank": 3
       },
       {
-        "text": "equinos",
+        "text": "salvajes",
         "rank": 4
       },
       {
-        "text": "peligrosas",
+        "text": "sordas",
         "rank": 5
       },
       {
-        "text": "herbívoras",
+        "text": "mamíferos",
         "rank": 6
       },
       {
-        "text": "agresivas con los humanos",
+        "text": "rumiantes",
         "rank": 7
       },
       {
@@ -1470,11 +1108,11 @@
         "rank": 8
       },
       {
-        "text": "sordas",
+        "text": "equinos",
         "rank": 9
       },
       {
-        "text": "salvajes",
+        "text": "herbívoras",
         "rank": 10
       }
     ]
@@ -1483,43 +1121,43 @@
     "question": "sombreros para",
     "answers": [
       {
-        "text": "chimeneas leroy merlin",
+        "text": "el sol mujer",
         "rank": 1
       },
       {
-        "text": "la playa",
+        "text": "hombre",
         "rank": 2
       },
       {
-        "text": "bodas",
+        "text": "chimeneas leroy merlin",
         "rank": 3
       },
       {
-        "text": "el sol",
+        "text": "el rocio",
         "rank": 4
       },
       {
-        "text": "el verano",
+        "text": "el sol",
         "rank": 5
       },
       {
-        "text": "mujer",
+        "text": "la playa",
         "rank": 6
       },
       {
-        "text": "el rocio",
+        "text": "bodas",
         "rank": 7
       },
       {
-        "text": "hombre",
+        "text": "el verano",
         "rank": 8
       },
       {
-        "text": "el sol mujer",
+        "text": "mujer",
         "rank": 9
       },
       {
-        "text": "niños",
+        "text": "hombre casual",
         "rank": 10
       }
     ]
@@ -1528,11 +1166,11 @@
     "question": "cómo cultivar",
     "answers": [
       {
-        "text": "jengibre",
+        "text": "pepinos",
         "rank": 1
       },
       {
-        "text": "arándanos",
+        "text": "calabacines",
         "rank": 2
       },
       {
@@ -1540,27 +1178,27 @@
         "rank": 3
       },
       {
-        "text": "pepinos",
+        "text": "sandías",
         "rank": 4
       },
       {
-        "text": "calabacines",
+        "text": "tomates",
         "rank": 5
       },
       {
-        "text": "calabazas",
+        "text": "arándanos",
         "rank": 6
       },
       {
-        "text": "tomates",
+        "text": "calabazas",
         "rank": 7
       },
       {
-        "text": "fresas",
+        "text": "jengibre",
         "rank": 8
       },
       {
-        "text": "sandías",
+        "text": "fresas",
         "rank": 9
       },
       {
@@ -1573,35 +1211,35 @@
     "question": "cómo atar",
     "answers": [
       {
-        "text": "los tomates",
+        "text": "se los cordones",
         "rank": 1
       },
       {
-        "text": "se los cordones",
+        "text": "una corbata",
         "rank": 2
       },
       {
-        "text": "los ajos",
+        "text": "un anzuelo",
         "rank": 3
       },
       {
-        "text": "un globo",
+        "text": "los cordones",
         "rank": 4
       },
       {
-        "text": "una corbata",
+        "text": "los ajos",
         "rank": 5
       },
       {
-        "text": "un anzuelo",
+        "text": "los cordones de las zapatillas",
         "rank": 6
       },
       {
-        "text": "una pulsera",
+        "text": "las alpargatas",
         "rank": 7
       },
       {
-        "text": "los cordones de las zapatillas",
+        "text": "un globo",
         "rank": 8
       },
       {
@@ -1609,7 +1247,7 @@
         "rank": 9
       },
       {
-        "text": "los cordones",
+        "text": "los tomates",
         "rank": 10
       }
     ]
@@ -1618,39 +1256,39 @@
     "question": "isla de",
     "answers": [
       {
-        "text": "armona",
+        "text": "arosa",
         "rank": 1
       },
       {
-        "text": "man",
+        "text": "las tentaciones",
         "rank": 2
       },
       {
-        "text": "ons",
+        "text": "man",
         "rank": 3
       },
       {
-        "text": "pascua",
+        "text": "sal",
         "rank": 4
       },
       {
-        "text": "sal",
+        "text": "malta",
         "rank": 5
       },
       {
-        "text": "lobos",
+        "text": "pascua",
         "rank": 6
       },
       {
-        "text": "la toja",
+        "text": "ons",
         "rank": 7
       },
       {
-        "text": "arosa",
+        "text": "lobos",
         "rank": 8
       },
       {
-        "text": "las tentaciones",
+        "text": "cocina",
         "rank": 9
       },
       {
@@ -1663,11 +1301,11 @@
     "question": "señor",
     "answers": [
       {
-        "text": "dame paciencia",
+        "text": "de los anillos",
         "rank": 1
       },
       {
-        "text": "miyagi",
+        "text": "as del hampa reparto",
         "rank": 2
       },
       {
@@ -1675,31 +1313,31 @@
         "rank": 3
       },
       {
-        "text": "cangrejo",
+        "text": "ita",
         "rank": 4
       },
       {
-        "text": "io de bertiz",
+        "text": "miyagi",
         "rank": 5
       },
       {
-        "text": "de los anillos",
+        "text": "dame paciencia",
         "rank": 6
       },
       {
-        "text": "ita",
+        "text": "y señora smith",
         "rank": 7
       },
       {
-        "text": "y señora smith",
+        "text": "burns",
         "rank": 8
       },
       {
-        "text": "ita puff",
+        "text": "io de bertiz",
         "rank": 9
       },
       {
-        "text": "burns",
+        "text": "cangrejo",
         "rank": 10
       }
     ]
@@ -1708,43 +1346,43 @@
     "question": "señora",
     "answers": [
       {
-        "text": "acero donde ver",
+        "text": "astor",
         "rank": 1
       },
       {
-        "text": "doubtfire",
+        "text": "abreviatura",
         "rank": 2
       },
       {
-        "text": "acero",
+        "text": "s del hampa reparto",
         "rank": 3
       },
       {
-        "text": "acero reparto",
+        "text": "azul letra",
         "rank": 4
       },
       {
-        "text": "azul letra",
+        "text": "puff",
         "rank": 5
       },
       {
-        "text": "azul",
+        "text": "acero netflix",
         "rank": 6
       },
       {
-        "text": "en ingles",
+        "text": "abreviado",
         "rank": 7
       },
       {
-        "text": "acero temporada 1",
+        "text": "doctor",
         "rank": 8
       },
       {
-        "text": "abreviado",
+        "text": "s bien pilar eyre",
         "rank": 9
       },
       {
-        "text": "s del hampa reparto",
+        "text": "doctor reparto",
         "rank": 10
       }
     ]
@@ -1753,43 +1391,43 @@
     "question": "oh",
     "answers": [
       {
-        "text": "alcohol",
+        "text": "la bolsa",
         "rank": 1
       },
       {
-        "text": "tels islantilla",
+        "text": "arthur",
         "rank": 2
       },
       {
-        "text": "arte",
+        "text": "arcontes hice lo correcto",
         "rank": 3
       },
       {
-        "text": "io",
+        "text": "ana",
         "rank": 4
       },
       {
-        "text": "juliette",
+        "text": "tels mazagon",
         "rank": 5
       },
       {
-        "text": "alma mia",
+        "text": "canada",
         "rank": 6
       },
       {
-        "text": "tels mazagon",
+        "text": "alma mia letra",
         "rank": 7
       },
       {
-        "text": "polly",
+        "text": "la",
         "rank": 8
       },
       {
-        "text": "alma mia letra",
+        "text": "polly",
         "rank": 9
       },
       {
-        "text": "alaba letra",
+        "text": "alma mia",
         "rank": 10
       }
     ]
@@ -1798,7 +1436,7 @@
     "question": "los pingüinos son",
     "answers": [
       {
-        "text": "pajaros",
+        "text": "ovíparos",
         "rank": 1
       },
       {
@@ -1806,7 +1444,7 @@
         "rank": 2
       },
       {
-        "text": "aves",
+        "text": "mamíferos",
         "rank": 3
       },
       {
@@ -1814,27 +1452,27 @@
         "rank": 4
       },
       {
-        "text": "gays",
+        "text": "ovíparos o vivíparos",
         "rank": 5
       },
       {
-        "text": "carnívoros",
+        "text": "pájaros",
         "rank": 6
       },
       {
-        "text": "mamíferos",
+        "text": "aves",
         "rank": 7
       },
       {
-        "text": "ovíparos o vivíparos",
+        "text": "fieles",
         "rank": 8
       },
       {
-        "text": "mamíferos o aves",
+        "text": "carnívoros",
         "rank": 9
       },
       {
-        "text": "ovíparos",
+        "text": "aves o mamíferos",
         "rank": 10
       }
     ]
@@ -1847,19 +1485,19 @@
         "rank": 1
       },
       {
-        "text": "la muerte de un ser querido",
+        "text": "el amor",
         "rank": 2
       },
       {
-        "text": "la amistad",
+        "text": "el mar",
         "rank": 3
       },
       {
-        "text": "la vida y el tiempo",
+        "text": "la amistad",
         "rank": 4
       },
       {
-        "text": "el amor",
+        "text": "la vejez benedetti",
         "rank": 5
       },
       {
@@ -1867,19 +1505,19 @@
         "rank": 6
       },
       {
-        "text": "la vejez benedetti",
+        "text": "la vida y el tiempo",
         "rank": 7
       },
       {
-        "text": "la madre",
+        "text": "la luna",
         "rank": 8
       },
       {
-        "text": "la vida",
+        "text": "la muerte de un ser querido",
         "rank": 9
       },
       {
-        "text": "el mar",
+        "text": "la vida",
         "rank": 10
       }
     ]
@@ -1888,43 +1526,43 @@
     "question": "en polvo",
     "answers": [
       {
-        "text": "proteina",
+        "text": "ariel detergente",
         "rank": 1
       },
       {
-        "text": "nos convertiremos",
+        "text": "detergente ariel oferta",
         "rank": 2
       },
       {
-        "text": "acido citrico",
+        "text": "isostar",
         "rank": 3
       },
       {
-        "text": "ariel detergente",
+        "text": "proteina",
         "rank": 4
       },
       {
-        "text": "en sombra en nada",
+        "text": "detergente flota",
         "rank": 5
       },
       {
-        "text": "detergente flota",
+        "text": "ariel jabon",
         "rank": 6
       },
       {
-        "text": "detergente",
+        "text": "acido citrico",
         "rank": 7
       },
       {
-        "text": "detergente ariel oferta",
+        "text": "nos convertiremos",
         "rank": 8
       },
       {
-        "text": "ariel jabon",
+        "text": "wipp express",
         "rank": 9
       },
       {
-        "text": "isostar",
+        "text": "detergente",
         "rank": 10
       }
     ]
@@ -1933,43 +1571,43 @@
     "question": "receta para",
     "answers": [
       {
-        "text": "hacer gofres",
+        "text": "12 crepes",
         "rank": 1
       },
       {
-        "text": "el amor",
+        "text": "hacer gazpacho",
         "rank": 2
       },
       {
-        "text": "hacer un bizcocho",
+        "text": "hacer crepes",
         "rank": 3
       },
       {
-        "text": "hacer pan",
+        "text": "hacer galletas",
         "rank": 4
       },
       {
-        "text": "12 crepes",
+        "text": "el amor",
         "rank": 5
       },
       {
-        "text": "crepes",
+        "text": "hacer un bizcocho",
         "rank": 6
       },
       {
-        "text": "hacer tortitas",
+        "text": "hacer gofres",
         "rank": 7
       },
       {
-        "text": "hacer gazpacho",
+        "text": "crepes",
         "rank": 8
       },
       {
-        "text": "hacer crepes",
+        "text": "hacer tortitas",
         "rank": 9
       },
       {
-        "text": "hacer galletas",
+        "text": "hacer pan",
         "rank": 10
       }
     ]
@@ -1978,43 +1616,43 @@
     "question": "con gas",
     "answers": [
       {
-        "text": "troenteritis",
+        "text": "troenteritis que se puede comer",
         "rank": 1
       },
       {
-        "text": "tritis que se puede comer",
+        "text": "troenteritis se puede tomar paracetamol",
         "rank": 2
       },
       {
-        "text": "agua mineral",
+        "text": "tritis que se puede comer",
         "rank": 3
       },
       {
-        "text": "tritis se puede tomar leche",
+        "text": "troenteritis se puede comer huevo",
         "rank": 4
       },
       {
-        "text": "troenteritis se puede tomar ibuprofeno",
+        "text": "troenteritis",
         "rank": 5
       },
       {
-        "text": "troenteritis se puede comer yogur",
+        "text": "tritis se puede tomar leche",
         "rank": 6
       },
       {
-        "text": "troenteritis que se puede comer",
+        "text": "troenteritis se puede comer yogur",
         "rank": 7
       },
       {
-        "text": "troenteritis se puede comer huevo",
+        "text": "troenteritis se puede tomar ibuprofeno",
         "rank": 8
       },
       {
-        "text": "troenteritis se puede tomar paracetamol",
+        "text": "agua",
         "rank": 9
       },
       {
-        "text": "agua",
+        "text": "agua mineral",
         "rank": 10
       }
     ]
@@ -2023,7 +1661,7 @@
     "question": "el gran",
     "answers": [
       {
-        "text": "guerrero",
+        "text": "wyoming",
         "rank": 1
       },
       {
@@ -2031,35 +1669,35 @@
         "rank": 2
       },
       {
-        "text": "d prix",
+        "text": "showman",
         "rank": 3
       },
       {
-        "text": "showman",
+        "text": "dictador",
         "rank": 4
       },
       {
-        "text": "hotel budapest",
+        "text": "salto",
         "rank": 5
       },
       {
-        "text": "salto",
+        "text": "golpe",
         "rank": 6
       },
       {
-        "text": "show telecinco",
+        "text": "gatsby",
         "rank": 7
       },
       {
-        "text": "golpe",
+        "text": "guerrero",
         "rank": 8
       },
       {
-        "text": "gatsby",
+        "text": "hotel budapest",
         "rank": 9
       },
       {
-        "text": "wyoming",
+        "text": "d prix",
         "rank": 10
       }
     ]
@@ -2068,43 +1706,43 @@
     "question": "por qué las mujeres usan",
     "answers": [
       {
-        "text": "toallas sanitarias",
+        "text": "brasier",
         "rank": 1
       },
       {
-        "text": "minifalda",
+        "text": "falda",
         "rank": 2
       },
       {
-        "text": "hiyab",
+        "text": "aretes",
         "rank": 3
       },
       {
-        "text": "falda",
+        "text": "velo",
         "rank": 4
       },
       {
-        "text": "aretes",
+        "text": "toallas sanitarias",
         "rank": 5
       },
       {
-        "text": "tanga",
+        "text": "minifalda",
         "rank": 6
       },
       {
-        "text": "maquillaje",
+        "text": "hiyab",
         "rank": 7
       },
       {
-        "text": "velo",
+        "text": "velo en la iglesia",
         "rank": 8
       },
       {
-        "text": "velo en la iglesia",
+        "text": "tacones",
         "rank": 9
       },
       {
-        "text": "brasier",
+        "text": "tanga",
         "rank": 10
       }
     ]
@@ -2113,43 +1751,43 @@
     "question": "es mala suerte",
     "answers": [
       {
-        "text": "celebrar el cumpleaños antes",
+        "text": "romper un espejo",
         "rank": 1
       },
       {
-        "text": "tener una pecera en casa",
+        "text": "tirar sal",
         "rank": 2
       },
       {
-        "text": "regalar sal",
+        "text": "derramar aceite",
         "rank": 3
       },
       {
-        "text": "tirar sal",
+        "text": "barrer de noche",
         "rank": 4
       },
       {
-        "text": "que te orine un perro",
+        "text": "que se rompa un espejo",
         "rank": 5
       },
       {
-        "text": "barrer de noche",
+        "text": "regalar sal",
         "rank": 6
       },
       {
-        "text": "si se te cae la sal",
+        "text": "tener una pecera en casa",
         "rank": 7
       },
       {
-        "text": "que se rompa un espejo",
+        "text": "cortarse las uñas de noche",
         "rank": 8
       },
       {
-        "text": "romper un espejo",
+        "text": "si se te cae la sal",
         "rank": 9
       },
       {
-        "text": "cortarse las uñas de noche",
+        "text": "celebrar el cumpleaños antes",
         "rank": 10
       }
     ]
@@ -2158,11 +1796,11 @@
     "question": "por qué la gente",
     "answers": [
       {
-        "text": "no cree en dios",
+        "text": "abandona a sus perros",
         "rank": 1
       },
       {
-        "text": "muerta no debe ser besada",
+        "text": "adora a san judas tadeo",
         "rank": 2
       },
       {
@@ -2170,11 +1808,11 @@
         "rank": 3
       },
       {
-        "text": "hace ghosting",
+        "text": "se come los mocos",
         "rank": 4
       },
       {
-        "text": "se come los mocos",
+        "text": "muerta no debe ser besada",
         "rank": 5
       },
       {
@@ -2182,7 +1820,7 @@
         "rank": 6
       },
       {
-        "text": "habla sola",
+        "text": "hace ghosting",
         "rank": 7
       },
       {
@@ -2190,11 +1828,11 @@
         "rank": 8
       },
       {
-        "text": "es tan mala",
+        "text": "adora a la santa muerte",
         "rank": 9
       },
       {
-        "text": "se muerde las uñas",
+        "text": "anda desinstalando tiktok",
         "rank": 10
       }
     ]
@@ -2203,27 +1841,27 @@
     "question": "tradiciones de",
     "answers": [
       {
-        "text": "españa",
+        "text": "colombia",
         "rank": 1
       },
       {
-        "text": "portugal",
+        "text": "brasil",
         "rank": 2
       },
       {
-        "text": "italia",
+        "text": "francia",
         "rank": 3
       },
       {
-        "text": "japon",
+        "text": "san juan",
         "rank": 4
       },
       {
-        "text": "colombia",
+        "text": "portugal",
         "rank": 5
       },
       {
-        "text": "francia",
+        "text": "alemania",
         "rank": 6
       },
       {
@@ -2231,15 +1869,15 @@
         "rank": 7
       },
       {
-        "text": "brasil",
+        "text": "italia",
         "rank": 8
       },
       {
-        "text": "san juan",
+        "text": "españa",
         "rank": 9
       },
       {
-        "text": "alemania",
+        "text": "japon",
         "rank": 10
       }
     ]
@@ -2248,43 +1886,43 @@
     "question": "festivales en",
     "answers": [
       {
-        "text": "galicia",
+        "text": "barcelona 2025",
         "rank": 1
       },
       {
-        "text": "españa",
+        "text": "galicia 2025",
         "rank": 2
       },
       {
-        "text": "barcelona 2025",
+        "text": "españa 2025",
         "rank": 3
       },
       {
-        "text": "valencia 2025",
+        "text": "agosto 2025",
         "rank": 4
       },
       {
-        "text": "galicia 2025",
+        "text": "valencia 2025",
         "rank": 5
       },
       {
-        "text": "españa 2025",
+        "text": "julio 2025",
         "rank": 6
       },
       {
-        "text": "agosto 2025",
+        "text": "malaga 2025",
         "rank": 7
       },
       {
-        "text": "malaga 2025",
+        "text": "agosto",
         "rank": 8
       },
       {
-        "text": "julio 2025",
+        "text": "madrid 2025",
         "rank": 9
       },
       {
-        "text": "madrid 2025",
+        "text": "tenerife 2025",
         "rank": 10
       }
     ]
@@ -2293,39 +1931,39 @@
     "question": "historia de",
     "answers": [
       {
-        "text": "dos ciudades",
+        "text": "un amor",
         "rank": 1
       },
       {
-        "text": "l mundo contemporaneo",
+        "text": "dos ciudades",
         "rank": 2
       },
       {
-        "text": "nuestro cine - la 2 hoy",
+        "text": "españa",
         "rank": 3
       },
       {
-        "text": "un matrimonio",
+        "text": "nuestro cine - la 2 hoy",
         "rank": 4
       },
       {
-        "text": "un escándalo",
+        "text": "una escalera",
         "rank": 5
       },
       {
-        "text": "la filosofía",
+        "text": "un escandalo",
         "rank": 6
       },
       {
-        "text": "un amor",
+        "text": "san lorenzo",
         "rank": 7
       },
       {
-        "text": "una escalera",
+        "text": "la filosofía",
         "rank": 8
       },
       {
-        "text": "españa",
+        "text": "un matrimonio",
         "rank": 9
       },
       {
@@ -2342,39 +1980,39 @@
         "rank": 1
       },
       {
-        "text": "la mesa",
+        "text": "la guerra",
         "rank": 2
       },
       {
-        "text": "invertir",
+        "text": "la mesa",
         "rank": 3
       },
       {
-        "text": "finicion",
+        "text": "co",
         "rank": 4
       },
       {
-        "text": "cozina",
+        "text": "pesca crucigrama",
         "rank": 5
       },
       {
-        "text": "pesca crucigrama",
+        "text": "cozina",
         "rank": 6
       },
       {
-        "text": "ser nosotros",
+        "text": "finicion",
         "rank": 7
       },
       {
-        "text": "hablar con elocuencia",
+        "text": "invertir",
         "rank": 8
       },
       {
-        "text": "la guerra",
+        "text": "pesca",
         "rank": 9
       },
       {
-        "text": "pesca",
+        "text": "hablar con elocuencia",
         "rank": 10
       }
     ]
@@ -2383,7 +2021,7 @@
     "question": "música de",
     "answers": [
       {
-        "text": "los 70",
+        "text": "aitana",
         "rank": 1
       },
       {
@@ -2395,31 +2033,31 @@
         "rank": 3
       },
       {
-        "text": "los 90",
+        "text": "los 80",
         "rank": 4
       },
       {
-        "text": "bachata",
+        "text": "julio iglesias",
         "rank": 5
       },
       {
-        "text": "alejandro sanz",
+        "text": "karol g",
         "rank": 6
       },
       {
-        "text": "los 80 90",
+        "text": "alejandro sanz",
         "rank": 7
       },
       {
-        "text": "acordeón",
+        "text": "antonio orozco",
         "rank": 8
       },
       {
-        "text": "acdc",
+        "text": "ahora",
         "rank": 9
       },
       {
-        "text": "ahora",
+        "text": "abba",
         "rank": 10
       }
     ]
@@ -2428,43 +2066,43 @@
     "question": "bailes de",
     "answers": [
       {
-        "text": "bachata",
+        "text": "salsa",
         "rank": 1
       },
       {
-        "text": "salsa",
+        "text": "sevillanas",
         "rank": 2
       },
       {
-        "text": "l mundo",
+        "text": "tiktok",
         "rank": 3
       },
       {
-        "text": "zumba",
+        "text": "tiktok 2025",
         "rank": 4
       },
       {
-        "text": "sevillanas",
+        "text": "l mundo",
         "rank": 5
       },
       {
-        "text": "tiktok 2025",
+        "text": "fortnite",
         "rank": 6
       },
       {
-        "text": "tiktok",
+        "text": "bachata",
         "rank": 7
       },
       {
-        "text": "boda",
+        "text": "salon",
         "rank": 8
       },
       {
-        "text": "salon",
+        "text": "zumba",
         "rank": 9
       },
       {
-        "text": "fortnite",
+        "text": "boda",
         "rank": 10
       }
     ]
@@ -2473,23 +2111,23 @@
     "question": "costumbres de",
     "answers": [
       {
-        "text": "colombia",
+        "text": "china",
         "rank": 1
       },
       {
-        "text": "grecia",
+        "text": "los judios",
         "rank": 2
       },
       {
-        "text": "china",
+        "text": "marruecos",
         "rank": 3
       },
       {
-        "text": "francia",
+        "text": "la india",
         "rank": 4
       },
       {
-        "text": "marruecos",
+        "text": "españa",
         "rank": 5
       },
       {
@@ -2497,19 +2135,19 @@
         "rank": 6
       },
       {
-        "text": "la india",
+        "text": "francia",
         "rank": 7
       },
       {
-        "text": "brasil",
+        "text": "japon",
         "rank": 8
       },
       {
-        "text": "españa",
+        "text": "brasil",
         "rank": 9
       },
       {
-        "text": "los gitanos",
+        "text": "colombia",
         "rank": 10
       }
     ]
@@ -2518,31 +2156,31 @@
     "question": "religión en",
     "answers": [
       {
-        "text": "japon",
+        "text": "rusia",
         "rank": 1
       },
       {
-        "text": "rusia",
+        "text": "la india",
         "rank": 2
       },
       {
-        "text": "corea del sur",
+        "text": "israel",
         "rank": 3
       },
       {
-        "text": "españa",
+        "text": "japon",
         "rank": 4
       },
       {
-        "text": "la india",
+        "text": "libertad",
         "rank": 5
       },
       {
-        "text": "libertad",
+        "text": "españa",
         "rank": 6
       },
       {
-        "text": "israel",
+        "text": "turquía",
         "rank": 7
       },
       {
@@ -2550,7 +2188,7 @@
         "rank": 8
       },
       {
-        "text": "turquía",
+        "text": "corea del sur",
         "rank": 9
       },
       {
@@ -2560,67 +2198,46 @@
     ]
   },
   {
-    "question": "cómo elegir maduro",
+    "question": "puedes beber",
     "answers": [
       {
-        "text": "te maduro",
+        "text": "agua antes de una analítica",
         "rank": 1
       },
       {
-        "text": "o maduro",
+        "text": "agua antes de un análisis de sangre",
         "rank": 2
       },
       {
-        "text": "on tuna maduro",
+        "text": "alcohol despues de tatuarte",
         "rank": 3
       },
       {
-        "text": "maduro",
-        "rank": 4
-      }
-    ]
-  },
-  {
-    "question": "mejor receta para",
-    "answers": [
-      {
-        "text": "carne de hamburguesa",
-        "rank": 1
-      },
-      {
-        "text": "crepas",
-        "rank": 2
-      },
-      {
-        "text": "masa de pizza",
-        "rank": 3
-      },
-      {
-        "text": "waffles",
+        "text": "agua mientras conduces",
         "rank": 4
       },
       {
-        "text": "pizza",
+        "text": "agua en ayunas",
         "rank": 5
       },
       {
-        "text": "pancakes",
+        "text": "agua antes de una analítica de sangre",
         "rank": 6
       },
       {
-        "text": "bajar de peso",
+        "text": "alcohol si tomas antidepresivos",
         "rank": 7
       },
       {
-        "text": "panqueques",
+        "text": "alcohol si tomas ibuprofeno",
         "rank": 8
       },
       {
-        "text": "salmon",
+        "text": "agua antes de una operacion",
         "rank": 9
       },
       {
-        "text": "hamburguesas",
+        "text": "alcohol si tomas paracetamol",
         "rank": 10
       }
     ]
@@ -2629,43 +2246,43 @@
     "question": "cómo comer",
     "answers": [
       {
-        "text": "papaya",
+        "text": "la quinoa",
         "rank": 1
       },
       {
-        "text": "el queso cottage",
+        "text": "tofu",
         "rank": 2
       },
       {
-        "text": "el requesón",
+        "text": "la avena",
         "rank": 3
       },
       {
-        "text": "con palillos chinos",
+        "text": "el requesón",
         "rank": 4
       },
       {
-        "text": "la chía",
+        "text": "aguacate",
         "rank": 5
       },
       {
-        "text": "el mango",
+        "text": "la remolacha",
         "rank": 6
       },
       {
-        "text": "avena",
+        "text": "con palillos chinos",
         "rank": 7
       },
       {
-        "text": "la remolacha",
+        "text": "la chía",
         "rank": 8
       },
       {
-        "text": "la quinoa",
+        "text": "el queso cottage",
         "rank": 9
       },
       {
-        "text": "el aguacate",
+        "text": "la papaya",
         "rank": 10
       }
     ]
@@ -2674,126 +2291,85 @@
     "question": "mejores películas con",
     "answers": [
       {
-        "text": "efectos especiales",
-        "rank": 1
-      },
-      {
-        "text": "final inesperado netflix",
-        "rank": 2
-      },
-      {
-        "text": "giros inesperados",
-        "rank": 3
-      },
-      {
         "text": "mensaje",
-        "rank": 4
-      },
-      {
-        "text": "mensaje de vida",
-        "rank": 5
+        "rank": 1
       },
       {
         "text": "dolby atmos",
-        "rank": 6
+        "rank": 2
+      },
+      {
+        "text": "mensaje de vida",
+        "rank": 3
+      },
+      {
+        "text": "efectos especiales",
+        "rank": 4
       },
       {
         "text": "final inesperado",
-        "rank": 7
-      },
-      {
-        "text": "plot twist",
-        "rank": 8
-      },
-      {
-        "text": "mensaje positivo",
-        "rank": 9
+        "rank": 5
       },
       {
         "text": "temporáneas",
-        "rank": 10
+        "rank": 6
+      },
+      {
+        "text": "plot twist",
+        "rank": 7
+      },
+      {
+        "text": "giros inesperados",
+        "rank": 8
+      },
+      {
+        "text": "final inesperado netflix",
+        "rank": 9
       }
     ]
   },
   {
-    "question": "cómo cortar",
+    "question": "puedes comer",
     "answers": [
       {
-        "text": "metacrilato",
+        "text": "marisco embarazada",
         "rank": 1
       },
       {
-        "text": "las uñas a un perro",
+        "text": "huevo frito embarazada",
         "rank": 2
       },
       {
-        "text": "el pelo a capas",
+        "text": "despues de una limpieza dental",
         "rank": 3
       },
       {
-        "text": "una sandía",
+        "text": "despues de una colonoscopia",
         "rank": 4
       },
       {
-        "text": "un mango",
+        "text": "sushi embarazada",
         "rank": 5
       },
       {
-        "text": "un cristal",
+        "text": "despues de un empaste",
         "rank": 6
       },
       {
-        "text": "un jamón",
+        "text": "picante en el embarazo",
         "rank": 7
       },
       {
-        "text": "la diarrea",
+        "text": "jamon embarazada",
         "rank": 8
       },
       {
-        "text": "el flequillo",
+        "text": "fuet estando embarazada",
         "rank": 9
       },
       {
-        "text": "la sangre de la nariz",
+        "text": "antes de donar sangre",
         "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "puedes comer caducado",
-    "answers": [
-      {
-        "text": "s caducados",
-        "rank": 1
-      },
-      {
-        "text": "aducado",
-        "rank": 2
-      },
-      {
-        "text": "ucado",
-        "rank": 3
-      },
-      {
-        "text": "cado",
-        "rank": 4
-      },
-      {
-        "text": "ducado",
-        "rank": 5
-      },
-      {
-        "text": "aducados",
-        "rank": 6
-      },
-      {
-        "text": "caducado",
-        "rank": 7
-      },
-      {
-        "text": "e caducado",
-        "rank": 8
       }
     ]
   },
@@ -2801,7 +2377,7 @@
     "question": "comprar acciones en",
     "answers": [
       {
-        "text": "desa",
+        "text": "myinvestor",
         "rank": 1
       },
       {
@@ -2809,11 +2385,11 @@
         "rank": 2
       },
       {
-        "text": "iberdrola",
+        "text": "revolut",
         "rank": 3
       },
       {
-        "text": "revolut",
+        "text": "bolsa",
         "rank": 4
       },
       {
@@ -2821,7 +2397,7 @@
         "rank": 5
       },
       {
-        "text": "bolsa",
+        "text": "iberdrola",
         "rank": 6
       },
       {
@@ -2829,15 +2405,15 @@
         "rank": 7
       },
       {
-        "text": "trade republic",
+        "text": "desa",
         "rank": 8
       },
       {
-        "text": "caixabank",
+        "text": "trade republic",
         "rank": 9
       },
       {
-        "text": "myinvestor",
+        "text": "caixabank",
         "rank": 10
       }
     ]
@@ -2846,15 +2422,15 @@
     "question": "religion de",
     "answers": [
       {
-        "text": "la india",
+        "text": "tom cruise",
         "rank": 1
       },
       {
-        "text": "españa",
+        "text": "la india",
         "rank": 2
       },
       {
-        "text": "trump",
+        "text": "china",
         "rank": 3
       },
       {
@@ -2862,27 +2438,27 @@
         "rank": 4
       },
       {
-        "text": "tom cruise",
+        "text": "turquia",
         "rank": 5
       },
       {
-        "text": "los gitanos",
+        "text": "palestina",
         "rank": 6
       },
       {
-        "text": "china",
+        "text": "españa",
         "rank": 7
       },
       {
-        "text": "japon",
+        "text": "los judios",
         "rank": 8
       },
       {
-        "text": "palestina",
+        "text": "los gitanos",
         "rank": 9
       },
       {
-        "text": "turquia",
+        "text": "japon",
         "rank": 10
       }
     ]
@@ -2891,43 +2467,43 @@
     "question": "papa",
     "answers": [
       {
-        "text": "leon",
+        "text": "amarilla",
         "rank": 1
       },
       {
-        "text": "s aliñas",
+        "text": "actual",
         "rank": 2
       },
       {
-        "text": "asada",
+        "text": "gayo",
         "rank": 3
       },
       {
-        "text": "arruga",
+        "text": "s aliñas",
         "rank": 4
       },
       {
-        "text": "anterior a francisco",
+        "text": "actual 2025",
         "rank": 5
       },
       {
-        "text": "actual 2025",
+        "text": "ya",
         "rank": 6
       },
       {
-        "text": "león xiv",
+        "text": "arruga",
         "rank": 7
       },
       {
-        "text": "actual",
+        "text": "león xiv",
         "rank": 8
       },
       {
-        "text": "americano cancion",
+        "text": "a la huancaina",
         "rank": 9
       },
       {
-        "text": "luna",
+        "text": "aliñadas",
         "rank": 10
       }
     ]
@@ -2936,39 +2512,39 @@
     "question": "los dioses",
     "answers": [
       {
-        "text": "deben estar locos",
+        "text": "atontados",
         "rank": 1
       },
       {
-        "text": "atontados",
+        "text": "aureos orden",
         "rank": 2
       },
       {
-        "text": "anuel",
+        "text": "del olimpo",
         "rank": 3
       },
       {
-        "text": "del olimpo",
+        "text": "del norte",
         "rank": 4
       },
       {
-        "text": "album",
+        "text": "de egipto",
         "rank": 5
       },
       {
-        "text": "aureos orden",
+        "text": "almeria",
         "rank": 6
       },
       {
-        "text": "almeria",
+        "text": "del olimpo me han abandonado",
         "rank": 7
       },
       {
-        "text": "antiguos",
+        "text": "deben estar locos reparto",
         "rank": 8
       },
       {
-        "text": "griegos",
+        "text": "abandonan a antonio",
         "rank": 9
       },
       {

@@ -131,7 +131,8 @@ class GoogleAutocompleteClient:
                             for item in data[1]:
                                 if isinstance(item, str) and item.strip():
                                     clean_item = item.strip().lower()
-                                    if clean_item != query.lower() and (len(clean_item) - len(query))<= 50:
+                                    if (clean_item != query.lower() and (len(clean_item) - len(query))<= 50
+                                    and clean_item.startswith(query.lower()) and not clean_item.endswith('en ingles')):
                                         suggestions.append(clean_item)
 
                         return suggestions

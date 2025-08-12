@@ -3,43 +3,43 @@
     "question": "por qué los gatos",
     "answers": [
       {
-        "text": "comen hierba",
+        "text": "duermen tanto",
         "rank": 1
       },
       {
-        "text": "duermen tanto",
+        "text": "amasan la ropa",
         "rank": 2
       },
       {
-        "text": "tienen miedo al agua",
+        "text": "arañan",
         "rank": 3
       },
       {
-        "text": "tienen miedo a los pepinos",
+        "text": "odian el agua",
         "rank": 4
       },
       {
-        "text": "amasan",
+        "text": "siempre caen de pie",
         "rank": 5
       },
       {
-        "text": "se asustan con los pepinos",
+        "text": "abren la boca cuando huelen algo",
         "rank": 6
       },
       {
-        "text": "odian el agua",
+        "text": "abren la boca",
         "rank": 7
       },
       {
-        "text": "mueven la cola",
+        "text": "adelgazan en verano",
         "rank": 8
       },
       {
-        "text": "muerden a sus dueños",
+        "text": "amasan",
         "rank": 9
       },
       {
-        "text": "ronronean",
+        "text": "mueven la cola",
         "rank": 10
       }
     ]
@@ -48,43 +48,43 @@
     "question": "cómo cuidar",
     "answers": [
       {
-        "text": "una orquídea",
+        "text": "la planta del dinero",
         "rank": 1
       },
       {
-        "text": "la albahaca",
+        "text": "los geranios",
         "rank": 2
       },
       {
-        "text": "una planta carnívora",
+        "text": "una orquídea",
         "rank": 3
       },
       {
-        "text": "los geranios",
+        "text": "las calas",
         "rank": 4
       },
       {
-        "text": "la planta del dinero",
+        "text": "las orquídeas",
         "rank": 5
       },
       {
-        "text": "un bonsai",
+        "text": "un limonero en maceta",
         "rank": 6
       },
       {
-        "text": "las hortensias",
+        "text": "una orquídea en casa",
         "rank": 7
       },
       {
-        "text": "las calas",
+        "text": "las hortensias",
         "rank": 8
       },
       {
-        "text": "un limonero en maceta",
+        "text": "la albahaca",
         "rank": 9
       },
       {
-        "text": "una orquídea en casa",
+        "text": "una planta carnívora",
         "rank": 10
       }
     ]
@@ -93,15 +93,15 @@
     "question": "qué comen los",
     "answers": [
       {
-        "text": "cangrejos",
+        "text": "renacuajos",
         "rank": 1
       },
       {
-        "text": "caracoles",
+        "text": "erizos",
         "rank": 2
       },
       {
-        "text": "gorriones",
+        "text": "murciélagos",
         "rank": 3
       },
       {
@@ -109,19 +109,19 @@
         "rank": 4
       },
       {
-        "text": "erizos",
+        "text": "gorriones",
         "rank": 5
       },
       {
-        "text": "murciélagos",
+        "text": "caracoles",
         "rank": 6
       },
       {
-        "text": "escarabajos",
+        "text": "patos",
         "rank": 7
       },
       {
-        "text": "patos",
+        "text": "cangrejos",
         "rank": 8
       },
       {
@@ -129,7 +129,7 @@
         "rank": 9
       },
       {
-        "text": "renacuajos",
+        "text": "escarabajos",
         "rank": 10
       }
     ]
@@ -142,39 +142,39 @@
         "rank": 1
       },
       {
-        "text": "reyes de españa",
+        "text": "animales",
         "rank": 2
       },
       {
-        "text": "pingüinos",
+        "text": "leones",
         "rank": 3
       },
       {
-        "text": "leones",
+        "text": "anfibios",
         "rank": 4
       },
       {
-        "text": "osos polares",
+        "text": "armadillos",
         "rank": 5
       },
       {
-        "text": "tigres",
+        "text": "capibaras",
         "rank": 6
       },
       {
-        "text": "elefantes",
+        "text": "koalas",
         "rank": 7
       },
       {
-        "text": "capibaras",
+        "text": "amish",
         "rank": 8
       },
       {
-        "text": "cocodrilos",
+        "text": "tigres",
         "rank": 9
       },
       {
-        "text": "koalas",
+        "text": "avestruces",
         "rank": 10
       }
     ]
@@ -183,43 +183,43 @@
     "question": "cuánto viven los",
     "answers": [
       {
-        "text": "perros",
+        "text": "periquitos",
         "rank": 1
       },
       {
-        "text": "gatos",
+        "text": "gorriones",
         "rank": 2
       },
       {
-        "text": "caballos",
+        "text": "mosquitos",
         "rank": 3
       },
       {
-        "text": "periquitos",
+        "text": "caballos",
         "rank": 4
       },
       {
-        "text": "hámsters",
+        "text": "loros",
         "rank": 5
       },
       {
-        "text": "mosquitos",
+        "text": "caracoles",
         "rank": 6
       },
       {
-        "text": "gorriones",
+        "text": "gatos",
         "rank": 7
       },
       {
-        "text": "conejos",
+        "text": "perros",
         "rank": 8
       },
       {
-        "text": "loros",
+        "text": "hámsters",
         "rank": 9
       },
       {
-        "text": "caracoles",
+        "text": "conejos",
         "rank": 10
       }
     ]
@@ -228,27 +228,27 @@
     "question": "se puede ordeñar",
     "answers": [
       {
-        "text": "una cerda",
+        "text": "una oveja",
         "rank": 1
       },
       {
-        "text": "a una gata",
+        "text": "una yegua",
         "rank": 2
       },
       {
-        "text": "una perra",
+        "text": "a una gata",
         "rank": 3
       },
       {
-        "text": "una yegua",
+        "text": "una cabra preñada",
         "rank": 4
       },
       {
-        "text": "un toro",
+        "text": "una cerda",
         "rank": 5
       },
       {
-        "text": "una cabra preñada",
+        "text": "una vaca preñada",
         "rank": 6
       },
       {
@@ -256,37 +256,16 @@
         "rank": 7
       },
       {
-        "text": "una oveja",
+        "text": "una perra",
         "rank": 8
       },
       {
-        "text": "una vaca preñada",
+        "text": "una jirafa",
         "rank": 9
       },
       {
-        "text": "una jirafa",
+        "text": "un toro",
         "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "mejor manera de acariciar",
-    "answers": [
-      {
-        "text": "iar a un gato",
-        "rank": 1
-      },
-      {
-        "text": "ra de acariciarte a lo lejos",
-        "rank": 2
-      },
-      {
-        "text": "iar lobos",
-        "rank": 3
-      },
-      {
-        "text": "e acariciar a un perro",
-        "rank": 4
       }
     ]
   },
@@ -294,126 +273,73 @@
     "question": "por qué los perros tienen",
     "answers": [
       {
-        "text": "miedo a los cohetes",
+        "text": "pesadillas",
         "rank": 1
-      },
-      {
-        "text": "cola",
-        "rank": 2
-      },
-      {
-        "text": "la nariz húmeda",
-        "rank": 3
       },
       {
         "text": "bigotes",
-        "rank": 4
-      },
-      {
-        "text": "miedo a las tormentas",
-        "rank": 5
+        "rank": 2
       },
       {
         "text": "diarrea",
-        "rank": 6
-      },
-      {
-        "text": "los ojos rojos",
-        "rank": 7
-      },
-      {
-        "text": "la nariz mojada",
-        "rank": 8
+        "rank": 3
       },
       {
         "text": "la nariz seca",
-        "rank": 9
+        "rank": 4
+      },
+      {
+        "text": "la nariz húmeda",
+        "rank": 5
+      },
+      {
+        "text": "la nariz mojada",
+        "rank": 6
+      },
+      {
+        "text": "miedo a los cohetes",
+        "rank": 7
+      },
+      {
+        "text": "miedo a las tormentas",
+        "rank": 8
       },
       {
         "text": "hipo",
-        "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "a mi gato le gusta comer",
-    "answers": [
-      {
-        "text": "en inglés",
-        "rank": 1
-      },
-      {
-        "text": "plastico",
-        "rank": 2
-      },
-      {
-        "text": "a comer plástico",
-        "rank": 3
-      },
-      {
-        "text": "de mi mano",
-        "rank": 4
-      },
-      {
-        "text": "todos los días",
-        "rank": 5
-      },
-      {
-        "text": "pasto",
-        "rank": 6
-      },
-      {
-        "text": "a comer pasto",
-        "rank": 7
-      },
-      {
-        "text": "a comer cosas dulces",
-        "rank": 8
-      },
-      {
-        "text": "pan",
         "rank": 9
       },
       {
-        "text": "mer solo",
+        "text": "cola",
         "rank": 10
       }
     ]
   },
   {
-    "question": "mi perro comió mi",
+    "question": "por qué a los gatos le gusta",
     "answers": [
       {
-        "text": "mi planta de marihuanas",
+        "text": "la aceituna",
         "rank": 1
       },
       {
-        "text": "a mi abuela",
+        "text": "el pescado",
         "rank": 2
       },
       {
-        "text": "a mi madre",
+        "text": "n los ratones",
         "rank": 3
       },
       {
-        "text": "a mi mama",
+        "text": "el palo santo",
         "rank": 4
       },
       {
-        "text": "mi tarea",
+        "text": "amasar",
         "rank": 5
       },
       {
-        "text": "mi tarea en ingles",
+        "text": "n las cajas",
         "rank": 6
-      },
-      {
-        "text": "mis pastillas anticonceptivas",
-        "rank": 7
-      },
-      {
-        "text": "la comida de mi gato",
-        "rank": 8
       }
     ]
   },
@@ -421,43 +347,43 @@
     "question": "mi perro tiene",
     "answers": [
       {
-        "text": "mocos y respira mal",
+        "text": "la nariz seca",
         "rank": 1
       },
       {
-        "text": "diarrea pero come bien",
+        "text": "caspa",
         "rank": 2
       },
       {
-        "text": "diarrea con sangre",
+        "text": "diarrea",
         "rank": 3
       },
       {
-        "text": "mocos",
+        "text": "un blog",
         "rank": 4
       },
       {
-        "text": "hipo",
+        "text": "diarrea que medicamento le doy",
         "rank": 5
       },
       {
-        "text": "un blog",
+        "text": "hipo",
         "rank": 6
       },
       {
-        "text": "diarrea que medicamento le doy",
+        "text": "mocos",
         "rank": 7
       },
       {
-        "text": "diarrea",
+        "text": "diarrea pero come bien",
         "rank": 8
       },
       {
-        "text": "la nariz seca",
+        "text": "diarrea pero tiene hambre",
         "rank": 9
       },
       {
-        "text": "diarrea pero tiene hambre",
+        "text": "diarrea con sangre",
         "rank": 10
       }
     ]
@@ -466,43 +392,43 @@
     "question": "los pájaros",
     "answers": [
       {
-        "text": "pueden comer pan",
+        "text": "orinan",
         "rank": 1
       },
       {
-        "text": "mean",
+        "text": "tarjei vesaas",
         "rank": 2
       },
       {
-        "text": "son dinosaurios",
+        "text": "libro",
         "rank": 3
       },
       {
-        "text": "reparto",
+        "text": "de bangkok",
         "rank": 4
       },
       {
-        "text": "orinan",
+        "text": "reparto",
         "rank": 5
       },
       {
-        "text": "de bangkok",
+        "text": "pueden comer arroz crudo",
         "rank": 6
       },
       {
-        "text": "libro",
+        "text": "mean",
         "rank": 7
       },
       {
-        "text": "tienen olfato",
+        "text": "hacen pis",
         "rank": 8
       },
       {
-        "text": "tarjei vesaas",
+        "text": "tienen olfato",
         "rank": 9
       },
       {
-        "text": "hacen pis",
+        "text": "son dinosaurios",
         "rank": 10
       }
     ]
@@ -511,43 +437,43 @@
     "question": "los gatos",
     "answers": [
       {
-        "text": "pueden comer fresas",
+        "text": "netflix",
         "rank": 1
       },
       {
-        "text": "pueden comer melon",
+        "text": "pueden comer sandia",
         "rank": 2
       },
       {
-        "text": "ven en la oscuridad",
+        "text": "aguantan el calor",
         "rank": 3
       },
       {
-        "text": "netflix",
+        "text": "atacan a las tortugas",
         "rank": 4
       },
       {
-        "text": "absorben las malas energías",
+        "text": "pueden comer queso",
         "rank": 5
       },
       {
-        "text": "adelgazan en verano",
+        "text": "ven en la oscuridad",
         "rank": 6
       },
       {
-        "text": "abandonan a sus crias",
+        "text": "ahuyentan las cucarachas",
         "rank": 7
       },
       {
-        "text": "pueden comer queso",
+        "text": "pueden comer cerezas",
         "rank": 8
       },
       {
-        "text": "pueden comer sandia",
+        "text": "pueden comer melon",
         "rank": 9
       },
       {
-        "text": "atacan a las tortugas",
+        "text": "atacan a las gallinas",
         "rank": 10
       }
     ]
@@ -560,23 +486,23 @@
         "rank": 1
       },
       {
-        "text": "pueden comer platano",
+        "text": "pueden comer cerezas",
         "rank": 2
       },
       {
-        "text": "pueden comer melon",
+        "text": "pueden comer nectarina",
         "rank": 3
       },
       {
-        "text": "pueden comer cerezas",
+        "text": "pueden comer sandia",
         "rank": 4
       },
       {
-        "text": "pueden comer fresas",
+        "text": "pueden comer manzana",
         "rank": 5
       },
       {
-        "text": "pueden comer manzana",
+        "text": "pueden comer fresas",
         "rank": 6
       },
       {
@@ -588,167 +514,101 @@
         "rank": 8
       },
       {
-        "text": "pueden comer sandia",
+        "text": "pueden comer melon",
         "rank": 9
       },
       {
-        "text": "pueden comer melocoton",
+        "text": "pueden comer platano",
         "rank": 10
       }
     ]
   },
   {
-    "question": "es mi gato",
+    "question": "mi gato es",
     "answers": [
       {
-        "text": "s mi gato",
+        "text": "ta estreñido",
         "rank": 1
       },
       {
-        "text": "que mi gato duerma todo el dia",
+        "text": "ta afonico",
         "rank": 2
       },
       {
-        "text": "que mi gato tome mucha agua",
+        "text": "ta apatico",
         "rank": 3
       },
       {
-        "text": "que mi gato vomite",
+        "text": "ta decaido",
         "rank": 4
       },
       {
-        "text": "que mi gato ronque",
+        "text": "tá lleno de nudos",
         "rank": 5
       },
       {
-        "text": "en inglés",
+        "text": "ta resfriado que hago",
         "rank": 6
+      },
+      {
+        "text": "tornuda mucho",
+        "rank": 7
+      },
+      {
+        "text": "tornuda y tiene mocos",
+        "rank": 8
+      },
+      {
+        "text": "tornuda mucho remedio casero",
+        "rank": 9
+      },
+      {
+        "text": "ta muy delgado",
+        "rank": 10
       }
     ]
   },
   {
-    "question": "por qué son los gatos",
+    "question": "se puede acariciar",
     "answers": [
       {
-        "text": "ronean",
+        "text": "una tarantula",
         "rank": 1
       },
       {
-        "text": "los gatos",
+        "text": "un erizo",
         "rank": 2
       },
       {
-        "text": "ven la cola",
+        "text": "un carpincho",
         "rank": 3
       },
       {
-        "text": "comen a sus crias",
+        "text": "un capibara",
         "rank": 4
       },
       {
-        "text": "es los gatos",
+        "text": "la panza en el embarazo",
         "rank": 5
       },
       {
-        "text": "tienen miedo al agua",
+        "text": "a un perro guia",
         "rank": 6
       },
       {
-        "text": "rden",
+        "text": "una vaca",
         "rank": 7
       },
       {
-        "text": "rmen tanto",
+        "text": "una foca",
         "rank": 8
       },
       {
-        "text": "san",
-        "rank": 9
-      }
-    ]
-  },
-  {
-    "question": "por qué son los perros",
-    "answers": [
-      {
-        "text": "lamen las patas",
-        "rank": 1
-      },
-      {
-        "text": "en tierra",
-        "rank": 2
-      },
-      {
-        "text": "quedan pegados",
-        "rank": 3
-      },
-      {
-        "text": "los perros",
-        "rank": 4
-      },
-      {
-        "text": "lan",
-        "rank": 5
-      },
-      {
-        "text": "en pasto",
-        "rank": 6
-      },
-      {
-        "text": "itan amarillo",
-        "rank": 7
-      },
-      {
-        "text": "en caca",
-        "rank": 8
-      },
-      {
-        "text": "len las partes intimas",
-        "rank": 9
-      }
-    ]
-  },
-  {
-    "question": "se puede acariciar un",
-    "answers": [
-      {
-        "text": "capibara",
-        "rank": 1
-      },
-      {
-        "text": "erizo",
-        "rank": 2
-      },
-      {
-        "text": "a tortuga",
-        "rank": 3
-      },
-      {
-        "text": "a vaca",
-        "rank": 4
-      },
-      {
-        "text": "pinguino",
-        "rank": 5
-      },
-      {
-        "text": "pez",
-        "rank": 6
-      },
-      {
-        "text": "carpincho",
-        "rank": 7
-      },
-      {
-        "text": "ajolote",
-        "rank": 8
-      },
-      {
-        "text": "a foca",
+        "text": "un pez",
         "rank": 9
       },
       {
-        "text": "a tarantula",
+        "text": "una tortuga",
         "rank": 10
       }
     ]
@@ -757,88 +617,43 @@
     "question": "por qué los",
     "answers": [
       {
-        "text": "musulmanes no pueden comer cerdo",
-        "rank": 1
-      },
-      {
-        "text": "gatos amasan",
-        "rank": 2
-      },
-      {
-        "text": "moros no comen cerdo",
-        "rank": 3
-      },
-      {
-        "text": "flamencos son rosas",
-        "rank": 4
-      },
-      {
-        "text": "musulmanes no comen cerdo",
-        "rank": 5
-      },
-      {
-        "text": "perros se comen su caca",
-        "rank": 6
-      },
-      {
         "text": "ingleses conducen por la izquierda",
-        "rank": 7
-      },
-      {
-        "text": "mosquitos pican más a unas personas que a otras",
-        "rank": 8
-      },
-      {
-        "text": "gatos ronronean",
-        "rank": 9
+        "rank": 1
       },
       {
         "text": "perros comen hierba",
-        "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "cómo cuidan",
-    "answers": [
-      {
-        "text": "el medio ambiente",
-        "rank": 1
-      },
-      {
-        "text": "los tlacuaches a sus crías",
         "rank": 2
       },
       {
-        "text": "las plantas",
+        "text": "flamencos son rosas",
         "rank": 3
       },
       {
-        "text": "la naturaleza los lacandones de chiapas",
+        "text": "musulmanes no comen cerdo",
         "rank": 4
       },
       {
-        "text": "a los animales",
+        "text": "perros se lamen las patas",
         "rank": 5
       },
       {
-        "text": "a sus crías",
+        "text": "musulmanes no pueden comer cerdo",
         "rank": 6
       },
       {
-        "text": "los animales",
+        "text": "gatos amasan",
         "rank": 7
       },
       {
-        "text": "las aves a sus crías",
+        "text": "moros no comen cerdo",
         "rank": 8
       },
       {
-        "text": "los elefantes a sus crías",
+        "text": "mosquitos pican más a unas personas que a otras",
         "rank": 9
       },
       {
-        "text": "a sus crías las ballenas",
+        "text": "gatos ronronean",
         "rank": 10
       }
     ]
@@ -851,7 +666,7 @@
         "rank": 1
       },
       {
-        "text": "los reyes de españa",
+        "text": "los leones",
         "rank": 2
       },
       {
@@ -859,23 +674,23 @@
         "rank": 3
       },
       {
-        "text": "los pingüinos",
+        "text": "los koalas",
         "rank": 4
       },
       {
-        "text": "los leones",
+        "text": "los cocodrilos",
         "rank": 5
       },
       {
-        "text": "las tortugas",
+        "text": "los pingüinos",
         "rank": 6
       },
       {
-        "text": "los osos polares",
+        "text": "las tortugas",
         "rank": 7
       },
       {
-        "text": "los tigres",
+        "text": "andy y lucas",
         "rank": 8
       },
       {
@@ -883,7 +698,7 @@
         "rank": 9
       },
       {
-        "text": "los cocodrilos",
+        "text": "los osos polares",
         "rank": 10
       }
     ]
@@ -892,43 +707,43 @@
     "question": "qué comen",
     "answers": [
       {
-        "text": "los caracoles",
+        "text": "los erizos",
         "rank": 1
       },
       {
-        "text": "los cangrejos",
+        "text": "los saltamontes",
         "rank": 2
       },
       {
-        "text": "las golondrinas",
+        "text": "las lagartijas",
         "rank": 3
       },
       {
-        "text": "las mariquitas",
+        "text": "los gorriones",
         "rank": 4
       },
       {
-        "text": "los gorriones",
+        "text": "los caracoles",
         "rank": 5
       },
       {
-        "text": "los erizos",
+        "text": "los patos",
         "rank": 6
       },
       {
-        "text": "las lagartijas",
+        "text": "las tortugas",
         "rank": 7
       },
       {
-        "text": "las tortugas",
+        "text": "las capibaras",
         "rank": 8
       },
       {
-        "text": "los patos",
+        "text": "las mariquitas",
         "rank": 9
       },
       {
-        "text": "las capibaras",
+        "text": "las golondrinas",
         "rank": 10
       }
     ]
@@ -937,43 +752,43 @@
     "question": "cómo se reproducen",
     "answers": [
       {
-        "text": "las garrapatas",
+        "text": "las cucarachas",
         "rank": 1
       },
       {
-        "text": "las hormigas",
+        "text": "los tiburones",
         "rank": 2
       },
       {
-        "text": "las anguilas",
+        "text": "las moscas",
         "rank": 3
       },
       {
-        "text": "las serpientes",
+        "text": "las hormigas",
         "rank": 4
       },
       {
-        "text": "los caracoles",
+        "text": "los peces",
         "rank": 5
       },
       {
-        "text": "los tiburones",
+        "text": "las anguilas",
         "rank": 6
       },
       {
-        "text": "los peces",
+        "text": "los caracoles",
         "rank": 7
       },
       {
-        "text": "las medusas",
+        "text": "las serpientes",
         "rank": 8
       },
       {
-        "text": "las moscas",
+        "text": "las garrapatas",
         "rank": 9
       },
       {
-        "text": "las cucarachas",
+        "text": "las medusas",
         "rank": 10
       }
     ]
@@ -986,39 +801,39 @@
         "rank": 1
       },
       {
-        "text": "l renacimiento",
+        "text": "escorpio",
         "rank": 2
       },
       {
-        "text": "tauro",
+        "text": "un narcisista",
         "rank": 3
       },
       {
-        "text": "l romanticismo",
+        "text": "sagitario",
         "rank": 4
       },
       {
-        "text": "capricornio",
+        "text": "l barroco",
         "rank": 5
       },
       {
-        "text": "virgo",
+        "text": "tauro",
         "rank": 6
       },
       {
-        "text": "un narcisista",
+        "text": "capricornio",
         "rank": 7
       },
       {
-        "text": "l barroco",
+        "text": "l renacimiento",
         "rank": 8
       },
       {
-        "text": "escorpio",
+        "text": "virgo",
         "rank": 9
       },
       {
-        "text": "una persona",
+        "text": "l romanticismo",
         "rank": 10
       }
     ]
@@ -1027,43 +842,43 @@
     "question": "comportamiento de",
     "answers": [
       {
-        "text": "una persona con depresión",
+        "text": "personas con parkinson",
         "rank": 1
       },
       {
-        "text": "los perros antes de morir",
+        "text": "los gatos",
         "rank": 2
       },
       {
-        "text": "un narcisista",
+        "text": "un perro ante una persona con cáncer",
         "rank": 3
       },
       {
-        "text": "los gatos",
+        "text": "l consumidor",
         "rank": 4
       },
       {
-        "text": "un bebé con síndrome de down en el vientre",
+        "text": "un narcisista",
         "rank": 5
       },
       {
-        "text": "la perra después del parto",
+        "text": "los perros antes de morir",
         "rank": 6
       },
       {
-        "text": "un adicto a la coca",
+        "text": "la perra después del parto",
         "rank": 7
       },
       {
-        "text": "l consumidor",
+        "text": "un bebé con síndrome de down en el vientre",
         "rank": 8
       },
       {
-        "text": "un perro ante una persona con cáncer",
+        "text": "una persona con depresión",
         "rank": 9
       },
       {
-        "text": "personas con parkinson",
+        "text": "un adicto a la coca",
         "rank": 10
       }
     ]
@@ -1076,31 +891,31 @@
         "rank": 1
       },
       {
-        "text": "los mamíferos",
+        "text": "l lince ibérico",
         "rank": 2
       },
       {
-        "text": "los cocodrilos",
+        "text": "los mamíferos",
         "rank": 3
       },
       {
-        "text": "l tigre",
+        "text": "l ajolote",
         "rank": 4
       },
       {
-        "text": "las aves",
+        "text": "l caracol",
         "rank": 5
       },
       {
-        "text": "l lince ibérico",
+        "text": "l tigre",
         "rank": 6
       },
       {
-        "text": "l ajolote",
+        "text": "las aves",
         "rank": 7
       },
       {
-        "text": "los peces",
+        "text": "l oso polar",
         "rank": 8
       },
       {
@@ -1108,7 +923,7 @@
         "rank": 9
       },
       {
-        "text": "l oso polar",
+        "text": "los peces",
         "rank": 10
       }
     ]
@@ -1117,15 +932,15 @@
     "question": "especies de",
     "answers": [
       {
-        "text": "pinguinos",
+        "text": "dinosaurios",
         "rank": 1
       },
       {
-        "text": "cucarachas",
+        "text": "monos",
         "rank": 2
       },
       {
-        "text": "tortugas",
+        "text": "pajaros",
         "rank": 3
       },
       {
@@ -1133,27 +948,27 @@
         "rank": 4
       },
       {
-        "text": "tiburones",
+        "text": "caracoles",
         "rank": 5
       },
       {
-        "text": "dinosaurios",
+        "text": "pinguinos",
         "rank": 6
       },
       {
-        "text": "pajaros",
+        "text": "abejas",
         "rank": 7
       },
       {
-        "text": "animales",
+        "text": "cucarachas",
         "rank": 8
       },
       {
-        "text": "abejas",
+        "text": "tiburones",
         "rank": 9
       },
       {
-        "text": "monos",
+        "text": "tortugas",
         "rank": 10
       }
     ]
@@ -1162,15 +977,15 @@
     "question": "cuidado de",
     "answers": [
       {
-        "text": "mayores a domicilio",
+        "text": "personas mayores",
         "rank": 1
       },
       {
-        "text": "los geranios",
+        "text": "las calas",
         "rank": 2
       },
       {
-        "text": "personas mayores",
+        "text": "las hortensias",
         "rank": 3
       },
       {
@@ -1178,180 +993,28 @@
         "rank": 4
       },
       {
-        "text": "las calas",
+        "text": "perros",
         "rank": 5
       },
       {
-        "text": "perros",
+        "text": "mayores a domicilio",
         "rank": 6
       },
       {
-        "text": "la lavanda",
+        "text": "piel",
         "rank": 7
       },
       {
-        "text": "piel",
+        "text": "la lavanda",
         "rank": 8
       },
       {
-        "text": "las hortensias",
+        "text": "los geranios",
         "rank": 9
       },
       {
         "text": "niños",
         "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "mejor manera de acariciar",
-    "answers": [
-      {
-        "text": "iar a un gato",
-        "rank": 1
-      },
-      {
-        "text": "ra de acariciarte a lo lejos",
-        "rank": 2
-      },
-      {
-        "text": "iar lobos",
-        "rank": 3
-      },
-      {
-        "text": "e acariciar a un perro",
-        "rank": 4
-      }
-    ]
-  },
-  {
-    "question": "a mi gato le gusta comer",
-    "answers": [
-      {
-        "text": "en inglés",
-        "rank": 1
-      },
-      {
-        "text": "plastico",
-        "rank": 2
-      },
-      {
-        "text": "a comer plástico",
-        "rank": 3
-      },
-      {
-        "text": "de mi mano",
-        "rank": 4
-      },
-      {
-        "text": "todos los días",
-        "rank": 5
-      },
-      {
-        "text": "pasto",
-        "rank": 6
-      },
-      {
-        "text": "a comer pasto",
-        "rank": 7
-      },
-      {
-        "text": "a comer cosas dulces",
-        "rank": 8
-      },
-      {
-        "text": "pan",
-        "rank": 9
-      },
-      {
-        "text": "mer solo",
-        "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "pueden los cerdos comer",
-    "answers": [
-      {
-        "text": "yuca",
-        "rank": 1
-      },
-      {
-        "text": "aguacate",
-        "rank": 2
-      },
-      {
-        "text": "cebolla",
-        "rank": 3
-      },
-      {
-        "text": "chocolate",
-        "rank": 4
-      },
-      {
-        "text": "tomate",
-        "rank": 5
-      },
-      {
-        "text": "pescado",
-        "rank": 6
-      },
-      {
-        "text": "yuca cruda",
-        "rank": 7
-      },
-      {
-        "text": "carne",
-        "rank": 8
-      },
-      {
-        "text": "repollo",
-        "rank": 9
-      },
-      {
-        "text": "pan",
-        "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "pueden los tiburones comer",
-    "answers": [
-      {
-        "text": "humanos",
-        "rank": 1
-      },
-      {
-        "text": "ballenas",
-        "rank": 2
-      },
-      {
-        "text": "medusas",
-        "rank": 3
-      },
-      {
-        "text": "tortugas",
-        "rank": 4
-      },
-      {
-        "text": "personas",
-        "rank": 5
-      },
-      {
-        "text": "orcas",
-        "rank": 6
-      },
-      {
-        "text": "delfines",
-        "rank": 7
-      },
-      {
-        "text": "peces",
-        "rank": 8
-      },
-      {
-        "text": "chocolate",
-        "rank": 9
       }
     ]
   }

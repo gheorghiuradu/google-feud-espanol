@@ -3,43 +3,43 @@
     "question": "recetas españolas",
     "answers": [
       {
-        "text": "faciles y rapidas",
+        "text": "fáciles",
         "rank": 1
       },
       {
-        "text": "con pollo",
+        "text": "verano",
         "rank": 2
       },
       {
-        "text": "para niños",
+        "text": "fáciles y económicas",
         "rank": 3
       },
       {
-        "text": "con aceite de oliva",
+        "text": "con pollo",
         "rank": 4
       },
       {
-        "text": "incompletas",
+        "text": "sencillas",
         "rank": 5
       },
       {
-        "text": "arroz",
+        "text": "incompletas",
         "rank": 6
       },
       {
-        "text": "con ajo",
+        "text": "para verano",
         "rank": 7
       },
       {
-        "text": "airfryer",
+        "text": "para niños",
         "rank": 8
       },
       {
-        "text": "con atun",
+        "text": "airfryer",
         "rank": 9
       },
       {
-        "text": "sencillas",
+        "text": "antiguas",
         "rank": 10
       }
     ]
@@ -48,19 +48,19 @@
     "question": "platos típicos",
     "answers": [
       {
-        "text": "portugueses",
+        "text": "de sevilla",
         "rank": 1
       },
       {
-        "text": "canarios",
+        "text": "de galicia",
         "rank": 2
       },
       {
-        "text": "de asturias",
+        "text": "portugueses",
         "rank": 3
       },
       {
-        "text": "de sevilla",
+        "text": "de asturias",
         "rank": 4
       },
       {
@@ -68,15 +68,15 @@
         "rank": 5
       },
       {
-        "text": "de francia",
+        "text": "canarios",
         "rank": 6
       },
       {
-        "text": "de galicia",
+        "text": "de honduras",
         "rank": 7
       },
       {
-        "text": "de honduras",
+        "text": "de madrid",
         "rank": 8
       },
       {
@@ -84,7 +84,7 @@
         "rank": 9
       },
       {
-        "text": "de madrid",
+        "text": "de francia",
         "rank": 10
       }
     ]
@@ -93,43 +93,43 @@
     "question": "cómo hacer",
     "answers": [
       {
-        "text": "arroz con bogavante",
+        "text": "almejas a la marinera",
         "rank": 1
       },
       {
-        "text": "crepes",
+        "text": "gazpacho",
         "rank": 2
       },
       {
-        "text": "albóndigas en salsa",
+        "text": "ajoblanco",
         "rank": 3
       },
       {
-        "text": "cebolla caramelizada",
+        "text": "crepes",
         "rank": 4
       },
       {
-        "text": "boquerones en vinagre",
+        "text": "alioli",
         "rank": 5
       },
       {
-        "text": "arroz blanco",
+        "text": "una fideuá",
         "rank": 6
       },
       {
-        "text": "gazpacho",
+        "text": "ensaladilla rusa",
         "rank": 7
       },
       {
-        "text": "alioli",
+        "text": "albóndigas en salsa",
         "rank": 8
       },
       {
-        "text": "una fideuá",
+        "text": "tortitas",
         "rank": 9
       },
       {
-        "text": "salmorejo",
+        "text": "atún encebollado",
         "rank": 10
       }
     ]
@@ -138,27 +138,27 @@
     "question": "ingredientes para",
     "answers": [
       {
-        "text": "hacer crepes",
+        "text": "hacer tortitas",
         "rank": 1
       },
       {
-        "text": "ensaladilla rusa",
+        "text": "hacer slime",
         "rank": 2
       },
       {
-        "text": "hacer tortitas",
+        "text": "hacer crepes",
         "rank": 3
       },
       {
-        "text": "hacer pisto",
+        "text": "paella",
         "rank": 4
       },
       {
-        "text": "mojito",
+        "text": "hacer gazpacho",
         "rank": 5
       },
       {
-        "text": "paella",
+        "text": "una ensalada de pasta",
         "rank": 6
       },
       {
@@ -166,15 +166,15 @@
         "rank": 7
       },
       {
-        "text": "una ensalada de pasta",
+        "text": "mojito",
         "rank": 8
       },
       {
-        "text": "hacer slime",
+        "text": "ensaladilla rusa",
         "rank": 9
       },
       {
-        "text": "hacer gazpacho",
+        "text": "hacer pisto",
         "rank": 10
       }
     ]
@@ -183,27 +183,27 @@
     "question": "restaurantes españoles",
     "answers": [
       {
-        "text": "cerca de mi",
+        "text": "alcala de henares",
         "rank": 1
       },
       {
-        "text": "abierto ahora",
+        "text": "abiertos",
         "rank": 2
       },
       {
-        "text": "en budapest",
+        "text": "en suiza",
         "rank": 3
       },
       {
-        "text": "en atlanta",
+        "text": "madrid",
         "rank": 4
       },
       {
-        "text": "en londres",
+        "text": "atenas",
         "rank": 5
       },
       {
-        "text": "en nueva york",
+        "text": "cerca de mi",
         "rank": 6
       },
       {
@@ -211,60 +211,15 @@
         "rank": 7
       },
       {
-        "text": "avenida de mayo",
+        "text": "abierto ahora",
         "rank": 8
       },
       {
-        "text": "alicante",
+        "text": "en amsterdam",
         "rank": 9
       },
       {
-        "text": "en suiza",
-        "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "hay semillas en",
-    "answers": [
-      {
-        "text": "s hay en el mundo",
-        "rank": 1
-      },
-      {
-        "text": "s hay en un kilo",
-        "rank": 2
-      },
-      {
-        "text": "la flor de la rosa",
-        "rank": 3
-      },
-      {
-        "text": "s hay en cada mundo de mario wonder",
-        "rank": 4
-      },
-      {
-        "text": "chia en mercadona",
-        "rank": 5
-      },
-      {
-        "text": "s hay en minecraft",
-        "rank": 6
-      },
-      {
-        "text": "s hay en una mazorca de cacao",
-        "rank": 7
-      },
-      {
-        "text": "s hay en un kilo de maíz",
-        "rank": 8
-      },
-      {
-        "text": "llas en las heces",
-        "rank": 9
-      },
-      {
-        "text": "las flores",
+        "text": "amsterdam",
         "rank": 10
       }
     ]
@@ -273,43 +228,43 @@
     "question": "mejor receta para",
     "answers": [
       {
-        "text": "hamburguesas",
+        "text": "panqueques",
         "rank": 1
       },
       {
-        "text": "carne de hamburguesa",
+        "text": "masa de pizza",
         "rank": 2
       },
       {
-        "text": "masa de pizza",
+        "text": "salmon",
         "rank": 3
       },
       {
-        "text": "waffles",
+        "text": "crepas",
         "rank": 4
       },
       {
-        "text": "salmon",
+        "text": "pizza",
         "rank": 5
       },
       {
-        "text": "panqueques",
+        "text": "pancakes",
         "rank": 6
       },
       {
-        "text": "pancakes",
+        "text": "carne de hamburguesa",
         "rank": 7
       },
       {
-        "text": "pizza",
+        "text": "hamburguesas",
         "rank": 8
       },
       {
-        "text": "bajar de peso",
+        "text": "waffles",
         "rank": 9
       },
       {
-        "text": "crepas",
+        "text": "bajar de peso",
         "rank": 10
       }
     ]
@@ -318,15 +273,15 @@
     "question": "se puede freír",
     "answers": [
       {
-        "text": "pescado congelado",
+        "text": "el pepino",
         "rank": 1
       },
       {
-        "text": "la batata",
+        "text": "con aceite de oliva",
         "rank": 2
       },
       {
-        "text": "con aceite de oliva",
+        "text": "un huevo en la freidora con aceite",
         "rank": 3
       },
       {
@@ -334,102 +289,28 @@
         "rank": 4
       },
       {
-        "text": "con aceite de oliva virgen extra",
+        "text": "la calabaza",
         "rank": 5
       },
       {
-        "text": "el salmón ahumado",
+        "text": "con aceite de oliva virgen extra",
         "rank": 6
-      },
-      {
-        "text": "un huevo en la freidora de aire",
-        "rank": 7
       },
       {
         "text": "el hojaldre",
+        "rank": 7
+      },
+      {
+        "text": "un huevo en la freidora de aire",
         "rank": 8
+      },
+      {
+        "text": "el salmón ahumado",
+        "rank": 9
       },
       {
         "text": "en un microondas",
-        "rank": 9
-      },
-      {
-        "text": "el pepino",
         "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "cubierto de dulce",
-    "answers": [
-      {
-        "text": "dulce",
-        "rank": 1
-      },
-      {
-        "text": "e dulce de leche",
-        "rank": 2
-      },
-      {
-        "text": "de dulce de leche",
-        "rank": 3
-      },
-      {
-        "text": "chocolate",
-        "rank": 4
-      },
-      {
-        "text": "xicano",
-        "rank": 5
-      },
-      {
-        "text": "rto de dulce de leche",
-        "rank": 6
-      },
-      {
-        "text": "e chocolate dulce",
-        "rank": 7
-      },
-      {
-        "text": "chile",
-        "rank": 8
-      },
-      {
-        "text": "biznaga",
-        "rank": 9
-      }
-    ]
-  },
-  {
-    "question": "se puede beber caducado",
-    "answers": [
-      {
-        "text": "ado",
-        "rank": 1
-      },
-      {
-        "text": "aducado",
-        "rank": 2
-      },
-      {
-        "text": "caducado",
-        "rank": 3
-      },
-      {
-        "text": "ducado",
-        "rank": 4
-      },
-      {
-        "text": "er caducado",
-        "rank": 5
-      },
-      {
-        "text": "s caducados",
-        "rank": 6
-      },
-      {
-        "text": "ucado",
-        "rank": 7
       }
     ]
   },
@@ -437,19 +318,19 @@
     "question": "se puede tostar",
     "answers": [
       {
-        "text": "pan en el horno",
+        "text": "el pan congelado",
         "rank": 1
       },
       {
-        "text": "pan en el microondas",
+        "text": "pan en el air fryer",
         "rank": 2
       },
       {
-        "text": "la margarina",
+        "text": "pan en airfryer",
         "rank": 3
       },
       {
-        "text": "pan en la freidora de aire",
+        "text": "el pan integral",
         "rank": 4
       },
       {
@@ -457,23 +338,23 @@
         "rank": 5
       },
       {
-        "text": "el pan congelado",
+        "text": "pan en la freidora de aire",
         "rank": 6
       },
       {
-        "text": "el pan integral",
+        "text": "la margarina",
         "rank": 7
       },
       {
-        "text": "pan en airfryer",
+        "text": "pan en sarten",
         "rank": 8
       },
       {
-        "text": "pan en sarten",
+        "text": "pan en el horno",
         "rank": 9
       },
       {
-        "text": "pan en el air fryer",
+        "text": "pan en el microondas",
         "rank": 10
       }
     ]
@@ -482,15 +363,15 @@
     "question": "relleno de queso",
     "answers": [
       {
-        "text": "bola para pastel",
+        "text": "burrata",
         "rank": 1
       },
       {
-        "text": "crema",
+        "text": "para bizcocho",
         "rank": 2
       },
       {
-        "text": "boliviano",
+        "text": "para tartas",
         "rank": 3
       },
       {
@@ -498,11 +379,11 @@
         "rank": 4
       },
       {
-        "text": "para empanadas",
+        "text": "bola para pastel",
         "rank": 5
       },
       {
-        "text": "burrata",
+        "text": "cottage",
         "rank": 6
       },
       {
@@ -510,15 +391,15 @@
         "rank": 7
       },
       {
-        "text": "cottage",
+        "text": "crema",
         "rank": 8
       },
       {
-        "text": "para bizcocho",
+        "text": "crema y fresas para pastel",
         "rank": 9
       },
       {
-        "text": "para tartas",
+        "text": "crema para macarons",
         "rank": 10
       }
     ]
@@ -527,7 +408,7 @@
     "question": "sabor a chocolate",
     "answers": [
       {
-        "text": "jose carlos carmona",
+        "text": "tabs",
         "rank": 1
       },
       {
@@ -535,80 +416,35 @@
         "rank": 2
       },
       {
-        "text": "año de lanzamiento",
+        "text": "pdf",
         "rank": 3
-      },
-      {
-        "text": "autor",
-        "rank": 4
       },
       {
         "text": "acordes piano",
-        "rank": 5
-      },
-      {
-        "text": "pdf",
-        "rank": 6
-      },
-      {
-        "text": "amarte duele",
-        "rank": 7
-      },
-      {
-        "text": "acordes ukulele",
-        "rank": 8
-      },
-      {
-        "text": "acordes y letra",
-        "rank": 9
-      },
-      {
-        "text": "pelicula",
-        "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "coco",
-    "answers": [
-      {
-        "text": "drilo dundee",
-        "rank": 1
-      },
-      {
-        "text": "antes de chanel",
-        "rank": 2
-      },
-      {
-        "text": "chas",
-        "rank": 3
-      },
-      {
-        "text": "a",
         "rank": 4
       },
       {
-        "text": "chanel",
+        "text": "elefante letra",
         "rank": 5
       },
       {
-        "text": "alpro",
+        "text": "pelicula",
         "rank": 6
       },
       {
-        "text": "and eve",
+        "text": "acordes",
         "rank": 7
       },
       {
-        "text": "aminos",
+        "text": "jose carlos carmona",
         "rank": 8
       },
       {
-        "text": "avila",
+        "text": "letra",
         "rank": 9
       },
       {
-        "text": "drilo",
+        "text": "en la boca",
         "rank": 10
       }
     ]
@@ -617,27 +453,27 @@
     "question": "los pepinos son",
     "answers": [
       {
-        "text": "indigestos",
+        "text": "frutas o verduras",
         "rank": 1
       },
       {
-        "text": "frutas o verduras",
+        "text": "verduras",
         "rank": 2
       },
       {
-        "text": "frutas",
+        "text": "indigestos",
         "rank": 3
       },
       {
-        "text": "verduras",
+        "text": "frutas",
         "rank": 4
       },
       {
-        "text": "carbohidratos",
+        "text": "buenos para los diabéticos",
         "rank": 5
       },
       {
-        "text": "buenos para los riñones",
+        "text": "buenos para los perros",
         "rank": 6
       },
       {
@@ -645,82 +481,16 @@
         "rank": 7
       },
       {
-        "text": "buenos para los perros",
-        "rank": 8
-      },
-      {
-        "text": "buenos para los diabéticos",
-        "rank": 9
-      },
-      {
         "text": "buenos",
-        "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "todo sabe",
-    "answers": [
-      {
-        "text": "mejor con limon",
-        "rank": 1
-      },
-      {
-        "text": "r implica poder y todo poder un saber específico",
-        "rank": 2
-      },
-      {
-        "text": "s de mi cuando miras el corazon",
-        "rank": 3
-      },
-      {
-        "text": "dulce",
-        "rank": 4
-      },
-      {
-        "text": "a pollo",
-        "rank": 5
-      },
-      {
-        "text": "amargo",
-        "rank": 6
-      },
-      {
-        "text": "s de mi",
-        "rank": 7
-      },
-      {
-        "text": "mos querer",
         "rank": 8
       },
       {
-        "text": "mejor",
+        "text": "buenos para los riñones",
         "rank": 9
       },
       {
-        "text": "salado",
+        "text": "carbohidratos",
         "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "cómo elegir maduro",
-    "answers": [
-      {
-        "text": "o maduro",
-        "rank": 1
-      },
-      {
-        "text": "on tuna maduro",
-        "rank": 2
-      },
-      {
-        "text": "maduro",
-        "rank": 3
-      },
-      {
-        "text": "te maduro",
-        "rank": 4
       }
     ]
   },
@@ -728,43 +498,43 @@
     "question": "cómo comer un",
     "answers": [
       {
-        "text": "aguacate",
+        "text": "mango",
         "rank": 1
       },
       {
-        "text": "a piña",
+        "text": "coco",
         "rank": 2
       },
       {
-        "text": "mango",
+        "text": "aguacate",
         "rank": 3
       },
       {
-        "text": "coco",
+        "text": "pomelo",
         "rank": 4
       },
       {
-        "text": "a papaya",
+        "text": "a naranja",
         "rank": 5
       },
       {
-        "text": "a nécora",
+        "text": "a sandía",
         "rank": 6
       },
       {
-        "text": "kiwi",
+        "text": "a nécora",
         "rank": 7
       },
       {
-        "text": "a naranja",
+        "text": "a granada",
         "rank": 8
       },
       {
-        "text": "a granada",
+        "text": "kiwi",
         "rank": 9
       },
       {
-        "text": "pomelo",
+        "text": "a papaya",
         "rank": 10
       }
     ]
@@ -773,43 +543,43 @@
     "question": "cómo asar",
     "answers": [
       {
-        "text": "berenjenas",
+        "text": "pimientos en el microondas",
         "rank": 1
       },
       {
-        "text": "patatas en el horno",
+        "text": "pimientos en la freidora de aire",
         "rank": 2
       },
       {
-        "text": "pimientos rojos en el horno",
+        "text": "una manzana en el microondas",
         "rank": 3
       },
       {
-        "text": "pimientos rojos en la freidora de aire",
+        "text": "pimientos en el horno",
         "rank": 4
       },
       {
-        "text": "una manzana en el microondas",
+        "text": "berenjenas en el microondas",
         "rank": 5
       },
       {
-        "text": "berenjenas en el microondas",
+        "text": "berenjenas",
         "rank": 6
       },
       {
-        "text": "pimientos en el horno",
+        "text": "patatas en el microondas",
         "rank": 7
       },
       {
-        "text": "patatas en el microondas",
+        "text": "patatas en la freidora de aire",
         "rank": 8
       },
       {
-        "text": "pimientos en el microondas",
+        "text": "patatas en el horno",
         "rank": 9
       },
       {
-        "text": "pimientos en la freidora de aire",
+        "text": "pimientos rojos en el horno",
         "rank": 10
       }
     ]
@@ -818,11 +588,11 @@
     "question": "está bien comer",
     "answers": [
       {
-        "text": "huevo todos los días",
+        "text": "huevo crudo",
         "rank": 1
       },
       {
-        "text": "fruta en la noche",
+        "text": "tres veces al día",
         "rank": 2
       },
       {
@@ -830,11 +600,11 @@
         "rank": 3
       },
       {
-        "text": "manzana de noche",
+        "text": "huevo todos los días",
         "rank": 4
       },
       {
-        "text": "después de hacer ejercicio",
+        "text": "fruta en la noche",
         "rank": 5
       },
       {
@@ -844,17 +614,50 @@
       {
         "text": "dos veces al día",
         "rank": 7
+      }
+    ]
+  },
+  {
+    "question": "es seguro comer",
+    "answers": [
+      {
+        "text": "en marrakech",
+        "rank": 1
       },
       {
-        "text": "tres veces al día",
+        "text": "atun crudo",
+        "rank": 2
+      },
+      {
+        "text": "salmon",
+        "rank": 3
+      },
+      {
+        "text": "salmon crudo",
+        "rank": 4
+      },
+      {
+        "text": "jamon congelado en el embarazo",
+        "rank": 5
+      },
+      {
+        "text": "huevo crudo en españa",
+        "rank": 6
+      },
+      {
+        "text": "panga",
+        "rank": 7
+      },
+      {
+        "text": "tartar",
         "rank": 8
       },
       {
-        "text": "plátanos mientras tomo bisoprolol",
+        "text": "queso pasteurizado en el embarazo",
         "rank": 9
       },
       {
-        "text": "huevo crudo",
+        "text": "en tailandia",
         "rank": 10
       }
     ]
@@ -863,43 +666,43 @@
     "question": "la col rizada es",
     "answers": [
       {
-        "text": "buena",
+        "text": "lo mismo que el kale",
         "rank": 1
       },
       {
-        "text": "amarga",
+        "text": "una lechuga",
         "rank": 2
       },
       {
-        "text": "una lechuga",
+        "text": "buena para los perros",
         "rank": 3
       },
       {
-        "text": "la misma lechuga crespa",
+        "text": "amarga",
         "rank": 4
       },
       {
-        "text": "el repollo",
+        "text": "la misma lechuga",
         "rank": 5
       },
       {
-        "text": "buena para los perros",
+        "text": "igual que el repollo",
         "rank": 6
       },
       {
-        "text": "la misma lechuga",
+        "text": "la misma lechuga crespa",
         "rank": 7
       },
       {
-        "text": "igual que el repollo",
+        "text": "buena",
         "rank": 8
       },
       {
-        "text": "lo mismo que el repollo",
+        "text": "el repollo",
         "rank": 9
       },
       {
-        "text": "lo mismo que el kale",
+        "text": "lo mismo que el repollo",
         "rank": 10
       }
     ]
@@ -912,84 +715,39 @@
         "rank": 1
       },
       {
-        "text": "malo",
+        "text": "triñe",
         "rank": 2
-      },
-      {
-        "text": "saludable",
-        "rank": 3
-      },
-      {
-        "text": "bueno",
-        "rank": 4
-      },
-      {
-        "text": "bueno para la salud",
-        "rank": 5
-      },
-      {
-        "text": "bueno para los perros",
-        "rank": 6
-      },
-      {
-        "text": "malo para el colesterol",
-        "rank": 7
-      },
-      {
-        "text": "malo para los perros",
-        "rank": 8
       },
       {
         "text": "sano",
-        "rank": 9
-      },
-      {
-        "text": "triñe",
-        "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "para microondas",
-    "answers": [
-      {
-        "text": "plato",
-        "rank": 1
-      },
-      {
-        "text": "empotrar",
-        "rank": 2
-      },
-      {
-        "text": "dibujar",
         "rank": 3
       },
       {
-        "text": "camion",
+        "text": "bueno para los perros",
         "rank": 4
       },
       {
-        "text": "que sirve",
+        "text": "malo para el colesterol",
         "rank": 5
       },
       {
-        "text": "autocaravana",
+        "text": "malo para los perros",
         "rank": 6
       },
       {
-        "text": "muebles",
+        "text": "saludable",
         "rank": 7
       },
       {
-        "text": "restaurante",
+        "text": "bueno para la salud",
         "rank": 8
       },
       {
-        "text": "whirlpool",
+        "text": "malo",
         "rank": 9
       },
       {
-        "text": "carro",
+        "text": "bueno",
         "rank": 10
       }
     ]
@@ -998,43 +756,43 @@
     "question": "qué pasa si bebes",
     "answers": [
       {
-        "text": "agua no potable",
+        "text": "mucha agua",
         "rank": 1
       },
       {
-        "text": "mucha cerveza",
+        "text": "mucha coca-cola",
         "rank": 2
       },
       {
-        "text": "mucha leche",
+        "text": "agua no potable",
         "rank": 3
       },
       {
-        "text": "mucha agua",
+        "text": "mucho aquarius",
         "rank": 4
       },
       {
-        "text": "demasiada agua",
+        "text": "agua con limón",
         "rank": 5
       },
       {
-        "text": "agua caliente",
+        "text": "demasiada agua",
         "rank": 6
       },
       {
-        "text": "mucha coca-cola",
+        "text": "mucha leche",
         "rank": 7
       },
       {
-        "text": "poca agua",
+        "text": "agua caliente",
         "rank": 8
       },
       {
-        "text": "agua con limón",
+        "text": "alcohol tomando antibióticos",
         "rank": 9
       },
       {
-        "text": "alcohol tomando antibióticos",
+        "text": "mucha cerveza",
         "rank": 10
       }
     ]
@@ -1043,11 +801,11 @@
     "question": "qué pasa si comes",
     "answers": [
       {
-        "text": "muchas cerezas",
+        "text": "pollo crudo",
         "rank": 1
       },
       {
-        "text": "sandía por la noche",
+        "text": "muchas proteínas",
         "rank": 2
       },
       {
@@ -1055,19 +813,19 @@
         "rank": 3
       },
       {
-        "text": "muchas proteínas",
+        "text": "muchas pipas",
         "rank": 4
       },
       {
-        "text": "mucho tomate",
+        "text": "sandía por la noche",
         "rank": 5
       },
       {
-        "text": "mucho azúcar",
+        "text": "mucha sal",
         "rank": 6
       },
       {
-        "text": "muchas pipas",
+        "text": "muchas cerezas",
         "rank": 7
       },
       {
@@ -1075,87 +833,12 @@
         "rank": 8
       },
       {
-        "text": "nata cortada",
+        "text": "mucho tomate",
         "rank": 9
       },
       {
-        "text": "mucha sal",
+        "text": "nata cortada",
         "rank": 10
-      }
-    ]
-  },
-  {
-    "question": "qué pasa si calientas en microondas",
-    "answers": [
-      {
-        "text": "icroondas",
-        "rank": 1
-      },
-      {
-        "text": "microondas",
-        "rank": 2
-      },
-      {
-        "text": "croondas",
-        "rank": 3
-      },
-      {
-        "text": "l microondas",
-        "rank": 4
-      },
-      {
-        "text": "roondas",
-        "rank": 5
-      }
-    ]
-  },
-  {
-    "question": "por qué los chefs",
-    "answers": [
-      {
-        "text": "usan gorros altos",
-        "rank": 1
-      },
-      {
-        "text": "es chefs son hombres",
-        "rank": 2
-      },
-      {
-        "text": "utilizan sartenes de aluminio",
-        "rank": 3
-      },
-      {
-        "text": "usan gorro",
-        "rank": 4
-      },
-      {
-        "text": "no usan guantes",
-        "rank": 5
-      }
-    ]
-  },
-  {
-    "question": "restaurantes cerca que venden",
-    "answers": [
-      {
-        "text": "cerca de mi",
-        "rank": 1
-      },
-      {
-        "text": "cos cerca de mi",
-        "rank": 2
-      },
-      {
-        "text": "sta cerca de mi",
-        "rank": 3
-      },
-      {
-        "text": "do cerca de mi",
-        "rank": 4
-      },
-      {
-        "text": "s cerca de mi",
-        "rank": 5
       }
     ]
   },
@@ -1163,43 +846,43 @@
     "question": "recetas de",
     "answers": [
       {
-        "text": "cocina",
+        "text": "calabacín",
         "rank": 1
       },
       {
-        "text": "salmon",
+        "text": "berenjenas",
         "rank": 2
       },
       {
-        "text": "calabacín",
+        "text": "pasta",
         "rank": 3
       },
       {
-        "text": "bacalao",
+        "text": "pollo",
         "rank": 4
       },
       {
-        "text": "berenjenas",
+        "text": "salmon",
         "rank": 5
       },
       {
-        "text": "pollo",
+        "text": "cocina",
         "rank": 6
       },
       {
-        "text": "solomillo de cerdo",
+        "text": "verano",
         "rank": 7
       },
       {
-        "text": "pasta",
+        "text": "ensaladas",
         "rank": 8
       },
       {
-        "text": "verano",
+        "text": "bacalao",
         "rank": 9
       },
       {
-        "text": "ensaladas",
+        "text": "solomillo de cerdo",
         "rank": 10
       }
     ]
@@ -1208,19 +891,19 @@
     "question": "ingredientes de",
     "answers": [
       {
-        "text": "la paella",
+        "text": "l chocolate de dubai",
         "rank": 1
       },
       {
-        "text": "l salmorejo",
+        "text": "la paella",
         "rank": 2
       },
       {
-        "text": "l gazpacho",
+        "text": "l pisto",
         "rank": 3
       },
       {
-        "text": "la ensaladilla rusa",
+        "text": "la paella valenciana",
         "rank": 4
       },
       {
@@ -1228,19 +911,19 @@
         "rank": 5
       },
       {
-        "text": "la paella valenciana",
+        "text": "ensalada de pasta",
         "rank": 6
       },
       {
-        "text": "l chocolate de dubai",
+        "text": "la ensaladilla rusa",
         "rank": 7
       },
       {
-        "text": "l pisto",
+        "text": "l gazpacho",
         "rank": 8
       },
       {
-        "text": "ensalada de pasta",
+        "text": "l salmorejo",
         "rank": 9
       },
       {
@@ -1253,23 +936,23 @@
     "question": "cocina de",
     "answers": [
       {
-        "text": "gas portatil",
+        "text": "induccion",
         "rank": 1
       },
       {
-        "text": "leña",
+        "text": "juguete",
         "rank": 2
       },
       {
-        "text": "gas butano",
+        "text": "gas portatil",
         "rank": 3
       },
       {
-        "text": "induccion",
+        "text": "obra",
         "rank": 4
       },
       {
-        "text": "camping",
+        "text": "gas butano",
         "rank": 5
       },
       {
@@ -1277,11 +960,11 @@
         "rank": 6
       },
       {
-        "text": "obra",
+        "text": "cathlon",
         "rank": 7
       },
       {
-        "text": "juguete",
+        "text": "leña",
         "rank": 8
       },
       {
@@ -1298,19 +981,19 @@
     "question": "restaurantes de",
     "answers": [
       {
-        "text": "carretera cerca de mi ubicación",
+        "text": "moda madrid 2025",
         "rank": 1
       },
       {
-        "text": "moda madrid",
+        "text": "lta del ebro",
         "rank": 2
       },
       {
-        "text": "moda madrid 2025",
+        "text": "moda en valencia",
         "rank": 3
       },
       {
-        "text": "moda en zaragoza",
+        "text": "david muñoz",
         "rank": 4
       },
       {
@@ -1318,7 +1001,7 @@
         "rank": 5
       },
       {
-        "text": "lta del ebro",
+        "text": "carretera cerca de mi ubicación",
         "rank": 6
       },
       {
@@ -1326,15 +1009,15 @@
         "rank": 7
       },
       {
-        "text": "nia",
+        "text": "moda madrid",
         "rank": 8
       },
       {
-        "text": "david muñoz",
+        "text": "nia",
         "rank": 9
       },
       {
-        "text": "moda en valencia",
+        "text": "moda en zaragoza",
         "rank": 10
       }
     ]
@@ -1343,23 +1026,23 @@
     "question": "bebidas de",
     "answers": [
       {
-        "text": "verano",
+        "text": "l sur",
         "rank": 1
       },
       {
-        "text": "starbucks",
+        "text": "sinflamatorias",
         "rank": 2
       },
       {
-        "text": "stiladas y fermentadas",
+        "text": "stiladas",
         "rank": 3
       },
       {
-        "text": "l sur",
+        "text": "portivas",
         "rank": 4
       },
       {
-        "text": "stiladas",
+        "text": "verano",
         "rank": 5
       },
       {
@@ -1367,19 +1050,19 @@
         "rank": 6
       },
       {
-        "text": "tox",
+        "text": "mercadona",
         "rank": 7
       },
       {
-        "text": "mercadona",
+        "text": "stiladas y fermentadas",
         "rank": 8
       },
       {
-        "text": "sinflamatorias",
+        "text": "starbucks",
         "rank": 9
       },
       {
-        "text": "portivas",
+        "text": "tox",
         "rank": 10
       }
     ]
@@ -1388,43 +1071,43 @@
     "question": "postres de",
     "answers": [
       {
-        "text": "l valle",
+        "text": "verano",
         "rank": 1
       },
       {
-        "text": "verano",
+        "text": "verano fáciles",
         "rank": 2
       },
       {
-        "text": "mesa sl",
+        "text": "mercadona",
         "rank": 3
       },
       {
-        "text": "plátano sencillos",
+        "text": "manzana",
         "rank": 4
       },
       {
-        "text": "chocolate",
+        "text": "l valle",
         "rank": 5
       },
       {
-        "text": "verano fáciles",
+        "text": "plátano sencillos",
         "rank": 6
       },
       {
-        "text": "limon",
+        "text": "chocolate",
         "rank": 7
       },
       {
-        "text": "manzana",
+        "text": "platano",
         "rank": 8
       },
       {
-        "text": "plátano y yogur",
+        "text": "mesa sl",
         "rank": 9
       },
       {
-        "text": "mercadona",
+        "text": "limon",
         "rank": 10
       }
     ]
@@ -1437,15 +1120,15 @@
         "rank": 1
       },
       {
-        "text": "de españa",
+        "text": "aragonesa",
         "rank": 2
       },
       {
-        "text": "asturiana",
+        "text": "de españa",
         "rank": 3
       },
       {
-        "text": "andaluza",
+        "text": "alicante",
         "rank": 4
       },
       {
@@ -1453,23 +1136,23 @@
         "rank": 5
       },
       {
-        "text": "sevilla",
+        "text": "de francia",
         "rank": 6
       },
       {
-        "text": "alemana",
+        "text": "catalana",
         "rank": 7
       },
       {
-        "text": "alicante",
+        "text": "estados unidos",
         "rank": 8
       },
       {
-        "text": "amsterdam",
+        "text": "alemana",
         "rank": 9
       },
       {
-        "text": "japonesa",
+        "text": "andaluza",
         "rank": 10
       }
     ]
@@ -1478,11 +1161,11 @@
     "question": "especialidades de",
     "answers": [
       {
-        "text": "vigilante de seguridad",
+        "text": "enfermeria en españa",
         "rank": 1
       },
       {
-        "text": "medicina",
+        "text": "vigilante de seguridad",
         "rank": 2
       },
       {
@@ -1490,23 +1173,23 @@
         "rank": 3
       },
       {
-        "text": "derecho",
+        "text": "medicina",
         "rank": 4
       },
       {
-        "text": "enfermeria en españa",
+        "text": "enfermeria",
         "rank": 5
       },
       {
-        "text": "l eir",
+        "text": "odontologia",
         "rank": 6
       },
       {
-        "text": "enfermeria",
+        "text": "derecho",
         "rank": 7
       },
       {
-        "text": "l obrador",
+        "text": "l eir",
         "rank": 8
       },
       {
@@ -1514,7 +1197,7 @@
         "rank": 9
       },
       {
-        "text": "odontologia",
+        "text": "l obrador",
         "rank": 10
       }
     ]
@@ -1523,143 +1206,134 @@
     "question": "mejor receta para",
     "answers": [
       {
-        "text": "hamburguesas",
+        "text": "panqueques",
         "rank": 1
       },
       {
-        "text": "carne de hamburguesa",
+        "text": "masa de pizza",
         "rank": 2
       },
       {
-        "text": "masa de pizza",
+        "text": "salmon",
         "rank": 3
       },
       {
-        "text": "waffles",
+        "text": "crepas",
         "rank": 4
       },
       {
-        "text": "salmon",
+        "text": "pizza",
         "rank": 5
       },
       {
-        "text": "panqueques",
+        "text": "pancakes",
         "rank": 6
       },
       {
-        "text": "pancakes",
+        "text": "carne de hamburguesa",
         "rank": 7
       },
       {
-        "text": "pizza",
+        "text": "hamburguesas",
         "rank": 8
       },
       {
-        "text": "bajar de peso",
+        "text": "waffles",
         "rank": 9
       },
       {
-        "text": "crepas",
+        "text": "bajar de peso",
         "rank": 10
       }
     ]
   },
   {
-    "question": "puedes freír",
+    "question": "puedes beber",
     "answers": [
       {
-        "text": "con aceite de aguacate",
+        "text": "agua antes de una analítica",
         "rank": 1
       },
       {
-        "text": "en una olla",
+        "text": "agua antes de un análisis de sangre",
         "rank": 2
       },
       {
-        "text": "un huevo",
+        "text": "alcohol despues de tatuarte",
         "rank": 3
       },
       {
-        "text": "queso fresco",
+        "text": "agua mientras conduces",
         "rank": 4
       },
       {
-        "text": "reír en una freidora de aire",
+        "text": "agua en ayunas",
         "rank": 5
       },
       {
-        "text": "con agua",
+        "text": "agua antes de una analítica de sangre",
         "rank": 6
       },
       {
-        "text": "en la thermomix",
+        "text": "alcohol si tomas antidepresivos",
         "rank": 7
       },
       {
-        "text": "con aceite de oliva",
+        "text": "alcohol si tomas ibuprofeno",
         "rank": 8
       },
       {
-        "text": "con aceite de coco",
+        "text": "agua antes de una operacion",
         "rank": 9
+      },
+      {
+        "text": "alcohol si tomas paracetamol",
+        "rank": 10
       }
     ]
   },
   {
-    "question": "puedes comer caducado",
+    "question": "puedes comer",
     "answers": [
       {
-        "text": "e caducado",
+        "text": "marisco embarazada",
         "rank": 1
       },
       {
-        "text": "ucado",
+        "text": "huevo frito embarazada",
         "rank": 2
       },
       {
-        "text": "s caducados",
+        "text": "despues de una limpieza dental",
         "rank": 3
       },
       {
-        "text": "cado",
+        "text": "despues de una colonoscopia",
         "rank": 4
       },
       {
-        "text": "caducado",
+        "text": "sushi embarazada",
         "rank": 5
       },
       {
-        "text": "ducado",
+        "text": "despues de un empaste",
         "rank": 6
       },
       {
-        "text": "aducado",
+        "text": "picante en el embarazo",
         "rank": 7
       },
       {
-        "text": "aducados",
+        "text": "jamon embarazada",
         "rank": 8
-      }
-    ]
-  },
-  {
-    "question": "cómo elegir maduro",
-    "answers": [
-      {
-        "text": "o maduro",
-        "rank": 1
       },
       {
-        "text": "on tuna maduro",
-        "rank": 2
+        "text": "fuet estando embarazada",
+        "rank": 9
       },
       {
-        "text": "maduro",
-        "rank": 3
-      },
-      {
-        "text": "te maduro",
-        "rank": 4
+        "text": "antes de donar sangre",
+        "rank": 10
       }
     ]
   },
@@ -1667,43 +1341,43 @@
     "question": "cómo comer",
     "answers": [
       {
-        "text": "aguacate",
+        "text": "la quinoa",
         "rank": 1
       },
       {
-        "text": "el requesón",
+        "text": "tofu",
         "rank": 2
       },
       {
-        "text": "tofu",
+        "text": "la avena",
         "rank": 3
       },
       {
-        "text": "la quinoa",
+        "text": "el requesón",
         "rank": 4
       },
       {
-        "text": "la remolacha",
+        "text": "aguacate",
         "rank": 5
       },
       {
-        "text": "la papaya",
+        "text": "la remolacha",
         "rank": 6
       },
       {
-        "text": "la avena",
+        "text": "con palillos chinos",
         "rank": 7
       },
       {
-        "text": "con palillos chinos",
+        "text": "la chía",
         "rank": 8
       },
       {
-        "text": "la chía",
+        "text": "el queso cottage",
         "rank": 9
       },
       {
-        "text": "el queso cottage",
+        "text": "la papaya",
         "rank": 10
       }
     ]
