@@ -17,12 +17,14 @@ Un juego estilo Google Feud en español donde los jugadores adivinan las respues
 
 ```
 google-feud-espanol/
-├── index.html          # Página principal del juego
-├── styles.css          # Estilos CSS (estilo Google)
-├── script.js           # Lógica del juego en JavaScript
-├── docker-compose.yml  # Configuración Docker
-├── nginx.conf          # Configuración del servidor Nginx
-├── data/               # Archivos JSON con preguntas y respuestas
+├── index.html           # Página principal del juego
+├── styles.css           # Estilos CSS (estilo Google)
+├── script.js            # Lógica del juego en JavaScript
+├── generate_game_data.py # Script para generar datos del juego automáticamente
+├── docker-compose.yml   # Configuración Docker
+├── nginx.conf           # Configuración del servidor Nginx
+├── data/                # Archivos JSON con preguntas y respuestas
+│   ├── seed.json        # Consultas semilla para generar datos
 │   ├── cultura.json
 │   ├── personas.json
 │   ├── nombres.json
@@ -68,16 +70,74 @@ Cada categoría tiene su propio archivo JSON en la carpeta `data/`. El formato e
 - Los ranks van de 1 (más popular) a 10 (menos popular)
 - **Los puntos se calculan automáticamente**: Rank 1 = 10,000 puntos, Rank 10 = 1,000 puntos
 - Las respuestas deben estar ordenadas por popularidad (rank 1 a 10)
+
+## 🤖 Generación automática de datos
+
+### Script `generate_game_data.py`
+
+El proyecto incluye un script en Python que puede generar automáticamente preguntas y respuestas utilizando la API de autocompletado de Google. Este script:
+
+- 📖 Lee consultas semilla desde `data/seed.json`
+- 🔍 Obtiene sugerencias de autocompletado de Google para cada consulta
+- 🎯 Genera preguntas de juego con respuestas ordenadas por popularidad
+- 💾 Guarda los datos en los archivos JSON correspondientes de cada categoría
+
+### Archivo `seed.json`
+
+El archivo `data/seed.json` contiene las consultas base organizadas por categoría:
+
+```json
+{
+  "cultura": [
+    "por qué los españoles",
+    "cómo es la cultura",
+    "qué tradiciones tienen",
+    ...
+  ],
+  "personas": [
+    "por qué la gente",
+    "cómo son las personas",
+    ...
+  ],
+  ...
+}
 ```
 
-### Reglas para las respuestas:
-- Cada pregunta debe tener exactamente 10 respuestas
-- Los puntos van de 1000 (más popular) a 100 (menos popular)
-- Las respuestas deben estar ordenadas por popularidad (mayor a menor puntuación)
+### Cómo usar el generador de datos
+
+1. **Instalar dependencias de Python:**
+   ```bash
+   pip install requests
+   ```
+
+2. **Editar las consultas semilla:**
+   - Modifica `data/seed.json` para agregar, quitar o cambiar consultas base
+   - Cada consulta debe ser un fragmento de búsqueda en español
+
+3. **Ejecutar el generador:**
+   ```bash
+   python generate_game_data.py
+   ```
+
+4. **El script automáticamente:**
+   - Obtiene sugerencias de Google para cada consulta
+   - Filtra y limpia las respuestas
+   - Genera archivos JSON con formato compatible con el juego
+   - Incluye limitación de velocidad para evitar bloqueos
+
+### Características del generador:
+- ✅ **Rate limiting inteligente**: Evita ser bloqueado por Google
+- ✅ **Expansión alfabética**: Si no hay suficientes sugerencias, prueba con sufijos
+- ✅ **Filtrado automático**: Limpia y filtra respuestas irrelevantes
+- ✅ **Soporte multiidioma**: Configurado específicamente para español
+- ✅ **Reintentos automáticos**: Maneja errores de red y límites de velocidad
+- ✅ **Logging detallado**: Muestra el progreso de cada consulta
+
+**Nota:** El uso de este script debe ser responsable y respetar los términos de servicio de Google. Se recomienda usar con moderación y espaciar las ejecuciones.
 
 ## 🚀 Cómo ejecutar el juego
 
-### Opción 1: Usar Docker (Recomendado)
+### Usar Docker
 
 1. Clona o descarga este repositorio
 2. Asegúrate de tener Docker y Docker Compose instalados
@@ -112,30 +172,33 @@ docker-compose down
 - **CSS3**: Estilos y animaciones
 - **JavaScript ES6**: Lógica del juego
 - **jQuery**: Manipulación del DOM y eventos
+- **Python 3**: Script de generación automática de datos
 - **JSON**: Almacenamiento de datos
 
 ## 📝 Características
 
 - ✅ Interfaz responsive (funciona en móviles y desktop)
-- ✅ **Diseño estilo Google Search** con colores y elementos familiares
+- ✅ Diseño estilo Google Search** con colores y elementos familiares
 - ✅ 7 categorías diferentes
-- ✅ 10 rondas por juego
-- ✅ **Selección de categoría después de cada ronda**
+- ✅ 3 rondas por juego
 - ✅ 4 intentos por ronda (límite estricto)
-- ✅ **Sistema de puntuación mejorado** (10,000 - 1,000 puntos por respuesta)
-- ✅ **Feedback visual para respuestas incorrectas** (✗ roja animada)
+- ✅ Feedback visual para respuestas incorrectas (✗ roja animada)
 - ✅ Animaciones suaves
 - ✅ Fácil edición de preguntas (archivos JSON con ranks)
 - ✅ Búsqueda flexible (ignora acentos y mayúsculas)
-- ✅ **Docker setup con Nginx** para fácil despliegue
-- ✅ **Configuración de servidor optimizada** con compresión y caché
+- ✅ Docker setup con Nginx para fácil despliegue
 
 ## 🎯 Personalización
 
 ### Agregar nuevas categorías:
-1. Crea un nuevo archivo JSON en la carpeta `data/`
-2. Agrega el botón de categoría en `index.html`
-3. Actualiza el array de categorías en `script.js`
+1. Agrega consultas semilla en `data/seed.json` para la nueva categoría
+2. Ejecuta `python generate_game_data.py` para generar los datos automáticamente
+3. Agrega el botón de categoría en `index.html`
+4. Actualiza el array de categorías en `script.js`
+
+### Actualizar preguntas existentes:
+- **Opción 1 (Automática)**: Modifica las consultas en `data/seed.json` y ejecuta el script
+- **Opción 2 (Manual)**: Edita directamente los archivos JSON en la carpeta `data/`
 
 ### Cambiar el número de rondas:
 Modifica la variable en `script.js` donde dice `this.currentRound <= 10`
